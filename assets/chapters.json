@@ -1,0 +1,371 @@
+[
+  {
+    "chapter_number": {
+      "hindi": "अध्याय 1",
+      "gujarati": "અધ્યાય 1",
+      "english": "Chapter 1",
+      "sanskrit": "अध्यायः 1"
+    },
+    "chapter_summary": "The first chapter introduces the battlefield of Kurukshetra and sets the stage for the discourse of the Bhagavad Gita.",
+    "chapter_summary_hindi": "पहला अध्याय कुरुक्षेत्र के युद्धभूमि का परिचय देता है और गीता के संवाद की पृष्ठभूमि तैयार करता है।",
+    "chapter_summary_gujarati": "પ્રથમ અધ્યાય કુરુક્ષેત્રના યુદ્ધમેદાનનો પરિચય આપે છે અને ગીતા સંવાદ માટે પૃષ્ઠભૂમિ બનાવે છે.",
+    "chapter_summary_sanskrit": "प्रथम अध्यायः कुरुक्षेत्र क्षेत्रं परिचयः कर्तुं गीता संवादस्य आरम्भं करोति।",
+    "id": 1,
+    "name": {
+      "hindi": "अर्जुनविषादयोग",
+      "gujarati": "અર્જુનવિષાદયોગ",
+      "english": "Arjuna's Dilemma",
+      "sanskrit": "अर्जुनविषादयोगः"
+    },
+    "verses_count": 47
+  },
+  {
+    "chapter_number": {
+      "hindi": "अध्याय 2",
+      "gujarati": "અધ્યાય 2",
+      "english": "Chapter 2",
+      "sanskrit": "अध्यायः 2"
+    },
+    "chapter_summary": "This chapter explains the eternal nature of the soul and the importance of performing duties without attachment.",
+    "chapter_summary_hindi": "यह अध्याय आत्मा की शाश्वत प्रकृति और कर्म के प्रति आसक्ति रहित रहने का महत्व बताता है।",
+    "chapter_summary_gujarati": "આ અધ્યાય આત્માની શાશ્વત પ્રકૃતિ અને નિષ્કામ કર્મનું મહત્વ સમજાવે છે.",
+    "chapter_summary_sanskrit": "द्वितीय अध्यायः आत्मनः शाश्वतस्वभावः कर्मणि अनासक्तिः च वर्णयति।",
+    "id": 2,
+    "name": {
+      "hindi": "सांख्ययोग",
+      "gujarati": "સાંખ્યયોગ",
+      "english": "The Yoga of Knowledge",
+      "sanskrit": "सांख्ययोगः"
+    },
+    "verses_count": 72
+  },
+  {
+    "chapter_number": {
+      "hindi": "अध्याय 3",
+      "gujarati": "અધ્યાય 3",
+      "english": "Chapter 3",
+      "sanskrit": "अध्यायः 3"
+    },
+    "chapter_summary": "This chapter elaborates on selfless action and the need to fulfill one’s responsibilities.",
+    "chapter_summary_hindi": "यह अध्याय निःस्वार्थ कर्म और अपने उत्तरदायित्वों को निभाने की आवश्यकता पर जोर देता है।",
+    "chapter_summary_gujarati": "આ અધ્યાય નિષ્કામ કર્મ અને જવાબદારીઓને પુરા કરવા માટે જરૂરી વાતો કહે છે.",
+    "chapter_summary_sanskrit": "तृतीय अध्यायः निष्कामकर्मस्य महत्त्वं कर्तव्यनिर्वहणस्य आवश्यकीयत्वं च वर्णयति।",
+    "id": 3,
+    "name": {
+      "hindi": "कर्मयोग",
+      "gujarati": "કર્મયોગ",
+      "english": "The Yoga of Action",
+      "sanskrit": "कर्मयोगः"
+    },
+    "verses_count": 43
+  },
+  {
+    "chapter_number": {
+      "hindi": "अध्याय 4",
+      "gujarati": "અધ્યાય 4",
+      "english": "Chapter 4",
+      "sanskrit": "अध्यायः 4"
+    },
+    "chapter_summary": "This chapter discusses divine wisdom and the significance of selfless action.",
+    "chapter_summary_hindi": "यह अध्याय दिव्य ज्ञान और निःस्वार्थ कर्म के महत्व को समझाता है।",
+    "chapter_summary_gujarati": "આ અધ્યાય દૈવી જ્ઞાન અને નિષ્કામ કર્મનું મહત્વ દર્શાવે છે.",
+    "chapter_summary_sanskrit": "चतुर्थ अध्यायः दिव्यज्ञानं कर्मणि अनासक्तिं च वर्णयति।",
+    "id": 4,
+    "name": {
+      "hindi": "ज्ञानयोग",
+      "gujarati": "જ્ઞાનયોગ",
+      "english": "The Yoga of Knowledge and Wisdom",
+      "sanskrit": "ज्ञानयोगः"
+    },
+    "verses_count": 42
+  },
+
+  {
+    "chapter_number": {
+      "hindi": "अध्याय 5",
+      "gujarati": "અધ્યાય 5",
+      "english": "Chapter 5",
+      "sanskrit": "अध्यायः 5"
+    },
+    "chapter_summary": "This chapter emphasizes renunciation and its integration with disciplined action.",
+    "chapter_summary_hindi": "यह अध्याय त्याग और अनुशासन के साथ कर्म के महत्व को समझाता है।",
+    "chapter_summary_gujarati": "આ અધ્યાય ત્યાગ અને શિસ્તબદ્ધ કર્મનું મહત્વ દર્શાવે છે.",
+    "chapter_summary_sanskrit": "पञ्चम अध्यायः त्यागस्य अनुशासनयुक्तकर्मणः च महत्त्वं वर्णयति।",
+    "id": 5,
+    "name": {
+      "hindi": "कर्मवैराग्ययोग",
+      "gujarati": "કર્મવૈરાગ્યયોગ",
+      "english": "The Yoga of Renunciation",
+      "sanskrit": "कर्मवैराग्ययोगः"
+    },
+    "verses_count": 29
+  },
+
+  {
+    "chapter_number": {
+      "hindi": "अध्याय 6",
+      "gujarati": "અધ્યાય 6",
+      "english": "Chapter 6",
+      "sanskrit": "अध्यायः 6"
+    },
+    "chapter_summary": "This chapter highlights the practice of meditation for self-realization.",
+    "chapter_summary_hindi": "यह अध्याय आत्म-साक्षात्कार के लिए ध्यान के अभ्यास को रेखांकित करता है।",
+    "chapter_summary_gujarati": "આ અધ્યાય આત્મસાક્ષાત્કાર માટે ધ્યાનના પ્રયોગને ઝાંખે છે.",
+    "chapter_summary_sanskrit": "षष्ठ अध्यायः आत्मसाक्षात्काराय ध्यानस्य प्रयोगं विवृणोति।",
+    "id": 6,
+    "name": {
+      "hindi": "ध्यानयोग",
+      "gujarati": "ધ્યાનયોગ",
+      "english": "The Yoga of Meditation",
+      "sanskrit": "ध्यानयोगः"
+    },
+    "verses_count": 47
+  },
+  {
+    "chapter_number": {
+      "hindi": "अध्याय 7",
+      "gujarati": "અધ્યાય 7",
+      "english": "Chapter 7",
+      "sanskrit": "अध्यायः 7"
+    },
+    "chapter_summary": "This chapter reveals the nature of divine knowledge and the means to attain it.",
+    "chapter_summary_hindi": "यह अध्याय दिव्य ज्ञान और इसे प्राप्त करने के साधनों को उजागर करता है।",
+    "chapter_summary_gujarati": "આ અધ્યાય દૈવી જ્ઞાન અને તેને મેળવવાના ઉપાયો દર્શાવે છે.",
+    "chapter_summary_sanskrit": "सप्तम अध्यायः दिव्यज्ञानं तस्य प्राप्तये साधनानि च विवृणोति।",
+    "id": 7,
+    "name": {
+      "hindi": "ज्ञानविज्ञानयोग",
+      "gujarati": "જ્ઞાનવિજ્ઞાનયોગ",
+      "english": "The Yoga of Knowledge and Wisdom",
+      "sanskrit": "ज्ञानविज्ञानयोगः"
+    },
+    "verses_count": 30
+  },
+  {
+    "chapter_number": {
+      "hindi": "अध्याय 8",
+      "gujarati": "અધ્યાય 8",
+      "english": "Chapter 8",
+      "sanskrit": "अध्यायः 8"
+    },
+    "chapter_summary": "This chapter discusses the eternal Brahman and the importance of devotion at the time of death.",
+    "chapter_summary_hindi": "यह अध्याय शाश्वत ब्रह्म और मृत्यु के समय भक्ति के महत्व को समझाता है।",
+    "chapter_summary_gujarati": "આ અધ્યાય શાશ્વત બ્રહ્મ અને મૃત્યુ સમયે ભક્તિનું મહત્વ સમજાવે છે.",
+    "chapter_summary_sanskrit": "अष्टम अध्यायः शाश्वतब्रह्मणः मृत्युका भक्ति महत्वं च विवृणोति।",
+    "id": 8,
+    "name": {
+      "hindi": "अक्षरब्रह्मयोग",
+      "gujarati": "અક્ષરબ્રહ્મયોગ",
+      "english": "The Yoga of the Imperishable",
+      "sanskrit": "अक्षरब्रह्मयोगः"
+    },
+    "verses_count": 28
+  },
+  {
+      "chapter_number": {
+        "hindi": "अध्याय 9",
+        "gujarati": "અધ્યાય 9",
+        "english": "Chapter 9",
+        "sanskrit": "अध्यायः 9"
+      },
+      "chapter_summary": "This chapter discusses the most confidential knowledge, the supreme path of devotion, and the omnipresence of God.",
+      "chapter_summary_hindi": "यह अध्याय गुप्ततम ज्ञान, भक्ति का श्रेष्ठ मार्ग और भगवान की सर्वव्यापकता पर चर्चा करता है।",
+      "chapter_summary_gujarati": "આ અધ્યાય ગુપ્તતમ જ્ઞાન, ભક્તિનો શ્રેષ્ઠ માર્ગ અને ભગવાનની સર્વવ્યાપકતા પર ચર્ચા કરે છે.",
+      "chapter_summary_sanskrit": "नवम अध्यायः गुप्ततमं ज्ञानं, भक्ति श्रेष्ठमार्गं च ईश्वरस्य सर्वव्यापकत्वं वर्णयति।",
+      "id": 9,
+      "name": {
+        "hindi": "राजविद्याराजगुह्ययोग",
+        "gujarati": "રાજવિદ્યારાજગુહ્યયોગ",
+        "english": "The Yoga of Sovereign Knowledge and Secret",
+        "sanskrit": "राजविद्याराजगुह्ययोगः"
+      },
+      "verses_count": 34
+    },
+
+
+  {
+      "chapter_number": {
+        "hindi": "अध्याय 10",
+        "gujarati": "અધ્યાય 10",
+        "english": "Chapter 10",
+        "sanskrit": "अध्यायः 10"
+      },
+      "chapter_summary": "This chapter reveals the glories of the Supreme Being and how devotion leads to understanding the divine manifestations.",
+      "chapter_summary_hindi": "यह अध्याय परमात्मा की महिमा और भक्ति से ईश्वरीय स्वरूप को समझने पर जोर देता है।",
+      "chapter_summary_gujarati": "આ અધ્યાય પરમાત્માની મહિમા અને ભક્તિથી દૈવી સ્વરૂપને સમજવાની પ્રક્રિયા પર ભાર મૂકે છે.",
+      "chapter_summary_sanskrit": "दशम अध्यायः परमात्मनः महिमा, भक्ति च तस्य दैवी स्वरूपं विवृणोति।",
+      "id": 10,
+      "name": {
+        "hindi": "विभूतियोग",
+        "gujarati": "વિભૂતિયોગ",
+        "english": "The Yoga of Divine Glories",
+        "sanskrit": "विभूतियोगः"
+      },
+      "verses_count": 42
+    },
+  {
+      "chapter_number": {
+        "hindi": "अध्याय 11",
+        "gujarati": "અધ્યાય 11",
+        "english": "Chapter 11",
+        "sanskrit": "अध्यायः 11"
+      },
+      "chapter_summary": "This chapter provides a vision of the universal form of God, displaying divine magnificence and power.",
+      "chapter_summary_hindi": "यह अध्याय भगवान के विश्वरूप दर्शन और उनकी दिव्य महिमा और शक्ति को प्रदर्शित करता है।",
+      "chapter_summary_gujarati": "આ અધ્યાય ભગવાનના વિશ્વરૂપ દર્શન અને તેમનો દૈવી મહિમા અને શક્તિ દર્શાવે છે.",
+      "chapter_summary_sanskrit": "एकादश अध्यायः भगवानस्य विश्वरूपं, दिव्य महिमा च शक्तिं प्रदर्शयति।",
+      "id": 11,
+      "name": {
+        "hindi": "विश्वरूपदर्शनयोग",
+        "gujarati": "વિશ્વરૂપદર્શનયોગ",
+        "english": "The Yoga of the Vision of the Universal Form",
+        "sanskrit": "विश्वरूपदर्शनयोगः"
+      },
+      "verses_count": 55
+    },
+
+
+  {
+      "chapter_number": {
+        "hindi": "अध्याय 12",
+        "gujarati": "અધ્યાય 12",
+        "english": "Chapter 12",
+        "sanskrit": "अध्यायः 12"
+      },
+      "chapter_summary": "This chapter focuses on devotion and distinguishes between personal and impersonal worship.",
+      "chapter_summary_hindi": "यह अध्याय भक्ति पर केंद्रित है और व्यक्तिगत व निर्गुण उपासना के बीच अंतर स्पष्ट करता है।",
+      "chapter_summary_gujarati": "આ અધ્યાય ભક્તિ પર કેન્દ્રિત છે અને વ્યક્તિનિષ્ઠ તથા નિર્ગુણ ઉપાસનાની વિભાજન કરે છે.",
+      "chapter_summary_sanskrit": "द्वादश अध्यायः भक्तिं, व्यक्तिनिरपेक्षं च उपासनं विवेचनं करोति।",
+      "id": 12,
+      "name": {
+        "hindi": "भक्तियोग",
+        "gujarati": "ભક્તયોગ",
+        "english": "The Yoga of Devotion",
+        "sanskrit": "भक्तियोगः"
+      },
+      "verses_count": 20
+    },
+
+
+  {
+      "chapter_number": {
+        "hindi": "अध्याय 13",
+        "gujarati": "અધ્યાય 13",
+        "english": "Chapter 13",
+        "sanskrit": "अध्यायः 13"
+      },
+      "chapter_summary": "This chapter elaborates on the distinction between the physical body (field) and the soul (knower of the field).",
+      "chapter_summary_hindi": "यह अध्याय शरीर (क्षेत्र) और आत्मा (क्षेत्रज्ञ) के बीच अंतर को समझाता है।",
+      "chapter_summary_gujarati": "આ અધ્યાય શરીર (ક્ષેત્ર) અને આત્મા (ક્ષેત્રજ્ઞ) વચ્ચેનો ભેદ સમજાવે છે.",
+      "chapter_summary_sanskrit": "त्रयोदश अध्यायः शरीरं (क्षेत्रं) आत्मा (क्षेत्रज्ञः) च भेदं विवृणोति।",
+      "id": 13,
+      "name": {
+        "hindi": "क्षेत्र-क्षेत्रज्ञविभागयोग",
+        "gujarati": "ક્ષેત્ર-ક્ષેત્રજ્ઞવિભાગયોગ",
+        "english": "The Yoga of the Field and the Knower of the Field",
+        "sanskrit": "क्षेत्र-क्षेत्रज्ञविभागयोगः"
+      },
+      "verses_count": 35
+    },
+  {
+      "chapter_number": {
+        "hindi": "अध्याय 14",
+        "gujarati": "અધ્યાય 14",
+        "english": "Chapter 14",
+        "sanskrit": "अध्यायः 14"
+      },
+      "chapter_summary": "This chapter explains the three gunas (qualities) of nature—sattva, rajas, and tamas—and their effects on humans.",
+      "chapter_summary_hindi": "यह अध्याय प्रकृति के तीन गुणों—सत्त्व, रजस और तमस—और उनके प्रभाव को समझाता है।",
+      "chapter_summary_gujarati": "આ અધ્યાય પ્રકૃતિના ત્રણ ગુણો—સત્વ, રજસ અને તમસ—અને તેમનું માનવ પરનાં પ્રભાવો દર્શાવે છે.",
+      "chapter_summary_sanskrit": "चतुर्दश अध्यायः प्रकृतेः त्रिगुणं (सत्त्वं, रजसः, तमसः) च प्रभावं विवृणोति।",
+      "id": 14,
+      "name": {
+        "hindi": "गुणत्रयविभागयोग",
+        "gujarati": "ગુણત્રયવિભાગયોગ",
+        "english": "The Yoga of Division of the Three Gunas",
+        "sanskrit": "गुणत्रयविभागयोगः"
+      },
+      "verses_count": 27
+    },
+  {
+      "chapter_number": {
+        "hindi": "अध्याय 15",
+        "gujarati": "અધ્યાય 15",
+        "english": "Chapter 15",
+        "sanskrit": "अध्यायः 15"
+      },
+      "chapter_summary": "This chapter describes the symbolic inverted tree and explains the supreme goal of life.",
+      "chapter_summary_hindi": "यह अध्याय प्रतीकात्मक उल्टे वृक्ष का वर्णन करता है और जीवन के परम लक्ष्य को समझाता है।",
+      "chapter_summary_gujarati": "આ અધ્યાય પ્રતીકાત્મક ઉલટા વૃક્ષનું વર્ણન કરે છે અને જીવનના પરમ લક્ષ્યને સમજાવે છે.",
+      "chapter_summary_sanskrit": "पञ्चदश अध्यायः प्रतीकात्मकं उलटं वृक्षं तस्य परमं लक्ष्यम् च विवृणोति।",
+      "id": 15,
+      "name": {
+        "hindi": "पुरुषोत्तमयोग",
+        "gujarati": "પુરુષોત્તમયોગ",
+        "english": "The Yoga of the Supreme Person",
+        "sanskrit": "पुरुषोत्तमयोगः"
+      },
+      "verses_count": 20
+    },
+  {
+      "chapter_number": {
+        "hindi": "अध्याय 16",
+        "gujarati": "અધ્યાય 16",
+        "english": "Chapter 16",
+        "sanskrit": "अध्यायः 16"
+      },
+      "chapter_summary": "This chapter lists the divine and demoniacal qualities, showing the difference between the two.",
+      "chapter_summary_hindi": "यह अध्याय दैवी और आसुरी गुणों की सूची प्रस्तुत करता है और दोनों के बीच अंतर को स्पष्ट करता है।",
+      "chapter_summary_gujarati": "આ અધ્યાય દૈવી અને આસुरी ગુણોની યાદી રજૂ કરે છે અને બંને વચ્ચેના ભેદને સ્પષ્ટ કરે છે.",
+      "chapter_summary_sanskrit": "षोडश अध्यायः दैवी आसुरी च गुणान् प्रदर्शयति।",
+      "id": 16,
+      "name": {
+        "hindi": "दैवी आसुरीविभागयोग",
+        "gujarati": "દૈવી આસુરીવિભાગયોગ",
+        "english": "The Yoga of Division of the Divine and Demoniacal",
+        "sanskrit": "दैवी आसुरीविभागयोगः"
+      },
+      "verses_count": 24
+    },
+  {
+      "chapter_number": {
+        "hindi": "अध्याय 17",
+        "gujarati": "અધ્યાય 17",
+        "english": "Chapter 17",
+        "sanskrit": "अध्यायः 17"
+      },
+      "chapter_summary": "This chapter explains the threefold division of faith and the corresponding types of sacrifices.",
+      "chapter_summary_hindi": "यह अध्याय विश्वास के त्रैतीयक विभाजन और उनके अनुसार बलियों के प्रकार को समझाता है।",
+      "chapter_summary_gujarati": "આ અધ્યાય શ્રદ્ધાના ત્રૈતીયક વિભાજન અને તેમનુ અનુરૂપ યજ્ઞના પ્રકારને સમજાવે છે.",
+      "chapter_summary_sanskrit": "सप्तदश अध्यायः श्रद्धां त्रीणि वर्गीकृत्य यज्ञानां प्रकारं विवृणोति।",
+      "id": 17,
+      "name": {
+        "hindi": "श्रद्धातत्त्वविभागयोग",
+        "gujarati": "શ્રદ્ધાતત્ત્વવિભાગયોગ",
+        "english": "The Yoga of Division of Faith",
+        "sanskrit": "श्रद्धातत्त्वविभागयोगः"
+      },
+      "verses_count": 28
+    },
+  {
+      "chapter_number": {
+        "hindi": "अध्याय 18",
+        "gujarati": "અધ્યાય 18",
+        "english": "Chapter 18",
+        "sanskrit": "अध्यायः 18"
+      },
+      "chapter_summary": "This final chapter summarizes all aspects of the Bhagavad Gita, including the paths of knowledge, action, and devotion.",
+      "chapter_summary_hindi": "यह अंतिम अध्याय भगवद गीता के सभी पहलुओं का सारांश प्रस्तुत करता है, जिसमें ज्ञान, कर्म, और भक्ति के मार्ग शामिल हैं।",
+      "chapter_summary_gujarati": "આ છેલ્લો અધ્યાય ભગવદ ગીતાના તમામ પાસાઓનું સંક્ષેપ પ્રસ્તુત કરે છે, જેમાં જ્ઞાન, કર્મ, અને ભક્તિનો માર્ગ શામેલ છે.",
+      "chapter_summary_sanskrit": "अष्टादश अध्यायः भगवद्गीतायाः सर्वे मार्गाः—ज्ञान, कर्म, भक्ति—सम्पूर्णे समाहारं प्रस्तुतयति।",
+      "id": 18,
+      "name": {
+        "hindi": "मोक्षसंन्यासयोग",
+        "gujarati": "મોક્ષસન્ન્યાસયોગ",
+        "english": "The Yoga of Liberation and Renunciation",
+        "sanskrit": "मोक्षसंन्यासयोगः"
+      },
+      "verses_count": 78
+    }
+
+]
