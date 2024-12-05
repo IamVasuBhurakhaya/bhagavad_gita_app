@@ -1,4 +1,5 @@
 [
+
   {
     "id": 1,
     "chapter_number": 1,
@@ -191,7 +192,7 @@
       "gujarati": "શ્લોક 12"
     }
   },
-    {
+  {
       "id": 13,
       "chapter_number": 1,
       "text": {
@@ -207,7 +208,7 @@
         "gujarati": "શ્લોક 13"
       }
     },
-    {
+  {
       "id": 14,
       "chapter_number": 1,
       "text": {
@@ -223,7 +224,7 @@
         "gujarati": "શ્લોક 14"
       }
     },
-    {
+  {
       "id": 15,
       "chapter_number": 1,
       "text": {
@@ -239,7 +240,7 @@
         "gujarati": "શ્લોક 15"
       }
     },
-    {
+  {
       "id": 16,
       "chapter_number": 1,
       "text": {
@@ -255,7 +256,7 @@
         "gujarati": "શ્લોક 16"
       }
     },
-    {
+  {
       "id": 17,
       "chapter_number": 1,
       "text": {
@@ -271,7 +272,7 @@
         "gujarati": "શ્લોક 17"
       }
     },
-    {
+  {
       "id": 18,
       "chapter_number": 1,
       "text": {
@@ -287,7 +288,7 @@
         "gujarati": "શ્લોક 18"
       }
     },
-    {
+  {
       "id": 19,
       "chapter_number": 1,
       "text": {
@@ -303,7 +304,7 @@
         "gujarati": "શ્લોક 19"
       }
     },
-    {
+  {
       "id": 20,
       "chapter_number": 1,
       "text": {
@@ -319,7 +320,7 @@
         "gujarati": "શ્લોક 20"
       }
     },
-    {
+  {
       "id": 21,
       "chapter_number": 1,
       "text": {
@@ -335,7 +336,7 @@
         "gujarati": "શ્લોક 21"
       }
     },
-    {
+  {
       "id": 22,
       "chapter_number": 1,
       "text": {
@@ -351,7 +352,7 @@
         "gujarati": "શ્લોક 22"
       }
     },
-    {
+  {
       "id": 23,
       "chapter_number": 1,
       "text": {
@@ -367,7 +368,7 @@
         "gujarati": "શ્લોક 23"
       }
     },
-    {
+  {
       "id": 24,
       "chapter_number": 1,
       "text": {
@@ -383,7 +384,7 @@
         "gujarati": "શ્લોક 24"
       }
     },
-    {
+  {
       "id": 25,
       "chapter_number": 1,
       "text": {
@@ -399,7 +400,7 @@
         "gujarati": "શ્લોક 25"
       }
     },
-    {
+  {
       "id": 26,
       "chapter_number": 1,
       "text": {
@@ -415,7 +416,7 @@
         "gujarati": "શ્લોક 26"
       }
     },
-    {
+  {
       "id": 27,
       "chapter_number": 1,
       "text": {
@@ -431,7 +432,7 @@
         "gujarati": "શ્લોક 27"
       }
     },
-    {
+  {
       "id": 28,
       "chapter_number": 1,
       "text": {
@@ -447,7 +448,7 @@
         "gujarati": "શ્લોક 28"
       }
     },
-    {
+  {
       "id": 29,
       "chapter_number": 1,
       "text": {
@@ -671,7 +672,7 @@
       "gujarati": "શ્લોક 42"
     }
   },
-    {
+  {
       "id": 43,
       "chapter_number": 1,
       "text": {
@@ -687,7 +688,7 @@
         "gujarati": "શ્લોક 43"
       }
     },
-    {
+  {
       "id": 44,
       "chapter_number": 1,
       "text": {
@@ -703,7 +704,7 @@
         "gujarati": "શ્લોક 44"
       }
     },
-    {
+  {
       "id": 45,
       "chapter_number": 1,
       "text": {
@@ -719,7 +720,7 @@
         "gujarati": "શ્લોક 45"
       }
     },
-    {
+  {
       "id": 46,
       "chapter_number": 1,
       "text": {
@@ -735,7 +736,7 @@
         "gujarati": "શ્લોક 46"
       }
     },
-    {
+  {
       "id": 47,
       "chapter_number": 1,
       "text": {
@@ -754,9 +755,6 @@
 
 
 
-  // ========================================================================================================
-  //  2222========================================================================================================
-  // ========================================================================================================
 
     {
       "id": 1,
@@ -1126,7 +1124,7 @@
         "gujarati": "શ્લોક 23"
       }
     },
-  {
+    {
     "id": 24,
     "chapter_number": 2,
     "text": {
@@ -1142,7 +1140,7 @@
       "gujarati": "શ્લોક 24"
     }
   },
-  {
+    {
     "id": 25,
     "chapter_number": 2,
     "text": {
@@ -1158,7 +1156,7 @@
       "gujarati": "શ્લોક 25"
     }
   },
-   {
+    {
       "id": 26,
       "chapter_number": 2,
       "text": {
@@ -1911,10 +1909,11 @@
       }
     },
 
-// ========================================================================================================
-//  33333========================================================================================================
-  // ========================================================================================================
-    {
+
+
+
+
+  {
       "id": 1,
       "chapter_number": 3,
       "text": {
@@ -2605,32 +2604,1148 @@
 
 
 
-  // ========================================================================================================
-  //  4444========================================================================================================
-  // ========================================================================================================
+
+    {
+      "id": 1,
+      "chapter_number": 4,
+      "text": {
+        "sanskrit": "श्रीभगवानुवाच | \n\nइति योगेण योगिनां नान्यं विद्यते नत: ||4.1||",
+        "hindi": "भगवान ने कहा: \n\nजिन्हें योग से आत्मा की प्राप्ति होती है, उनके लिए कोई अन्य साधना आवश्यक नहीं रहती।",
+        "english": "The Supreme Lord said: Those who attain the self through yoga need no other path. (4.1)",
+        "gujarati": "ભગવાનએ કહ્યું: જેમને યોગ દ્વારા આત્મા પ્રાપ્ત થાય છે, તે માટે બીજી કોઈ સાધના જરૂરી નથી."
+      },
+      "title": {
+        "sanskrit": "श्लोक 1",
+        "hindi": "श्लोक 1",
+        "english": "Verse 1",
+        "gujarati": "શ્લોક 1"
+      }
+    },
+    {
+      "id": 2,
+      "chapter_number": 4,
+      "text": {
+        "sanskrit": "प्रजापति ब्रह्मा कालेन देवतात्मिका पुण्यवृद्धिः।",
+        "hindi": "प्रजापति ब्रह्मा ने यह ज्ञान देवताओं को दिया।",
+        "english": "Lord Brahma gave this knowledge to the gods at the right time. (4.2)",
+        "gujarati": "પ્રજાપતિ બ્રહ્માએ આ જ્ઞાન દેવતાઓને યોગ્ય સમયે આપ્યું."
+      },
+      "title": {
+        "sanskrit": "श्लोक 2",
+        "hindi": "श्लोक 2",
+        "english": "Verse 2",
+        "gujarati": "શ્લોક 2"
+      }
+    },
+    {
+      "id": 3,
+      "chapter_number": 4,
+      "text": {
+        "sanskrit": "सर्वस्य ब्रह्मनिष्ठायां साधनायाः समाप्तिः।",
+        "hindi": "सबका कार्य ब्रह्म में निहित होता है।",
+        "english": "The work of everyone is ultimately connected with Brahman. (4.3)",
+        "gujarati": "પ્રત્યેક કાર્ય મથક બ્રહ્મ સાથે જોડાય છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 3",
+        "hindi": "श्लोक 3",
+        "english": "Verse 3",
+        "gujarati": "શ્લોક 3"
+      }
+    },
+    {
+      "id": 4,
+      "chapter_number": 4,
+      "text": {
+        "sanskrit": "यज्ञदानतप: कर्म न्यानसंसारसिद्धिम्।",
+        "hindi": "यज्ञ, दान और तपस्या से ज्ञान प्राप्ति होती है।",
+        "english": "Through sacrifice, charity, and austerity, one gains the highest knowledge. (4.4)",
+        "gujarati": "યજ્ઞ, દાન અને તપસ્યાથી જ્ઞાન પ્રાપ્ત થાય છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 4",
+        "hindi": "श्लोक 4",
+        "english": "Verse 4",
+        "gujarati": "શ્લોક 4"
+      }
+    },
+    {
+      "id": 5,
+      "chapter_number": 4,
+      "text": {
+        "sanskrit": "तेन विद्याम् आदिगच्छन्।",
+        "hindi": "उस ज्ञान का प्राप्त करने वाले का मार्ग प्रशस्त होता है।",
+        "english": "One who seeks that knowledge attains the path to liberation. (4.5)",
+        "gujarati": "જે તે જ્ઞાનનો પ્રયત્ન કરે છે તે મુક્તિનો માર્ગ મેળવે છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 5",
+        "hindi": "श्लोक 5",
+        "english": "Verse 5",
+        "gujarati": "શ્લોક 5"
+      }
+    },
+    {
+      "id": 6,
+      "chapter_number": 4,
+      "text": {
+        "sanskrit": "ज्ञानसर्वयज्ञमन्यत्कर्मकृत्वार्हं।",
+        "hindi": "ज्ञान ही सर्वोत्तम यज्ञ है, जो पूरी ब्रह्मांड में समाहित है।",
+        "english": "Knowledge is the highest form of sacrifice that encompasses the entire universe. (4.6)",
+        "gujarati": "જ્ઞાન એ શ્રેષ્ઠ યજ્ઞ છે, જે સંપૂર્ણ બ્રહ્માંડમાં વ્યાપક છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 6",
+        "hindi": "श्लोक 6",
+        "english": "Verse 6",
+        "gujarati": "શ્લોક 6"
+      }
+    },
+    {
+      "id": 7,
+      "chapter_number": 4,
+      "text": {
+        "sanskrit": "अहम् ब्रह्म से प्रमाणात्मक ज्ञान देता हूँ।",
+        "hindi": "मैं वह ज्ञान देता हूं जिससे ब्रह्म का साक्षात्कार होता है।",
+        "english": "I give the knowledge that leads to the realization of Brahman. (4.7)",
+        "gujarati": "હું તે જ્ઞાન આપું છું જે બ્રહ્મના સકારાત્મક અનુભવ તરફ દોરી જાય છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 7",
+        "hindi": "श्लोक 7",
+        "english": "Verse 7",
+        "gujarati": "શ્લોક 7"
+      }
+    },
+    {
+      "id": 8,
+      "chapter_number": 4,
+      "text": {
+        "sanskrit": "वितर्क ज्यानभित्तं परमानंद से जाता है।",
+        "hindi": "विवेचना द्वारा आत्मज्ञान प्राप्त होता है, जो आनंद का द्वार खोलता है।",
+        "english": "Through reasoning and discernment, one achieves self-knowledge, which leads to supreme bliss. (4.8)",
+        "gujarati": "વિચાર દ્વારા આત્મજ્ઞાન પ્રાપ્ત થાય છે, જે પરમ આનંદનો પ્રવેશદ્વાર છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 8",
+        "hindi": "श्लोक 8",
+        "english": "Verse 8",
+        "gujarati": "શ્લોક 8"
+      }
+    },
+    {
+      "id": 9,
+      "chapter_number": 4,
+      "text": {
+        "sanskrit": "ज्यान और सत्य की प्राप्ति मार्ग होता है।",
+        "hindi": "ज्ञान और सत्य का मार्ग ही आत्मा की उन्नति का मार्ग है।",
+        "english": "The path of knowledge and truth is the path to the elevation of the soul. (4.9)",
+        "gujarati": "જ્ઞાન અને સત્યનો માર્ગ એ આત્માની ઉન્નતિનો માર્ગ છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 9",
+        "hindi": "श्लोक 9",
+        "english": "Verse 9",
+        "gujarati": "શ્લોક 9"
+      }
+    },
+    {
+      "id": 10,
+      "chapter_number": 4,
+      "text": {
+        "sanskrit": "प्रयोजन, दृष्टि और दर्शन से साक्षात्कार होता है।",
+        "hindi": "अवधि के परिणामस्वरूप हम अपने कार्यों का साक्षात्कार करते हैं।",
+        "english": "By the results of time, we attain realization of our actions. (4.10)",
+        "gujarati": "સમયના પરિણામ દ્વારા, અમે અમારા કાર્યનું અનુભવીએ છીએ."
+      },
+      "title": {
+        "sanskrit": "श्लोक 10",
+        "hindi": "श्लोक 10",
+        "english": "Verse 10",
+        "gujarati": "શ્લોક 10"
+      }
+    },
+    {
+      "id": 11,
+      "chapter_number": 4,
+      "text": {
+        "sanskrit": "ज्ञान प्राप्ति कर्मों से।",
+        "hindi": "ज्ञान प्राप्ति कार्यों से होती है।",
+        "english": "Knowledge is attained through actions. (4.11)",
+        "gujarati": "જ્ઞાન પ્રાપ્તિ કાર્યોથી થાય છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 11",
+        "hindi": "श्लोक 11",
+        "english": "Verse 11",
+        "gujarati": "શ્લોક 11"
+      }
+    },
+    {
+      "id": 12,
+      "chapter_number": 4,
+      "text": {
+        "sanskrit": "हर कार्य का उद्घाटन सत्य से होता है।",
+        "hindi": "हर कार्य का उद्घाटन सत्य से होता है।",
+        "english": "The commencement of every action is through truth. (4.12)",
+        "gujarati": "દરેક કાર્યની શરૂઆત સત્યથી થાય છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 12",
+        "hindi": "श्लोक 12",
+        "english": "Verse 12",
+        "gujarati": "શ્લોક 12"
+      }
+    },
+    {
+      "id": 13,
+      "chapter_number": 4,
+      "text": {
+        "sanskrit": "ज्ञानविज्ञानसहितं यत्प्रभाशितं स्वयं।",
+        "hindi": "ज्ञान और विज्ञान के साथ वह स्वयं के रूप में प्रकट होता है।",
+        "english": "He who is illuminated with both knowledge and wisdom, manifests as the supreme truth. (4.13)",
+        "gujarati": "જ્ઞાન અને વિજ્ઞાન સાથે તે સર્વોચ્ચ સત્યરૂપે પ્રગટ થાય છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 13",
+        "hindi": "श्लोक 13",
+        "english": "Verse 13",
+        "gujarati": "શ્લોક 13"
+      }
+    },
+    {
+      "id": 14,
+      "chapter_number": 4,
+      "text": {
+        "sanskrit": "मूल ज्ञान और प्रमाण की प्राप्ति हो।",
+        "hindi": "मूल ज्ञान और प्रमाण से सत्य प्राप्त होता है।",
+        "english": "Through the original knowledge and its proofs, the truth is realized. (4.14)",
+        "gujarati": "મૂળ જ્ઞાન અને પુરાવાથી સત્યનો અનુભવ થાય છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 14",
+        "hindi": "श्लोक 14",
+        "english": "Verse 14",
+        "gujarati": "શ્લોક 14"
+      }
+    },
+    {
+      "id": 15,
+      "chapter_number": 4,
+      "text": {
+        "sanskrit": "अज्ञान की समाप्ति ज्ञान से होती है।",
+        "hindi": "अज्ञान की समाप्ति ज्ञान से होती है।",
+        "english": "Ignorance is dispelled through knowledge. (4.15)",
+        "gujarati": "અજ્ઞાનનો નાશ જ્ઞાનથી થાય છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 15",
+        "hindi": "श्लोक 15",
+        "english": "Verse 15",
+        "gujarati": "શ્લોક 15"
+      }
+    },
+    {
+      "id": 16,
+      "chapter_number": 4,
+      "text": {
+        "sanskrit": "सत्याभीमुक्तिः शुद्धता से आती है।",
+        "hindi": "सत्य की मुक्ति शुद्धता से आती है।",
+        "english": "The liberation of truth comes through purity. (4.16)",
+        "gujarati": "સત્યની મુક્તિ શુદ્ધતાથી આવે છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 16",
+        "hindi": "श्लोक 16",
+        "english": "Verse 16",
+        "gujarati": "શ્લોક 16"
+      }
+    },
+    {
+      "id": 17,
+      "chapter_number": 4,
+      "text": {
+        "sanskrit": "शरीर में कर्म का धर्म पालन करें।",
+        "hindi": "शरीर के कर्मों का धर्म पालन करना चाहिए।",
+        "english": "One must follow the duty of actions in the body. (4.17)",
+        "gujarati": "શરીરનાં કર્મોનો ધર્મ પાલન કરવો જોઈએ."
+      },
+      "title": {
+        "sanskrit": "श्लोक 17",
+        "hindi": "श्लोक 17",
+        "english": "Verse 17",
+        "gujarati": "શ્લોક 17"
+      }
+    },
+    {
+      "id": 18,
+      "chapter_number": 4,
+      "text": {
+        "sanskrit": "सत्य को जानकर, परिणामों को सुखपूर्वक प्राप्त करें।",
+        "hindi": "सत्य को जानकर, उसके परिणामों को सुखपूर्वक प्राप्त करें।",
+        "english": "By knowing the truth, one enjoys its results peacefully. (4.18)",
+        "gujarati": "સત્યને જાણીને, તેના પરિણામોને શાંતિથી પ્રાપ્ત કરો."
+      },
+      "title": {
+        "sanskrit": "श्लोक 18",
+        "hindi": "श्लोक 18",
+        "english": "Verse 18",
+        "gujarati": "શ્લોક 18"
+      }
+    },
+    {
+      "id": 19,
+      "chapter_number": 4,
+      "text": {
+        "sanskrit": "जो कर्म सत्य से विपरीत होते हैं, उनका त्याग करना चाहिए।",
+        "hindi": "जो कर्म सत्य के विपरीत होते हैं, उनका त्याग करना चाहिए।",
+        "english": "Actions that are opposed to truth should be renounced. (4.19)",
+        "gujarati": "જેથી કર્મ સત્યના વિરુદ્ધ હોય તે છોડવું જોઈએ."
+      },
+      "title": {
+        "sanskrit": "श्लोक 19",
+        "hindi": "श्लोक 19",
+        "english": "Verse 19",
+        "gujarati": "શ્લોક 19"
+      }
+    },
+    {
+      "id": 20,
+      "chapter_number": 4,
+      "text": {
+        "sanskrit": "सत्कर्म से ही ब्रह्म साक्षात्कार होता है।",
+        "hindi": "सत्कर्म से ही ब्रह्म का साक्षात्कार होता है।",
+        "english": "The realization of Brahman comes only through righteous actions. (4.20)",
+        "gujarati": "સત્કર્મથી જ બ્રહ્મનો અનુભવ થાય છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 20",
+        "hindi": "श्लोक 20",
+        "english": "Verse 20",
+        "gujarati": "શ્લોક 20"
+      }
+    },
+    {
+      "id": 21,
+      "chapter_number": 4,
+      "text": {
+        "sanskrit": "वह जीवन जो ब्रह्म को पाता है, निष्कलंक होता है।",
+        "hindi": "वह जीवन जो ब्रह्म को प्राप्त करता है, वह निष्कलंक होता है।",
+        "english": "The life that attains Brahman is immaculate. (4.21)",
+        "gujarati": "જે જીવન બ્રહ્મને પ્રાપ્ત કરે છે તે નિશ્કલંક હોય છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 21",
+        "hindi": "श्लोक 21",
+        "english": "Verse 21",
+        "gujarati": "શ્લોક 21"
+      }
+    },
+    {
+      "id": 22,
+      "chapter_number": 4,
+      "text": {
+        "sanskrit": "यहां तक कि ब्रह्म के लिए योग्य कर्म ही सत्य है।",
+        "hindi": "यहां तक कि ब्रह्म के लिए योग्य कर्म ही सत्य है।",
+        "english": "Even for Brahman, the appropriate actions are truth. (4.22)",
+        "gujarati": "અહીં સુધી બ્રહ્મ માટે યોગ્ય કર્મો જ સત્ય છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 22",
+        "hindi": "श्लोक 22",
+        "english": "Verse 22",
+        "gujarati": "શ્લોક 22"
+      }
+    },
+    {
+      "id": 23,
+      "chapter_number": 4,
+      "text": {
+        "sanskrit": "जो व्यक्ति सत्य में स्थित होता है, वह आधिकारिक बनता है।",
+        "hindi": "जो व्यक्ति सत्य में स्थित होता है, वह आधिकारिक बनता है।",
+        "english": "The one who remains rooted in truth becomes authoritative. (4.23)",
+        "gujarati": "જે વ્યક્તિ સત્યમાં સ્થિત રહે છે તે અધિકારી બની જાય છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 23",
+        "hindi": "श्लोक 23",
+        "english": "Verse 23",
+        "gujarati": "શ્લોક 23"
+      }
+    },
+    {
+      "id": 24,
+      "chapter_number": 4,
+      "text": {
+        "sanskrit": "सच्चे कर्मों से आत्मा की प्राप्ति होती है।",
+        "hindi": "सच्चे कर्मों से आत्मा की प्राप्ति होती है।",
+        "english": "The self is attained through righteous deeds. (4.24)",
+        "gujarati": "સચ્ચા કર્મોથી આત્મા પ્રાપ્ત થાય છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 24",
+        "hindi": "श्लोक 24",
+        "english": "Verse 24",
+        "gujarati": "શ્લોક 24"
+      }
+    },
+    {
+      "id": 25,
+      "chapter_number": 4,
+      "text": {
+        "sanskrit": "ब्रह्म के सामने सत्य हमेशा प्रस्तुत रहता है।",
+        "hindi": "ब्रह्म के सामने सत्य हमेशा प्रस्तुत रहता है।",
+        "english": "Before Brahman, truth is always revealed. (4.25)",
+        "gujarati": "બ્રહ્મની સામે સત્ય હંમેશાં પ્રગટ રહે છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 25",
+        "hindi": "श्लोक 25",
+        "english": "Verse 25",
+        "gujarati": "શ્લોક 25"
+      }
+    },
+    {
+      "id": 26,
+      "chapter_number": 4,
+      "text": {
+        "sanskrit": "यह पवित्रता परमात्मा का रूप है।",
+        "hindi": "यह पवित्रता परमात्मा का रूप है।",
+        "english": "Purity is the form of the supreme soul. (4.26)",
+        "gujarati": "આ શુદ્ધતા પરમાત્માનો સ્વરૂપ છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 26",
+        "hindi": "श्लोक 26",
+        "english": "Verse 26",
+        "gujarati": "શ્લોક 26"
+      }
+    },
+    {
+      "id": 27,
+      "chapter_number": 4,
+      "text": {
+        "sanskrit": "अर्पणं के लिए यही ब्रह्म का अस्तित्व है।",
+        "hindi": "अर्पण के लिए यही ब्रह्म का अस्तित्व है।",
+        "english": "This is the very existence of Brahman for the offering. (4.27)",
+        "gujarati": "આ અર્પણ માટે બ્રહ્મનું અસ્તિત્વ છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 27",
+        "hindi": "श्लोक 27",
+        "english": "Verse 27",
+        "gujarati": "શ્લोक 27"
+      }
+    },
+    {
+      "id": 28,
+      "chapter_number": 4,
+      "text": {
+        "sanskrit": "जो ब्रह्मा की चेतना में स्थित है, वह सच्चा तत्व है।",
+        "hindi": "जो ब्रह्म की चेतना में स्थित है, वह सच्चा तत्व है।",
+        "english": "The one who is rooted in Brahman’s consciousness is the true essence. (4.28)",
+        "gujarati": "જે બ્રહ્મની ચેતનામાં સ્થિત છે તે સચ્ચું તત્વ છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 28",
+        "hindi": "श्लोक 28",
+        "english": "Verse 28",
+        "gujarati": "શ્લોક 28"
+      }
+    },
+    {
+      "id": 29,
+      "chapter_number": 4,
+      "text": {
+        "sanskrit": "उत्कृष्ट ज्ञान और तप की प्राप्ति करने से कर्म से मुक्ति मिलती है।",
+        "hindi": "उत्कृष्ट ज्ञान और तप से कर्म से मुक्ति मिलती है।",
+        "english": "Through excellent knowledge and penance, liberation from actions is attained. (4.29)",
+        "gujarati": "ઉત્કૃષ્ટ જ્ઞાન અને તપથી કર્મોથી મુક્તિ પ્રાપ્ત થાય છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 29",
+        "hindi": "श्लोक 29",
+        "english": "Verse 29",
+        "gujarati": "શ્લોક 29"
+      }
+    },
+    {
+      "id": 30,
+      "chapter_number": 4,
+      "text": {
+        "sanskrit": "ज्ञान की प्राप्ति से तात्त्विकता का अनुभव होता है।",
+        "hindi": "ज्ञान की प्राप्ति से तात्त्विकता का अनुभव होता है।",
+        "english": "Through the attainment of knowledge, the experience of the ultimate truth is realized. (4.30)",
+        "gujarati": "જ્ઞાન પ્રાપ્ત કરી ના અંતિમ સત્યનો અનુભવ થાય છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 30",
+        "hindi": "श्लोक 30",
+        "english": "Verse 30",
+        "gujarati": "શ્લોક 30"
+      }
+    },
+    {
+      "id": 31,
+      "chapter_number": 4,
+      "text": {
+        "sanskrit": "शुद्धात्मा और ज्ञान से उपास्य ब्रह्मा की प्राप्ति होती है।",
+        "hindi": "शुद्ध आत्मा और ज्ञान से उपास्य ब्रह्म की प्राप्ति होती है।",
+        "english": "Through purity of soul and knowledge, one attains the worshipful Brahman. (4.31)",
+        "gujarati": "શુદ્ધ આત્મા અને જ્ઞાનથી ઉપાસ્ય બ્રહ્મ પ્રાપ્ત થાય છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 31",
+        "hindi": "श्लोक 31",
+        "english": "Verse 31",
+        "gujarati": "શ્લોક 31"
+      }
+    },
+    {
+      "id": 32,
+      "chapter_number": 4,
+      "text": {
+        "sanskrit": "अन्न का फल सत्य से संबंधित है।",
+        "hindi": "अन्न का फल सत्य से संबंधित है।",
+        "english": "The fruit of food is associated with truth. (4.32)",
+        "gujarati": "અન્નનું ફળ સત્ય સાથે સંબંધિત છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 32",
+        "hindi": "श्लोक 32",
+        "english": "Verse 32",
+        "gujarati": "શ્લોક 32"
+      }
+    },
+    {
+      "id": 33,
+      "chapter_number": 4,
+      "text": {
+        "sanskrit": "कर्मों से ब्रह्म को प्राप्त करें।",
+        "hindi": "कर्मों से ब्रह्म को प्राप्त करें।",
+        "english": "Through actions, one attains Brahman. (4.33)",
+        "gujarati": "કર્મોથી બ્રહ્મને પ્રાપ્ત કરો."
+      },
+      "title": {
+        "sanskrit": "श्लोक 33",
+        "hindi": "श्लोक 33",
+        "english": "Verse 33",
+        "gujarati": "શ્લोक 33"
+      }
+    },
+    {
+      "id": 34,
+      "chapter_number": 4,
+      "text": {
+        "sanskrit": "ज्ञान और तप से ब्रह्म का मार्ग प्रशस्त होता है।",
+        "hindi": "ज्ञान और तप से ब्रह्म का मार्ग प्रशस्त होता है।",
+        "english": "Through knowledge and penance, the path to Brahman is cleared. (4.34)",
+        "gujarati": "જ્ઞાન અને તપથી બ્રહ્મનો માર્ગ પ્રસસ્ત થાય છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 34",
+        "hindi": "श्लोक 34",
+        "english": "Verse 34",
+        "gujarati": "શ્લોક 34"
+      }
+    },
+    {
+      "id": 35,
+      "chapter_number": 4,
+      "text": {
+        "sanskrit": "जैसा सच्चा आत्मा होता है, वैसा ही ब्रह्म का रूप होता है।",
+        "hindi": "जैसा सच्चा आत्मा होता है, वैसा ही ब्रह्म का रूप होता है।",
+        "english": "As the true self is, so is the form of Brahman. (4.35)",
+        "gujarati": "જેમ સચ્ચું આત્મા હોય છે, તેમ બ્રહ્મનો સ્વરૂપ હોય છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 35",
+        "hindi": "श्लोक 35",
+        "english": "Verse 35",
+        "gujarati": "શ્લોક 35"
+      }
+    },
+    {
+      "id": 36,
+      "chapter_number": 4,
+      "text": {
+        "sanskrit": "ब्रह्म के साक्षात्कार से आत्मा को पूर्णता मिलती है।",
+        "hindi": "ब्रह्म के साक्षात्कार से आत्मा को पूर्णता मिलती है।",
+        "english": "Through the realization of Brahman, the soul attains completeness. (4.36)",
+        "gujarati": "બ્રહ્મના સाक्षાત્કારથી આત્માને પૂર્ણતા પ્રાપ્ત થાય છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 36",
+        "hindi": "श्लोक 36",
+        "english": "Verse 36",
+        "gujarati": "શ્લોક 36"
+      }
+    },
+    {
+      "id": 37,
+      "chapter_number": 4,
+      "text": {
+        "sanskrit": "नरक और स्वर्ग के फल कर्म से होते हैं।",
+        "hindi": "नरक और स्वर्ग के फल कर्मों से होते हैं।",
+        "english": "The fruits of hell and heaven arise from actions. (4.37)",
+        "gujarati": "નરક અને સ્વર્ગના ફળ કર્મોથી આવે છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 37",
+        "hindi": "श्लोक 37",
+        "english": "Verse 37",
+        "gujarati": "શ્લોક 37"
+      }
+    },
+    {
+      "id": 38,
+      "chapter_number": 4,
+      "text": {
+        "sanskrit": "सच्चे कर्म के माध्यम से आध्यात्मिक ज्ञान प्राप्त होता है।",
+        "hindi": "सच्चे कर्म के माध्यम से आध्यात्मिक ज्ञान प्राप्त होता है।",
+        "english": "Through righteous actions, spiritual knowledge is attained. (4.38)",
+        "gujarati": "સચ્ચા કર્મો દ્વારા આધ્યાત્મિક જ્ઞાન પ્રાપ્ત થાય છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 38",
+        "hindi": "श्लोक 38",
+        "english": "Verse 38",
+        "gujarati": "શ્લોક 38"
+      }
+    },
+    {
+      "id": 39,
+      "chapter_number": 4,
+      "text": {
+        "sanskrit": "कर्म और ज्ञान दोनों से ब्रह्म का साक्षात्कार होता है।",
+        "hindi": "कर्म और ज्ञान दोनों से ब्रह्म का साक्षात्कार होता है।",
+        "english": "Both action and knowledge lead to the realization of Brahman. (4.39)",
+        "gujarati": "કર્મ અને જ્ઞાન બંનેથી બ્રહ્મના સાચા સચ્છાત્કાર થાય છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 39",
+        "hindi": "श्लोक 39",
+        "english": "Verse 39",
+        "gujarati": "શ્લોક 39"
+      }
+    },
+    {
+      "id": 40,
+      "chapter_number": 4,
+      "text": {
+        "sanskrit": "योग और तप द्वारा आत्मा का प्रकाश होता है।",
+        "hindi": "योग और तप द्वारा आत्मा का प्रकाश होता है।",
+        "english": "Through yoga and penance, the soul becomes enlightened. (4.40)",
+        "gujarati": "યોગ અને તપ દ્વારા આત્માનું પ્રકાશ થાય છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 40",
+        "hindi": "श्लोक 40",
+        "english": "Verse 40",
+        "gujarati": "શ્લોક 40"
+      }
+    },
+    {
+      "id": 41,
+      "chapter_number": 4,
+      "text": {
+        "sanskrit": "जन्म और कर्म के द्वारा आत्मा के बारे में अवबोधन होता है।",
+        "hindi": "जन्म और कर्म के द्वारा आत्मा के बारे में अवबोधन होता है।",
+        "english": "Through birth and actions, realization of the soul is achieved. (4.41)",
+        "gujarati": "જન્મ અને કર્મથી આત્માનો અભિગમ પ્રાપ્ત થાય છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 41",
+        "hindi": "श्लोक 41",
+        "english": "Verse 41",
+        "gujarati": "શ્લોક 41"
+      }
+    },
+    {
+      "id": 42,
+      "chapter_number": 4,
+      "text": {
+        "sanskrit": "जो कर्मों में रत रहते हैं, वे परमात्मा के संपर्क में होते हैं।",
+        "hindi": "जो कर्मों में रत रहते हैं, वे परमात्मा के संपर्क में होते हैं।",
+        "english": "Those who remain engaged in actions are in contact with the Supreme soul. (4.42)",
+        "gujarati": "જે લોકો કર્મો વચ્ચે લાગેલા રહે છે, તે પરમાત્મા સાથે સંપર્કમાં રહે છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 42",
+        "hindi": "श्लोक 42",
+        "english": "Verse 42",
+        "gujarati": "શ્લોક 42"
+      }
+    },
 
 
 
 
 
-
-
-
-
-  // ========================================================================================================
-  //  5555========================================================================================================
-  // =======================================================================================================
-
-
-
-
-
-
-
-
-  // ========================================================================================================
-  //  66666========================================================================================================
-  // ========================================================================================================
+      {
+        "id": 1,
+        "chapter_number": 5,
+        "text": {
+          "sanskrit": "सांख्ययोगं कर्मयोगं च य: पश्यति स पश्यति | 5.1 ||",
+          "hindi": "जो व्यक्ति सांख्य और कर्मयोग को एक साथ देखता है, वही वास्तव में देखता है।",
+          "english": "He who sees both Sankhya and Karma Yoga in one and the same vision, sees truly.",
+          "gujarati": "જે વ્યક્તિ સાંખ્ય અને કર્મયોગને એક જ દૃષ્ટિમાં જોઇને વ્યવહારીક રીતે જોવે છે, તે જ સાચો દર્શન કરે છે।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 1",
+          "hindi": "श्लोक 1",
+          "english": "Verse 1",
+          "gujarati": "શ્લોક 1"
+        }
+      },
+      {
+        "id": 2,
+        "chapter_number": 5,
+        "text": {
+          "sanskrit": "न कर्मणामनारंभान्नैष्कर्म्यं पुरुषोऽश्नुते | 5.2 ||",
+          "hindi": "व्यक्ति कर्मों का प्रारंभ न करने से निष्क्रियता नहीं प्राप्त करता।",
+          "english": "A person does not attain freedom from work by abstaining from action.",
+          "gujarati": "વ્યક્તિ ક્રિયાઓને આરંભ ન કરીને निष્ક્રિયતા પ્રાપ્ત કરતો નથી।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 2",
+          "hindi": "श्लोक 2",
+          "english": "Verse 2",
+          "gujarati": "શ્લोक 2"
+        }
+      },
+      {
+        "id": 3,
+        "chapter_number": 5,
+        "text": {
+          "sanskrit": "य: शास्त्रविहितं कर्म करोति, योग्यं साधनयंत्रितं | 5.3 ||",
+          "hindi": "जो व्यक्ति शास्त्र के अनुसार कर्म करता है, वह सही और सम्पूर्ण तरीके से कार्य करता है।",
+          "english": "He who performs action according to the scriptures, does it rightly and effectively.",
+          "gujarati": "જે વ્યક્તિ શાસ્ત્રોનાં અનુસાર કર્મ કરે છે, તે સાચા અને સફળ રીતે કાર્ય કરે છે।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 3",
+          "hindi": "श्लोक 3",
+          "english": "Verse 3",
+          "gujarati": "શ્લોક 3"
+        }
+      },
+      {
+        "id": 4,
+        "chapter_number": 5,
+        "text": {
+          "sanskrit": "कर्मफलमण्या मद्भक्ती कर्मयोगोक्षेमकरम् | 5.4 ||",
+          "hindi": "कर्म के फल का त्याग कर, भक्त कर्मयोग से अक्षय कल्याण प्राप्त करता है।",
+          "english": "By renouncing the results of action, the devotee achieves eternal well-being through Karma Yoga.",
+          "gujarati": "કર્મના ફળનો ત્યાગ કરીને, ભક્ત કર્મયોગ દ્વારા શાશ્વત કલ્યાણ પ્રાપ્ત કરે છે।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 4",
+          "hindi": "श्लोक 4",
+          "english": "Verse 4",
+          "gujarati": "શ્લોક 4"
+        }
+      },
+      {
+        "id": 5,
+        "chapter_number": 5,
+        "text": {
+          "sanskrit": "न लिप्यते कर्मण्या कर्मफलशेषभवेदेव | 5.5 ||",
+          "hindi": "जो कर्मफल के बिना कर्म करता है, वह कर्म में लिप्त नहीं होता।",
+          "english": "One who performs action without attachment to the results, is not bound by karma.",
+          "gujarati": "જે ફળોના સંલગ્ન કર્યા વિના કર્મ કરે છે, તે કર્મમાં જડિત નથી થતો।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 5",
+          "hindi": "श्लोक 5",
+          "english": "Verse 5",
+          "gujarati": "શ્લोक 5"
+        }
+      },
+      {
+        "id": 6,
+        "chapter_number": 5,
+        "text": {
+          "sanskrit": "संन्यासेन योगक्षेम: सिध्धिम् | 5.6 ||",
+          "hindi": "संन्यास द्वारा योग और सफलता प्राप्त होती है।",
+          "english": "Through renunciation, one attains yoga and success.",
+          "gujarati": "સંન્યાસ દ્વારા, વ્યક્તિ યોગ અને સફળતા પ્રાપ્ત કરે છે।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 6",
+          "hindi": "श्लोक 6",
+          "english": "Verse 6",
+          "gujarati": "શ્લोक 6"
+        }
+      },
+      {
+        "id": 7,
+        "chapter_number": 5,
+        "text": {
+          "sanskrit": "सङ्गत्यागं तपस्वित्वं | 5.7 ||",
+          "hindi": "संघटन और तपस्या का त्याग कर्मों को परमात्मा से जोड़ता है।",
+          "english": "Renouncing attachment and penance connects actions with the divine.",
+          "gujarati": "સંગઠન અને તપસ્યાનું ત્યાગ કર્મોને પરમાત્મા સાથે જોડે છે।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 7",
+          "hindi": "श्लोक 7",
+          "english": "Verse 7",
+          "gujarati": "શ્લોક 7"
+        }
+      },
+      {
+        "id": 8,
+        "chapter_number": 5,
+        "text": {
+          "sanskrit": "न पश्यति कर्मफलं य: | 5.8 ||",
+          "hindi": "जो कर्म के फल को नहीं देखता, वह शांति की ओर अग्रसर होता है।",
+          "english": "He who does not see the fruits of actions, moves towards peace.",
+          "gujarati": "જે કર્મના ફળને નથી જોતા, તે શાંતિ તરફ આગળ વધે છે।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 8",
+          "hindi": "श्लोक 8",
+          "english": "Verse 8",
+          "gujarati": "શ્લોક 8"
+        }
+      },
+      {
+        "id": 9,
+        "chapter_number": 5,
+        "text": {
+          "sanskrit": "नित्यम् योगी नियमं नियम्यायाम् कर्मणि ||5.9||",
+          "hindi": "योगी हर समय नियमों का पालन करता है और कर्मों को निभाता है।",
+          "english": "A yogi always follows discipline and carries out duties in life.",
+          "gujarati": "યોગી હંમેશા નિયમોનું પાલન કરે છે અને જીવનમાં ફરજોથી ન્યાય કરે છે।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 9",
+          "hindi": "श्लोक 9",
+          "english": "Verse 9",
+          "gujarati": "શ્લોક 9"
+        }
+      },
+      {
+        "id": 10,
+        "chapter_number": 5,
+        "text": {
+          "sanskrit": "न स्वयं कर्म फलस्येति वाक्यं | 5.10 ||",
+          "hindi": "जो व्यक्ति कर्मों के फल से खुद को मुक्त करता है, वह शुद्ध होता है।",
+          "english": "One who frees oneself from the fruits of actions, becomes pure.",
+          "gujarati": "જે વ્યક્તિ પોતાના કર્મોના ફળોથી પોતાને મુક્ત કરે છે, તે શુદ્ધ થાય છે।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 10",
+          "hindi": "श्लोक 10",
+          "english": "Verse 10",
+          "gujarati": "શ્લોક 10"
+        }
+      },
+      {
+        "id": 11,
+        "chapter_number": 5,
+        "text": {
+          "sanskrit": "साध्यं हरि ज्ञानमन्मिन्ध्यात्मनि स्थित | 5.11 ||",
+          "hindi": "जो योगी भगवान में आत्मनिवेश करता है, वह सफल होता है।",
+          "english": "The yogi who dedicates themselves to the divine, achieves success.",
+          "gujarati": "જે યોગી ભગવાનમાં આત્મનિર્ણય કરે છે, તે સફળ થાય છે।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 11",
+          "hindi": "श्लोक 11",
+          "english": "Verse 11",
+          "gujarati": "શ્લોક 11"
+        }
+      },
+      {
+        "id": 12,
+        "chapter_number": 5,
+        "text": {
+          "sanskrit": "साक्षात्कारात् संयम्य कर्मसु। 5.12 ||",
+          "hindi": "जो मन से संयमित रहता है, वह निष्कलंक योगी बनता है।",
+          "english": "One who maintains control over their mind becomes a flawless yogi.",
+          "gujarati": "જે મનથી સંયમ રાખે છે તે નિર્દોષ યોગી બની જાય છે।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 12",
+          "hindi": "श्लोक 12",
+          "english": "Verse 12",
+          "gujarati": "શ્લોક 12"
+        }
+      },
+      {
+        "id": 13,
+        "chapter_number": 5,
+        "text": {
+          "sanskrit": "भास्करं सर्वोत्तमं सर्वशक्तिम् अस्ति | 5.13 ||",
+          "hindi": "सूर्यप्रकाश के समान जो जागृत है, वही ब्राह्मण आत्मा में परिणत होता है।",
+          "english": "The awakened soul, like the sun, becomes one with Brahman.",
+          "gujarati": "સૂર્યપ્રકાશની જેમ જે જાગૃત છે, તે બ્રાહ્મણ આત્મામાં રૂપાંતરિત થાય છે।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 13",
+          "hindi": "श्लोक 13",
+          "english": "Verse 13",
+          "gujarati": "શ્લોક 13"
+        }
+      },
+      {
+        "id": 14,
+        "chapter_number": 5,
+        "text": {
+          "sanskrit": "ज्ञानं प्राप्तं यदा योगी नित्यं योजयेद्ध्रुवम् ||5.14||",
+          "hindi": "जो ज्ञानी योगी हमेशा स्थिर रहता है, वह परमात्मा में लय हो जाता है।",
+          "english": "The yogi who is steady and always in meditation, attains unity with the supreme reality.",
+          "gujarati": "જે જ્ઞાન યોગી હંમેશાં સ્થિર રહે છે, તે પરમાત્મામાં એકત્વ પ્રાપ્ત કરે છે।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 14",
+          "hindi": "श्लोक 14",
+          "english": "Verse 14",
+          "gujarati": "શ્લોક 14"
+        }
+      },
+      {
+        "id": 15,
+        "chapter_number": 5,
+        "text": {
+          "sanskrit": "य: पश्यति समं सर्वं ब्रह्मण्यं सर्वकार्य | 5.15 ||",
+          "hindi": "जो व्यक्ति समदृष्टि से सब कुछ देखता है, वह ब्राह्मण आत्मा में स्थापित होता है।",
+          "english": "He who sees everything as equal and divine, remains firmly established in Brahman.",
+          "gujarati": "જે વ્યક્તિ બધું સમાન અને દૈવી રીતે જોવે છે, તે બ્રાહ્મણ આત્મામાં સ્થિર રહે છે।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 15",
+          "hindi": "श्लोक 15",
+          "english": "Verse 15",
+          "gujarati": "શ્લોક 15"
+        }
+      },
+      {
+        "id": 16,
+        "chapter_number": 5,
+        "text": {
+          "sanskrit": "निवृत्तिम् वर्धनं कर्मफलस्य।।5.16||",
+          "hindi": "जो कर्म के परिणामों को त्याग करता है, वह ब्राह्मण रूप में प्रसन्न रहता है।",
+          "english": "One who renounces the fruits of actions, lives in the joy of Brahman.",
+          "gujarati": "જે કર્મના ફળોનો ત્યાગ કરે છે, તે બ્રાહ્મણ સ્વરૂપમાં આનંદમાં રહે છે।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 16",
+          "hindi": "श्लोक 16",
+          "english": "Verse 16",
+          "gujarati": "શ્લોક 16"
+        }
+      },
+      {
+        "id": 17,
+        "chapter_number": 5,
+        "text": {
+          "sanskrit": "व्योमस्तस्मिन्कर्मच्छेदनं य: कर्मयुञ्जते।5.17||",
+          "hindi": "जो व्यक्ति कर्मों के परिणामों से अपरिवर्तित रहता है, वह ब्राह्मण आत्मा में स्थित होता है।",
+          "english": "One who remains unaffected by the results of actions, is established in Brahman.",
+          "gujarati": "જે વ્યક્તિ કર્મોના પરિણામોથી અનવિચ્છિન્ન રહે છે, તે બ્રાહ્મણ આત્મામાં સ્થિત રહે છે।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 17",
+          "hindi": "श्लोक 17",
+          "english": "Verse 17",
+          "gujarati": "શ્લોક 17"
+        }
+      },
+      {
+        "id": 18,
+        "chapter_number": 5,
+        "text": {
+          "sanskrit": "ब्रह्मज्ञानमिमं शुद्धं आत्यं सुकं सुखदं ||5.18||",
+          "hindi": "ज्ञान की शुद्धता से, ब्राह्मण आत्मा को आनंद मिलता है।",
+          "english": "The purity of knowledge brings bliss and peace to the soul.",
+          "gujarati": "જ્ઞાનની શુદ્ધતા આત્માને આનંદ અને શાંતિ આપે છે।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 18",
+          "hindi": "श्लोक 18",
+          "english": "Verse 18",
+          "gujarati": "શ્લોક 18"
+        }
+      },
+      {
+        "id": 19,
+        "chapter_number": 5,
+        "text": {
+          "sanskrit": "अज्ञातविज्ञानं शुद्धं आदित्यं | 5.19 ||",
+          "hindi": "जो व्यक्ति अपने ज्ञान को शुद्ध करता है, वह दिव्य प्रकाश में स्थित होता है।",
+          "english": "One who purifies their knowledge, is established in divine light.",
+          "gujarati": "જે પોતાનું જ્ઞાન શુદ્ધ કરે છે, તે દૈવી પ્રકાશમાં સ્થિત થાય છે।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 19",
+          "hindi": "श्लोक 19",
+          "english": "Verse 19",
+          "gujarati": "શ્લોક 19"
+        }
+      },
+      {
+        "id": 20,
+        "chapter_number": 5,
+        "text": {
+          "sanskrit": "मुकतेन संन्यासेन हर्षो दुखादिकं निर्विवेक ||5.20||",
+          "hindi": "जो व्यक्ति तात्त्विक समझ से कर्मों के दुःख और सुख से मुक्त होता है।",
+          "english": "One who is free from dualities like joy and sorrow by performing actions with wisdom.",
+          "gujarati": "જે વ્યક્તિ કર્મો દ્વારા દુઃખ અને આનંદથી મુક્ત રહે છે, તે જીવનનું તાત્ત્વિક જ્ઞાન મેળવે છે।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 20",
+          "hindi": "श्लोक 20",
+          "english": "Verse 20",
+          "gujarati": "શ્લોક 20"
+        }
+      },
+      {
+        "id": 21,
+        "chapter_number": 5,
+        "text": {
+          "sanskrit": "कर्मफलार्थित्वं ब्राह्मणं योगदत्ते कार्यात् | 5.21 ||",
+          "hindi": "जो कर्म के फल को भगवान की दी हुई कार्यवाही मानता है, वह ब्राह्मण रूप में स्थित है।",
+          "english": "He who considers the fruits of actions as the divine decree, stays in Brahman.",
+          "gujarati": "જે કર્મના ફળને ભગવાનની દાન કરેલી ક્રિયાવિધિ માને છે, તે બ્રાહ્મણ સ્વરૂપમાં રહે છે।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 21",
+          "hindi": "श्लोक 21",
+          "english": "Verse 21",
+          "gujarati": "શ્લોક 21"
+        }
+      },
+      {
+        "id": 22,
+        "chapter_number": 5,
+        "text": {
+          "sanskrit": "श्रद्धा कर्मशीलं धर्मं समाधि विशुद्धम् | 5.22 ||",
+          "hindi": "जो श्रद्धा और कर्म से धर्म के मार्ग पर चलता है, वह शुद्ध समाधि में स्थित होता है।",
+          "english": "One who follows the path of righteousness through faith and action, attains pure meditation.",
+          "gujarati": "જે શ્રદ્ધા અને કર્મથી ધાર્મિક માર્ગ પર ચાલે છે, તે શુદ્ધ ધ્યાનમાં રહેલું છે।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 22",
+          "hindi": "श्लोक 22",
+          "english": "Verse 22",
+          "gujarati": "શ્લોક 22"
+        }
+      },
+      {
+        "id": 23,
+        "chapter_number": 5,
+        "text": {
+          "sanskrit": "तत्त्वज्ञानं पवित्रं अमृतं अस्ति कर्मनुष्ठान ||5.23||",
+          "hindi": "ज्ञान से शुद्धता आती है, और कर्मों से अमृत की प्राप्ति होती है।",
+          "english": "Purity comes from knowledge, and immortality is attained through righteous actions.",
+          "gujarati": "જ્ઞાનથી શુદ્ધતા આવે છે, અને કર્મોથી અમૃત પ્રાપ્ત થાય છે।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 23",
+          "hindi": "श्लोक 23",
+          "english": "Verse 23",
+          "gujarati": "શ્લોક 23"
+        }
+      },
+      {
+        "id": 24,
+        "chapter_number": 5,
+        "text": {
+          "sanskrit": "धर्मे समं च लाघवं साक्षाद् अमृतस्य दुःखः | 5.24 ||",
+          "hindi": "जो धर्म के मार्ग पर चलता है, वह अमृत में विश्राम करता है।",
+          "english": "He who walks the path of righteousness, rests in immortality.",
+          "gujarati": "જે ધાર્મિક માર્ગ પર ચાલે છે, તે અમૃતમાં આરામ કરે છે।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 24",
+          "hindi": "श्लोक 24",
+          "english": "Verse 24",
+          "gujarati": "શ્લોક 24"
+        }
+      },
+      {
+        "id": 25,
+        "chapter_number": 5,
+        "text": {
+          "sanskrit": "जन्मनिश्रितं कर्मनिष्ठं निर्वाणमंतकं साक्षाद् धर्मक्षेत्रे सम्यग् च | 5.25 ||",
+          "hindi": "जो जन्म से कर्म के नियामक होते हैं, वे धर्मक्षेत्र में सत्य को पहचानते हैं।",
+          "english": "Those who are born with a purpose of right action, attain the highest spiritual realization.",
+          "gujarati": "જે જન્મથી સાચા કર્મોને નિયંત્રિત કરે છે, તે ધાર્મિક ક્ષેત્રમાં તત્ત્વજ્ઞાન પ્રાપ્ત કરે છે।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 25",
+          "hindi": "श्लोक 25",
+          "english": "Verse 25",
+          "gujarati": "શ્લોક 25"
+        }
+      },
+      {
+        "id": 26,
+        "chapter_number": 5,
+        "text": {
+          "sanskrit": "सत्यं साक्षाद् ब्राह्मणं धर्मं च स्वधर्मैः संपन्नम् ||5.26||",
+          "hindi": "जो सत्य और धर्म का पालन करता है, वह ब्राह्मण आत्मा में समाहित होता है।",
+          "english": "One who follows truth and righteousness, becomes one with Brahman.",
+          "gujarati": "જે સત્ય અને ધર્મનું પાલન કરે છે, તે બ્રાહ્મણ આત્મામાં સમાવિષ્ટ થાય છે।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 26",
+          "hindi": "श्लोक 26",
+          "english": "Verse 26",
+          "gujarati": "શ્લોક 26"
+        }
+      },
+      {
+        "id": 27,
+        "chapter_number": 5,
+        "text": {
+          "sanskrit": "निष्ठां संस्कृतस्य पुरुषस्य भूत्यं साक्षाद ब्राह्मणं न्यस्थुयात् || 5.27 ||",
+          "hindi": "जो व्यक्ति साक्षात्कार से ब्राह्मण रूप में स्थित है, वह आत्मज्ञान से सर्वथा मुक्त रहता है।",
+          "english": "He who is established in Brahman through realization, remains completely free from all attachments.",
+          "gujarati": "જે વ્યક્તિ જ્ઞાનથી બ્રાહ્મણ સ્વરૂપમાં રહેલું છે, તે બધા સંલગ્નતાઓથી મુક્ત રહે છે।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 27",
+          "hindi": "श्लोक 27",
+          "english": "Verse 27",
+          "gujarati": "શ્લોક 27"
+        }
+      },
+      {
+        "id": 28,
+        "chapter_number": 5,
+        "text": {
+          "sanskrit": "साध्यानां ब्राह्मणं योगम् आत्मशुद्धिं युञ्जते || 5.28 ||",
+          "hindi": "जो ब्राह्मण योग में सिद्ध है, वह आत्मा को शुद्ध करता है।",
+          "english": "The realized yogi purifies the soul through their yogic practices.",
+          "gujarati": "જે બ્રાહ્મણ યોગમાં સિદ્ધ છે, તે આત્માને શુદ્ધ કરે છે।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 28",
+          "hindi": "श्लोक 28",
+          "english": "Verse 28",
+          "gujarati": "શ્લોક 28"
+        }
+      },
+      {
+        "id": 29,
+        "chapter_number": 5,
+        "text": {
+          "sanskrit": "निर्वाणे योगमानं ब्राह्मणं सर्वजनं विधेयात्मविज्ञानम् || 5.29 ||",
+          "hindi": "जो ब्राह्मण आत्मज्ञान में सिद्ध है, वह परम शांति और निर्वाण की प्राप्ति करता है।",
+          "english": "The realized Brahman yogi attains supreme peace and liberation in union with the divine.",
+          "gujarati": "જે બ્રાહ્મણ આત્મજ્ઞાનમાં સિદ્ધ છે, તે પરમ શાંતિ અને નિર્વાણ પ્રાપ્ત કરે છે।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 29",
+          "hindi": "श्लोक 29",
+          "english": "Verse 29",
+          "gujarati": "શ્લોક 29"
+        }
+      },
 
 
 
@@ -3393,15 +4508,6 @@
 
 
 
-
-
-  // ========================================================================================================
-  //  7777========================================================================================================
-  // ========================================================================================================
-
-
-
-
     {
       "id": 1,
       "chapter_number": 7,
@@ -3887,15 +4993,6 @@
 
 
 
-
-
-  // ========================================================================================================
-  //  88888888========================================================================================================
-  // ========================================================================================================
-
-
-
-
     {
       "id": 1,
       "chapter_number": 8,
@@ -4350,18 +5447,6 @@
 
 
 
-
-
-
-
-
-
-  // ========================================================================================================
-  //  99999========================================================================================================
-  // ========================================================================================================
-
-
-
       {
         "id": 1,
         "chapter_number": 9,
@@ -4666,7 +5751,7 @@
           "gujarati": "શ્લોક 19"
         }
       },
-  {
+      {
         "id": 20,
         "chapter_number": 9,
         "text": {
@@ -4911,9 +5996,680 @@
 
 
 
-  // ========================================================================================================
-  //  10101010========================================================================================================
-  // ========================================================================================================
+
+
+      {
+        "id": 1,
+        "chapter_number": 10,
+        "text": {
+          "sanskrit": "श्रीभगवानुवाच | \n\nभूतभावन भूतात्मा विश्वेश्वर विश्वात्मन | \n\nसर्वस्वं कर्मनं नित्यं ध्यानं य: समुपासते ||10.1||",
+          "hindi": "भगवान ने कहा: \n\nहे अर्जुन, जो कर्म में लगे रहते हैं, जो भूत, भाव, आत्मा, और विश्व के आधार हैं, और जो प्रत्येक कार्य को मेरा ध्यान करते हुए करते हैं, वह श्रेष्ठ है।",
+          "english": "The Blessed Lord said: O Arjuna, those who engage in constant devotion, who are the soul and essence of all beings, and who perform all their actions with me in mind, are the best.",
+          "gujarati": "ભગવાને કહ્યું: \n\nહે અર્જુન, જે લોકો સતત ભક્તિમાં અને કર્મમાં મુકાયેલા છે, અને જે બધી પ્રવૃત્તિઓને મારે ધ્યાન કરીને કરે છે, તે શ્રેષ્ઠ છે।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 1",
+          "hindi": "श्लोक 1",
+          "english": "Verse 1",
+          "gujarati": "શ્લોક 1"
+        }
+      },
+      {
+        "id": 2,
+        "chapter_number": 10,
+        "text": {
+          "sanskrit": "महर्षय: सप्त पूर्वे चत्वारो मनवस्तथा | \n\nमद्भावा मानसाः सर्वे येषां श्रेणो ऽर्यवर्तिन: ||10.2||",
+          "hindi": "महर्षि सात और चार मनु पहले थे, वे सभी मेरी दिव्य प्रकृति से उत्पन्न हुए थे।",
+          "english": "The seven great sages and the four ancient Manus, who are the great minds, came into existence from my divine energy.",
+          "gujarati": "સાત મહર્ષિ અને ચાર પ્રાચીન મનુ જેઓ મહાન માનસિકતા ધરાવતા છે, તેઓ મારા દિવ્ય શક્તિથી જન્મેલા છે।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 2",
+          "hindi": "श्लोक 2",
+          "english": "Verse 2",
+          "gujarati": "શ્લોક 2"
+        }
+      },
+      {
+        "id": 3,
+        "chapter_number": 10,
+        "text": {
+          "sanskrit": "एवं प्रहास्य गच्छत्वं स्थितो विस्मयमोचितम् | \n\nत्वम् आद्येव महात्मा च परमात्मा सदाशिवः ||10.3||",
+          "hindi": "तुम प्रथम महान आत्मा और परमात्मा हो, और तुम ही सभी स्थूल और सूक्ष्म रूपों में स्थित हो।",
+          "english": "You are the primeval soul and supreme soul, and You are present in all beings, both gross and subtle.",
+          "gujarati": "તમે પ્રારંભિક આત્મા અને પરમાત્મા છો, અને તમે તમામ પ્રાણીઓમાં રહેલા છો, ભલે તે મોટાં હોય કે નાનાં।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 3",
+          "hindi": "श्लोक 3",
+          "english": "Verse 3",
+          "gujarati": "શ્લોક 3"
+        }
+      },
+      {
+        "id": 4,
+        "chapter_number": 10,
+        "text": {
+          "sanskrit": "वेदेषु यद्यत्सर्वं ब्रह्मस्त्रैवरिवरुणम् | \n\nगुह्येभ्यो हरि योगेभ्य: शुद्धात्मा आत्मनुस्थितम् ||10.4||",
+          "hindi": "सर्वे वेद जिनका अनुभव करते हैं और उनकी क्रिया पूर्ण रूप से देवत्व से मिलती है, यही उत्तम है।",
+          "english": "The knowledge of the Vedas is in You, and Your presence illuminates the three worlds.",
+          "gujarati": "જેનો અનુભવ સમગ્ર વૈદિક વિદ્યા છે, તેમનો ક્રિયા અને ક્રિયાઓ સૌ માં દેવરૂપે પૂર્ણ છે, તે શ્રેષ્ઠ છે।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 4",
+          "hindi": "श्लोक 4",
+          "english": "Verse 4",
+          "gujarati": "શ્લોક 4"
+        }
+      },
+      {
+        "id": 5,
+        "chapter_number": 10,
+        "text": {
+          "sanskrit": "न हि ज्ञानेनादिगच्छे: संस्कृतः आत्मनस्थयः | \n\nतस्मिन्ने परमात्मायां विद्यमाने महासु ||10.5||",
+          "hindi": "ज्ञान से, आत्मनिष्ठा से, तस्मिन परमात्मा में स्थित होकर, वे महासुंधि की अवस्था में पहुँचते हैं।",
+          "english": "Through knowledge, self-realization, and being established in the Supreme Lord, they reach the greatest state.",
+          "gujarati": "જ્ઞાન, આત્મનિષ્ઠા, અને પરમાત્મામાં સ્થિરતા દ્વારા, તેઓ શ્રેષ્ઠ અવસ્થા સુધી પહોંચી જાય છે।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 5",
+          "hindi": "श्लोक 5",
+          "english": "Verse 5",
+          "gujarati": "શ્લોક 5"
+        }
+      },
+      {
+        "id": 6,
+        "chapter_number": 10,
+        "text": {
+          "sanskrit": "न हि मया सर्वात्मना य: श्वेतं ब्राह्मं व्रजेत् | \n\nसर्वार्थं य: प्रपद्येते ममेश्वरि सर्वात्मना ||10.6||",
+          "hindi": "जो ब्राह्मण आत्मा के साथ पूर्ण रूप से कार्य करते हैं, वे मेरे ध्यान में स्थिर रहते हैं, और जो किसी भी वस्तु में नष्ट होने से बचते हैं, वे मेरे राज्य में पहुँचते हैं।",
+          "english": "Those who engage with me fully in every aspect of life, whether in the form of work or seeking knowledge, they ultimately come to me.",
+          "gujarati": "જે લોકો મારા સાથે સંપૂર્ણપણે દરેક ક્ષેત્રમાં સંકળાયેલા છે, કામ અથવા જ્ઞાનની આકારમાં, તે આખીરે મારા પરિપ્રેક્ષ્યમાં આવે છે।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 6",
+          "hindi": "श्लोक 6",
+          "english": "Verse 6",
+          "gujarati": "શ્લોક 6"
+        }
+      },
+      {
+        "id": 7,
+        "chapter_number": 10,
+        "text": {
+          "sanskrit": "वीर्यं तेजो दयां चक्षु: श्रीं सुखं शरणं शांति: ||10.7||",
+          "hindi": "शक्ति, तेज, दया, चक्षु, सौंदर्य, आनंद, समर्पण और शांति, ये सभी मेरी शरण में स्थित हैं।",
+          "english": "Strength, energy, vision, beauty, peace, and contentment, all reside in my divine manifestation.",
+          "gujarati": "શક્તિ, તેજ, દયાવાળો દૃષ્ટિ, સૌંદર્ય, શાંતિ, આનંદ અને શરણ, આ બધું મારા દેવશક્તિમાં છે।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 7",
+          "hindi": "श्लोक 7",
+          "english": "Verse 7",
+          "gujarati": "શ્લોક 7"
+        }
+      },
+      {
+        "id": 8,
+        "chapter_number": 10,
+        "text": {
+          "sanskrit": "सर्वात्मा शरणं प्रपद्येते हरं सर्वशक्तिमं | \n\nवीर्यं तेजो दयां चक्षु: श्रीं सुखं शरणं शांति: ||10.8||",
+          "hindi": "जो सभी में भगवान के अनुरूप हैं और श्री हरि की पूजा करते हैं, वे मोक्ष और शांति प्राप्त करते हैं।",
+          "english": "All beings that surrender to me attain the highest energy, peace, and joy.",
+          "gujarati": "જે બધાં સંસારમાંથી ભગવાનને અભ્યાસ કરીને મોહ અને શાંતિ મેળવી શકે છે, તેઓ શ્રેષ્ઠ તાકાત અને આનંદ મેળવી શકે છે।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 8",
+          "hindi": "श्लोक 8",
+          "english": "Verse 8",
+          "gujarati": "શ્લોક 8"
+        }
+      },
+      {
+        "id": 9,
+        "chapter_number": 10,
+        "text": {
+          "sanskrit": "तस्मिन्वश्वे आयुक्ते, वेधाधिको महात्मा | \n\nवीर्यं तेजो दया चक्षु: श्रीं शांति: सर्वोक्षं आस्थ | ||10.9||",
+          "hindi": "वह अज्ञेय हैं, जिनके भीतर महान आत्मा विराजमान है, उन्हें अंत में शांति और भाग्य प्राप्त होता है।",
+          "english": "He who is in constant remembrance of the Supreme Self, through wisdom and divinity, is blessed with ultimate tranquility and success.",
+          "gujarati": "જેઓ પરમાત્મામાં સતત સ્મરણ કરે છે, તેઓ શ્રેષ્ઠ આદર અને સફળતા પ્રાપ્ત કરે છે।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 9",
+          "hindi": "श्लोक 9",
+          "english": "Verse 9",
+          "gujarati": "શ્લોક 9"
+        }
+      },
+      {
+        "id": 10,
+        "chapter_number": 10,
+        "text": {
+          "sanskrit": "मन्त्रणा भव्यदा आयुक्तेरकृष्णनयनं सत्म्यः | \n\nनिरंतरदा भक्तिं कारयामीति तदस्मिनं ||10.10||",
+          "hindi": "भगवान, जो पवित्रता के स्वामी हैं, जिनकी प्रेरणा और प्रेम की कोई सीमा नहीं है, उनके साथ लगातार भक्ति करने से आत्मा की स्थिरता मिलती है।",
+          "english": "By constantly engaging in devotion to the Divine, whose grace is boundless, the soul attains the highest level of spiritual stability.",
+          "gujarati": "દેવદ્વારા શ્રેષ્ઠ ભક્તિની કરવાથી, જેના પર કૃપા અને પ્રેમ અનંત છે, આત્માને શ્રેષ્ઠ શાંતિ પ્રાપ્ત થાય છે।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 10",
+          "hindi": "श्लोक 10",
+          "english": "Verse 10",
+          "gujarati": "શ્લોક 10"
+        }
+      },
+      {
+        "id": 11,
+        "chapter_number": 10,
+        "text": {
+          "sanskrit": "ममोगं च य: साक्षात्संदृश्य भगवंतं योगसिद्धिः | \n\nसर्वकर्मपरायणं श्रद्धामायुक्तं सुखं सम्यक् ||10.11||",
+          "hindi": "जो मुझे साक्षात्कार से साक्षात्कार करते हैं, उनके साथ मेरा योग और हर कोई उसके आशीर्वाद से जुड़ा है।",
+          "english": "Those who experience direct contact with the divine through devotion are united with me in supreme oneness.",
+          "gujarati": "જે લોકો શ્રદ્ધાપૂર્વક કૃષ્ણને સંતુલિત કરે છે, તે શાંતિ અને ભગવાન સાથે શ્રેષ્ઠ એકતા મેળવવા માંગે છે।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 11",
+          "hindi": "श्लोक 11",
+          "english": "Verse 11",
+          "gujarati": "શ્લોક 11"
+        }
+      },
+      {
+        "id": 12,
+        "chapter_number": 10,
+        "text": {
+          "sanskrit": "तत्त्वे व्याख्यायहें महाशक्ति महाकारिय ||10.12||",
+          "hindi": "जो भगवान के साथ शक्तियों और कार्यों से जुड़ते हैं, उनके भीतर गहरी शक्ति और समृद्धि है।",
+          "english": "Those who are connected with the Lord's supreme powers have deep divine strength and prosperity.",
+          "gujarati": "જે ભગવાન સાથે જોડાયેલા છે, તેમના આત્મામાં શક્તિ અને સમૃદ્ધિનું નિર્માણ થાય છે।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 12",
+          "hindi": "श्लोक 12",
+          "english": "Verse 12",
+          "gujarati": "શ્લોક 12"
+        }
+      },
+      {
+        "id": 13,
+        "chapter_number": 10,
+        "text": {
+          "sanskrit": "आदित्यं च द्वादशं च कालस्मरणं शिवा | \n\nमुक्तानां कर्मसिद्धिः सर्वारंभं च तद्वयं ||10.13||",
+          "hindi": "आदित्य को, द्वादश को, समय को, विशेष रूप से शिवा के रूप में - इन कार्यों को शुद्ध रूप से कर्म का सिद्धि मिलती है।",
+          "english": "The twelve months, the sun, and the moment of time - all these actions grant liberation and help in reaching the ultimate goal.",
+          "gujarati": "બાર મહિના, સૂર્ય અને સમયનું પ્રત્યેક પ્રસંગ - આ તમામ ક્રિયાઓ મુક્તિ પ્રાપ્ત કરવા માટે શ્રેષ્ઠ કાર્ય કરી શકે છે।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 13",
+          "hindi": "श्लोक 13",
+          "english": "Verse 13",
+          "gujarati": "શ્લોક 13"
+        }
+      },
+      {
+        "id": 14,
+        "chapter_number": 10,
+        "text": {
+          "sanskrit": "नश्वरता समायुक्त्वा ज्ञानी करहिवलंबनं | \n\nध्यानं शिवं सरस्वत्यां च कार्यसंवर्धनं ||10.14||",
+          "hindi": "ज्ञानियों द्वारा केवल अडिग एकता के माध्यम से ध्यान, शांतिपूर्ण तप और सहयोग से कर्मों का प्रचार बढ़ता है।",
+          "english": "Through undistracted focus and unity of thought, knowledge and meditation lead to the highest prosperity and development.",
+          "gujarati": "અવિરત ધ્યાન અને એકતા થકી જ્ઞાન અને મેડિટેશન શ્રેષ્ઠ પ્રગતિ અને વિકાસ તરફ દોરી જાય છે।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 14",
+          "hindi": "श्लोक 14",
+          "english": "Verse 14",
+          "gujarati": "શ્લોક 14"
+        }
+      },
+      {
+        "id": 15,
+        "chapter_number": 10,
+        "text": {
+          "sanskrit": "निर्मुक्तं जं विशेषेण गूढं श्रद्धया स्तुति | \n\nध्यायं गुरु भक्तिं योगांशु तत्तु मार्गेण सम्यक् ||10.15||",
+          "hindi": "जो गुरु और भक्ति से मंत्र करते हैं और ध्यान में स्थिर रहते हैं, वे आत्मा के मार्ग में श्रेष्ठतम दिशा प्राप्त करते हैं।",
+          "english": "Through complete devotion and proper focus on the guru's guidance, they attain the highest spiritual path.",
+          "gujarati": "પૂર્ણ ભક્તિ અને શ્રદ્ધાથી ગુરુની માર્ગદર્શન પર ધ્યાન કેન્દ્રિત કરીને તેઓ શ્રેષ્ઠ આત્મિક માર્ગ પર પહોંચે છે।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 15",
+          "hindi": "श्लोक 15",
+          "english": "Verse 15",
+          "gujarati": "શ્લોક 15"
+        }
+      },
+      {
+        "id": 16,
+        "chapter_number": 10,
+        "text": {
+          "sanskrit": "सप्तमं च दिव्यं कार्यं महामंत्रं विशुद्धि | \n\nमुक्तिपद्धति कर्मप्रज्ञाँ च लोकं साकारस्य ||10.16||",
+          "hindi": "सात दिव्य रूपों द्वारा कर्म के श्रेष्ठ मंत्र और भक्ति द्वारा लोक में स्थित होते हुए, वह परमगति की ओर अग्रसर होते हैं।",
+          "english": "The seven divine aspects and the supreme mantra lead the devoted soul toward ultimate liberation.",
+          "gujarati": "સાત દૈવી રૂપો અને શ્રેષ્ઠ મંત્ર ભક્તિ દ્વારા આત્માને પરમ મુક્તિ તરફ દોરી જાય છે।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 16",
+          "hindi": "श्लोक 16",
+          "english": "Verse 16",
+          "gujarati": "શ્લોક 16"
+        }
+      },
+      {
+        "id": 17,
+        "chapter_number": 10,
+        "text": {
+          "sanskrit": "अग्निः सूर्यं च बुद्धिं च शान्तं य: शरणं समीप् | \n\nभगवानं च अहं च ध्यानां सुलभं कर्मसिद्धम् ||10.17||",
+          "hindi": "जो अग्नि, सूर्य, और शांति के स्वरूप में भगवान के ध्यान से स्थिर रहते हैं, वे कर्मों को सिद्ध करते हैं।",
+          "english": "The fire, the sun, and tranquility of the mind - those who are devoted to the divine achieve the perfection of their work.",
+          "gujarati": "આગ, સૂર્ય, અને મનની શાંતિ - જે લોકો દેવ માટે ભક્તિ કરે છે, તેઓ તેમના કાર્યને પૂર્ણ કરે છે।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 17",
+          "hindi": "श्लोक 17",
+          "english": "Verse 17",
+          "gujarati": "શ્લોક 17"
+        }
+      },
+      {
+        "id": 18,
+        "chapter_number": 10,
+        "text": {
+          "sanskrit": "श्रीनिवासं महाशक्तिं भगवतः शरणं प्रपद्येते ||10.18||",
+          "hindi": "महाशक्ति के स्वरूप में भगवान श्रीनिवास की शरण में जाते हुए, वे परमगति प्राप्त करते हैं।",
+          "english": "Surrendering to the Divine form of Lord Srinivasa, they attain the highest state of liberation.",
+          "gujarati": "ભગવાન શ્રીનિવાસના દેવરૂપે શરણ લઈ, તેઓ શ્રેષ્ઠ મુક્તિ પ્રાપ્ત કરે છે।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 18",
+          "hindi": "श्लोक 18",
+          "english": "Verse 18",
+          "gujarati": "શ્લોક 18"
+        }
+      },
+      {
+        "id": 19,
+        "chapter_number": 10,
+        "text": {
+          "sanskrit": "तद्भावा य: प्रवृत्ति सहित सर्वात्मा पत्यति ||10.19||",
+          "hindi": "जो मेरे भव्य रूप में स्थिर रहते हैं, उनके लिए मेरी शक्ति बढ़ती है।",
+          "english": "Those who are devoted to my magnificent form experience my boundless power.",
+          "gujarati": "જે મારા ભવ્ય રૂપમાં સ્થિર હોય છે, તેઓ મારી અનંત શક્તિનો અનુભવ કરે છે।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 19",
+          "hindi": "श्लोक 19",
+          "english": "Verse 19",
+          "gujarati": "શ્લોક 19"
+        }
+      },
+      {
+        "id": 20,
+        "chapter_number": 10,
+        "text": {
+          "sanskrit": "अखण्डं दिव्यं श्रेणो द्विभागिनं त्रिंशत्सु विद्यमानं ||10.20||",
+          "hindi": "जो सब कार्यों में दक्ष रहते हैं, उनका आत्मा आत्मप्रकाश से उन्नति करता है।",
+          "english": "Those who are proficient in every action progress in self-realization through divine light.",
+          "gujarati": "જે દરેક કાર્યમાં નિષ્ણાત છે, તેઓ દેવપ્રકાશ દ્વારા આત્મસમજથી ઉન્નતિ પામે છે।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 20",
+          "hindi": "श्लोक 20",
+          "english": "Verse 20",
+          "gujarati": "શ્લોક 20"
+        }
+      },
+      {
+        "id": 21,
+        "chapter_number": 10,
+        "text": {
+          "sanskrit": "स्वामिनं आत्मानं परं आत्मप्रकाशं अनन्तं | \n\nवयं भी भावयन्ति सेतूः ||10.21||",
+          "hindi": "जो अपने भीतर परमात्मा के अनुभव से स्वाभाविक रूप से जुड़ा हुआ है, वह अंततः सर्वोच्चता को प्राप्त करता है।",
+          "english": "The one who naturally connects with the Divine presence within them attains the highest state of spiritual mastery.",
+          "gujarati": "જે ભગવાન સાથે પોતાના આંતરિક અભ્યાસે જોડાઈ છે, તે આત્મિક મહત્તા સુધી પહોંચે છે।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 21",
+          "hindi": "श्लोक 21",
+          "english": "Verse 21",
+          "gujarati": "શ્લોક 21"
+        }
+      },
+      {
+        "id": 22,
+        "chapter_number": 10,
+        "text": {
+          "sanskrit": "आपल्या प्रतिबिंब आणि શ્રેષ્ઠતા આત્મવિશ્વસને શક્ય કરે છે! ||10.22||",
+          "hindi": "वो सब कार्य जो आत्मिक उन्नति में सहायक होते हैं, वे हमें परमात्मा के कारण जो शक्तियां प्रदान करते हैं।",
+          "english": "Every task that aids spiritual progress is enhanced by the divine powers of the Lord.",
+          "gujarati": "દરેક કાર્ય જે આત્મિક વિકાસને પ્રોત્સાહિત કરે છે, તે ભગવાનના દૈવી શક્તિથી સુધારિત થાય છે।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 22",
+          "hindi": "श्लोक 22",
+          "english": "Verse 22",
+          "gujarati": "શ્લોક 22"
+        }
+      },
+      {
+        "id": 23,
+        "chapter_number": 10,
+        "text": {
+          "sanskrit": "प्रत्येक कर्म में परमात्मा का ध्यान, मनुष्य को सर्वोच्च से परिपूर्ण करता है। ||10.23||",
+          "hindi": "हर कार्य में भगवान का ध्यान मनुष्य को सर्वोच्च से शुद्ध करता है।",
+          "english": "By meditating on the Divine in every action, a person becomes purified and attains the highest.",
+          "gujarati": "દરેક કાર્યમાં દેવનું ધ્યાન કરીને વ્યક્તિ શુદ્ધ થાય છે અને શ્રેષ્ઠ અવસ્થાને પ્રાપ્ત કરે છે।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 23",
+          "hindi": "श्लोक 23",
+          "english": "Verse 23",
+          "gujarati": "શ્લોક 23"
+        }
+      },
+      {
+        "id": 24,
+        "chapter_number": 10,
+        "text": {
+          "sanskrit": "ध्यान पूर्णता में। ||10.24||",
+          "hindi": "ध्यान के द्वारा प्राप्त हो, अथवा मनुष्य भगवान के व्यक्तित्व का वास्तविक रूप तक प्राप्त करता है।",
+          "english": "By devotion through meditation, the soul reaches the true form of the Divine.",
+          "gujarati": "ધ્યાન દ્વારા ભક્તિ કરીને, આત્મા ભગવાનના ખરાં સ્વરૂપ સુધી પહોંચે છે।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 24",
+          "hindi": "श्लोक 24",
+          "english": "Verse 24",
+          "gujarati": "શ્લોક 24"
+        }
+      },
+      {
+        "id": 25,
+        "chapter_number": 10,
+        "text": {
+          "sanskrit": "सर्वकामेषु संतुष्ट वाणी ध्यानम् अस्मिन आध्यात्मिकम्। ||10.25||",
+          "hindi": "उसके द्वारा सभी कार्यों को किया जाता है जो भक्ति में रहते हैं।",
+          "english": "Those who act through divine focus are always at peace and immersed in spiritual bliss.",
+          "gujarati": "જે દૈવી ધ્યાન દ્વારા કાર્ય કરે છે, તે સર્વપ્રકાર શાંતિમાં અને આત્મિક આનંદમાં સ્થિત રહે છે।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 25",
+          "hindi": "श्लोक 25",
+          "english": "Verse 25",
+          "gujarati": "શ્લોક 25"
+        }
+      },
+      {
+        "id": 26,
+        "chapter_number": 10,
+        "text": {
+          "sanskrit": "य: सर्वेण ब्राह्मणा साधुर्मुने: साधनाय च ||10.26||",
+          "hindi": "जो अपने आप को ज्ञान से सुधारते हैं, वह ब्राह्मण के सदृश होते हैं।",
+          "english": "Those who purify themselves through knowledge are similar to Brahman in their nature.",
+          "gujarati": "જે પોતાના આત્માને જ્ઞાનથી શુદ્ધ કરે છે, તે બ્રાહ્મણ જેવા હોય છે।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 26",
+          "hindi": "श्लोक 26",
+          "english": "Verse 26",
+          "gujarati": "શ્લोक 26"
+        }
+      },
+      {
+        "id": 27,
+        "chapter_number": 10,
+        "text": {
+          "sanskrit": "शरणं भक्तियोगं च तपस्विता ब्राह्मणा च ||10.27||",
+          "hindi": "जो ब्राह्मण जीवन में तपस्या और भक्ति का पालन करते हैं, वह वास्तविक मुक्ति को प्राप्त करते हैं।",
+          "english": "Those who practice penance and devotion in their lives, they attain the true liberation.",
+          "gujarati": "જે લોકો તેમના જીવનમાં તપસ્યાના અને ભક્તિની પ્રથાને અનુસરે છે, તેઓ સચ્ચી મુક્તિ મેળવે છે।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 27",
+          "hindi": "श्लोक 27",
+          "english": "Verse 27",
+          "gujarati": "શ્લोक 27"
+        }
+      },
+      {
+        "id": 28,
+        "chapter_number": 10,
+        "text": {
+          "sanskrit": "सर्वज्ञं च सर्वशक्तिमं च ब्राह्मणं भक्तिं च तत्त्ववित् ||10.28||",
+          "hindi": "जो ब्राह्मण सभी ज्ञानी और सर्वशक्तिमान हैं, वह भक्तिके मार्ग को अवलंबित करते हैं।",
+          "english": "Those Brahmins, who are all-knowing and all-powerful, follow the path of devotion.",
+          "gujarati": "જે બ્રાહ્મણ સર્વજ્ઞાની અને સર્વશક્તિમાન છે, તેઓ ભક્તિના માર્ગ પર ચાલે છે।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 28",
+          "hindi": "श्लोक 28",
+          "english": "Verse 28",
+          "gujarati": "શ્લોક 28"
+        }
+      },
+      {
+        "id": 29,
+        "chapter_number": 10,
+        "text": {
+          "sanskrit": "मुनि: श्रद्दधानं च साधुं भक्तियोगं सर्वे ||10.29||",
+          "hindi": "जो तपस्वी और श्रद्धाशील होते हैं, वे भक्ति और साधना के मार्ग पर टिके रहते हैं।",
+          "english": "Those who are ascetic and full of faith, remain steadfast on the path of devotion and practice.",
+          "gujarati": "જે તપસ્વી અને શ્રદ્ધાવાન હોય છે, તેઓ ભક્તિ અને સાધનાના માર્ગ પર અડગ રહે છે।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 29",
+          "hindi": "श्लोक 29",
+          "english": "Verse 29",
+          "gujarati": "શ્લોક 29"
+        }
+      },
+      {
+        "id": 30,
+        "chapter_number": 10,
+        "text": {
+          "sanskrit": "दिव्यं द्वे संप्रदायां च ब्राह्मणा कारितं शुभं ||10.30||",
+          "hindi": "भक्ति द्वारा दिए गए दिव्य कार्यों से पुण्य मिलता है।",
+          "english": "The divine actions through devotion lead to the accumulation of good karma and virtues.",
+          "gujarati": "ભક્તિ દ્વારા કરવામાં આવેલ દૈવી ક્રિયાઓ શુભ કર્મ અને ગુણોના સંચય તરફ દોરી જાય છે।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 30",
+          "hindi": "श्लोक 30",
+          "english": "Verse 30",
+          "gujarati": "શ્લोक 30"
+        }
+      },
+      {
+        "id": 31,
+        "chapter_number": 10,
+        "text": {
+          "sanskrit": "सच्चिदानं ब्राह्मणे च भक्ते च सर्वगः सम्यक् ||10.31||",
+          "hindi": "जो ब्राह्मण सच्चिदानंद स्वरूप में ध्यान करते हैं, उनका हृदय परमात्मा से जुड़ा रहता है।",
+          "english": "The Brahman who meditates on the truth of existence, their heart is eternally connected to the Divine.",
+          "gujarati": "જે બ્રાહ્મણ સત્ય અને અસ્તિત્વના સ્વરૂપમાં ધ્યાન કરે છે, તેમનો હૃદય સદાય માટે દેવ સાથે જોડાય છે।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 31",
+          "hindi": "श्लोक 31",
+          "english": "Verse 31",
+          "gujarati": "શ્લોક 31"
+        }
+      },
+      {
+        "id": 32,
+        "chapter_number": 10,
+        "text": {
+          "sanskrit": "आकाशं वायुः विधृतो ग्रंथी योगवृत्तियों विभाति ||10.32||",
+          "hindi": "वायु और आकाश की गाथा, योग में तपस्या से जुड़ी होती है।",
+          "english": "The union of air and space reflects the essence of yoga and its connection with the universe.",
+          "gujarati": "વાતાવરણ અને આકાશની ગાથા, યોગમાં તપસ્યાની સાથે જોડાય છે।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 32",
+          "hindi": "श्लोक 32",
+          "english": "Verse 32",
+          "gujarati": "શ્લોક 32"
+        }
+      },
+      {
+        "id": 33,
+        "chapter_number": 10,
+        "text": {
+          "sanskrit": "कृपायोगं महामृतं ब्राह्मणा च तत्त्ववित् ||10.33||",
+          "hindi": "भक्ति द्वारा, महान मृत्यु और ब्राह्मण के मार्ग को प्राप्त करते हैं।",
+          "english": "Through devotion, one attains the great liberation and the path of Brahman.",
+          "gujarati": "ભક્તિ દ્વારા, કોઈ મહાન મુક્તિ અને બ્રાહ્મણનો માર્ગ પ્રાપ્ત કરે છે।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 33",
+          "hindi": "श्लोक 33",
+          "english": "Verse 33",
+          "gujarati": "શ્લोक 33"
+        }
+      },
+      {
+        "id": 34,
+        "chapter_number": 10,
+        "text": {
+          "sanskrit": "स्वरूपेणात्मभक्तं य: शरणं सर्वकर्मणि ||10.34||",
+          "hindi": "जो ब्राह्मण आकाश की गाथा से जुड़े रहते हैं, उन्हें सर्वकर्मों में सफलता प्राप्त होती है।",
+          "english": "The one who is united with the Divine, attains success in all endeavors.",
+          "gujarati": "જે બ્રાહ્મણ આકાશ સાથે જોડાય છે, તે સર્વ ક્રિયાઓમાં સફળતા પ્રાપ્ત કરે છે।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 34",
+          "hindi": "श्लोक 34",
+          "english": "Verse 34",
+          "gujarati": "શ્લोक 34"
+        }
+      },
+      {
+        "id": 35,
+        "chapter_number": 10,
+        "text": {
+          "sanskrit": "भक्त्या कर्मणी सिद्द्धि: सर्वकर्मणा च साधयेत् ||10.35||",
+          "hindi": "भक्ति द्वारा, कर्मों में सिद्धि प्राप्त होती है।",
+          "english": "Through devotion, one attains perfection in all actions.",
+          "gujarati": "ભક્તિ દ્વારા, દરેક કાર્યમાં সিদ্ধિ પ્રાપ્ત થાય છે।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 35",
+          "hindi": "श्लोक 35",
+          "english": "Verse 35",
+          "gujarati": "શ્લોક 35"
+        }
+      },
+      {
+        "id": 36,
+        "chapter_number": 10,
+        "text": {
+          "sanskrit": "ब्रह्मनं लोकनाथं च साक्षात् च स्वमं समुच्यते ||10.36||",
+          "hindi": "ब्राह्मणों का साथ देने से, ब्राह्मण अपने कार्यों में सफलता प्राप्त करते हैं।",
+          "english": "By associating with Brahman, one achieves success in their deeds.",
+          "gujarati": "બ્રાહ્મણો સાથે જોડાવાથી, બ્રાહ્મણ તેમના કર્મોમાં સફળતા પ્રાપ્ત કરે છે।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 36",
+          "hindi": "श्लोक 36",
+          "english": "Verse 36",
+          "gujarati": "શ્લોક 36"
+        }
+      },
+      {
+        "id": 37,
+        "chapter_number": 10,
+        "text": {
+          "sanskrit": "शरीरकर्म से, हर्षानंद का अनुभव होता है। ||10.37||",
+          "hindi": "शरीर द्वारा, व्यक्ति आनंद का अनुभव करता है।",
+          "english": "Through physical actions, one experiences bliss and joy.",
+          "gujarati": "શરીરકર્મ દ્વારા, વ્યક્તિ આનંદ અને આનંદનો અનુભવ કરે છે।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 37",
+          "hindi": "श्लोक 37",
+          "english": "Verse 37",
+          "gujarati": "શ્લોક 37"
+        }
+      },
+      {
+        "id": 38,
+        "chapter_number": 10,
+        "text": {
+          "sanskrit": "वैकुण्ठं विष्णुं च सर्वदा सर्वेभ्य: प्राप्तं ||10.38||",
+          "hindi": "जो सभी कार्यों में विश्वास करते हैं, वह सर्वदा भगवान को प्राप्त करते हैं।",
+          "english": "Those who have faith in all actions, attain the divine presence of the Lord.",
+          "gujarati": "જે સર્વક્રિયાઓમાં શ્રદ્ધા રાખે છે, તે ભગવાનની દૈવી હાજરી પ્રાપ્ત કરે છે।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 38",
+          "hindi": "श्लोक 38",
+          "english": "Verse 38",
+          "gujarati": "શ્લોક 38"
+        }
+      },
+      {
+        "id": 39,
+        "chapter_number": 10,
+        "text": {
+          "sanskrit": "निवृत्तस्य व्रजतं च ब्राह्मणं शुद्धत: श्रुति: ||10.39||",
+          "hindi": "जिसे सर्वे ज्ञान के साथ प्रज्ञा प्राप्त होती है, वह ब्राह्मण रूप में समृद्ध होता है।",
+          "english": "One who attains wisdom with complete knowledge, thrives in the form of a Brahman.",
+          "gujarati": "જે સંપૂર્ણ જ્ઞાન સાથે પ્રজ্ঞા પ્રાપ્ત કરે છે, તે બ્રાહ્મણ રૂપે સમૃદ્ધ થાય છે।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 39",
+          "hindi": "श्लोक 39",
+          "english": "Verse 39",
+          "gujarati": "શ્લોક 39"
+        }
+      },
+      {
+        "id": 40,
+        "chapter_number": 10,
+        "text": {
+          "sanskrit": "शरीरम्यायं आकाशरूपेण मुक्तम् ||10.40||",
+          "hindi": "इस शरीर में स्थिर रहते हुए, व्यक्ति ब्राह्मण रूप में आत्मज्ञान प्राप्त करता है।",
+          "english": "While remaining in the body, one attains self-realization as the true Brahman.",
+          "gujarati": "શરીરમાં સ્થિર રહીને, વ્યક્તિ બ્રાહ્મણ રૂપે આત્મજ્ઞાન પ્રાપ્ત કરે છે।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 40",
+          "hindi": "श्लोक 40",
+          "english": "Verse 40",
+          "gujarati": "શ્લોક 40"
+        }
+      },
+      {
+        "id": 41,
+        "chapter_number": 10,
+        "text": {
+          "sanskrit": "प्रेमात्मकं वृत्यवृत्तिं पश्यतं आत्मसिद्धिम् ||10.41||",
+          "hindi": "जो प्रेमात्मक स्थिति को प्राप्त करते हैं, वह आत्मा में सिध्धि प्राप्त करते हैं।",
+          "english": "Those who attain the loving state, achieve self-realization.",
+          "gujarati": "જે પ્રેમાત્મક સ્થિતિ પ્રાપ્ત કરે છે, તે આત્મજ્ઞાન મેળવે છે।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 41",
+          "hindi": "श्लोक 41",
+          "english": "Verse 41",
+          "gujarati": "શ્લોક 41"
+        }
+      },
+      {
+        "id": 42,
+        "chapter_number": 10,
+        "text": {
+          "sanskrit": "तेषाम् ब्राह्मणात्मानं श्रेयं परमं गच्छेत् ||10.42||",
+          "hindi": "जो ब्राह्मण रूप में भगवान का भान करते हैं, वह परम शरण में आते हैं।",
+          "english": "Those who realize the divine in the form of Brahman, reach the supreme refuge.",
+          "gujarati": "જે બ્રાહ્મણ સ્વરૂપમાં ભગવાનનો ભાન કરે છે, તે પરમ શરણમાં પહોંચે છે।"
+        },
+        "title": {
+          "sanskrit": "श्लोक 42",
+          "hindi": "श्लोक 42",
+          "english": "Verse 42",
+          "gujarati": "શ્લોક 42"
+        }
+      },
 
 
 
@@ -4921,28 +6677,888 @@
 
 
 
+    {
+      "id": 1,
+      "chapter_number": 11,
+      "text": {
+        "sanskrit": "अर्जुन उवाच | \n\nविश्वं विश्वेर्ष्यामीशम् सर्वं यत्र विश्वं प्रतिष्ठितम् | \n\nयस्यां विक्षय अर्पितं तन्वं भाग्यः ||11.1||",
+        "hindi": "अर्जुन ने कहा:\n\nहे कृष्ण, जब मैंने तुझे देखा, तब मैं समस्त ब्रह्मांड के लिए तुम्हारे दर्शन किया। क्या यह सब बहुत अच्छा दृष्टिकोण है?",
+        "english": "Arjuna said: O Krishna, after I see you, I witness all the creation in the universe, are these good sights to behold? (11.1)",
+        "gujarati": "અર્જુનએ કહ્યું: કૃષ્ણ, જ્યારે મેં તમને જોઈ છે, ત્યારે હું સમગ્ર બ્રહ્માંડના દર્શન કરી રહ્યો છું. શું આ બધું જોઈએ તે શ્રેષ્ઠ દ્રષ્ટિ છે?"
+      },
+      "title": {
+        "sanskrit": "श्लोक 1",
+        "hindi": "श्लोक 1",
+        "english": "Verse 1",
+        "gujarati": "શ્લોક 1"
+      }
+    },
+    {
+      "id": 2,
+      "chapter_number": 11,
+      "text": {
+        "sanskrit": "प्रस्तावितां चरणं वयम् एवं चेत् अहम् अस्ति। \n\nसमान्यं व्यवहार का क्रियावाधु ।",
+        "hindi": "हे कृष्ण, सृष्टि की स्थितियां मेरे लिए समझ में आ रही हैं, इसलिए मुझे विस्तृत रूप से देखने की आवश्यकता है।",
+        "english": "O Krishna, I am beginning to understand the states of the creation, but I need a more detailed view of it. (11.2)",
+        "gujarati": "હે કૃષ્ણ, હું સૃષ્ટિના પરિસ્થિતિઓને સમજવા લાગ્યો છું, પરંતુ મને તેનો વિશદ દૃષ્ટિ જોઈને સમજી લેવી છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 2",
+        "hindi": "श्लोक 2",
+        "english": "Verse 2",
+        "gujarati": "શ્લોક 2"
+      }
+    },
+    {
+      "id": 3,
+      "chapter_number": 11,
+      "text": {
+        "sanskrit": "एवं विश्वात्मनि | \n\nविश्वासीन तस्मिं प्रसिद्धम्। \n\nक्षित्या समृद्धिपात्रे णुसार्य शेषास श्री।",
+        "hindi": "तेरी प्रमुखता ब्रह्मांड के बारे में स्पष्ट है, विशेष रूप से उन स्थितियों के बारे में जिन्हें हम अब देख सकते हैं।",
+        "english": "Your prominent form as the supreme being is now clearly visible, especially in these conditions which I can now perceive. (11.3)",
+        "gujarati": "તમારી મુખ્ય સ્વરૂપે બ્રહ્માંડના વિશે સ્પષ્ટ છે, ખાસ કરીને તે પરિસ્થિતિઓમાં હું હવે જોઈ શકું છું."
+      },
+      "title": {
+        "sanskrit": "श्लोक 3",
+        "hindi": "श्लोक 3",
+        "english": "Verse 3",
+        "gujarati": "શ્લોક 3"
+      }
+    },
+    {
+      "id": 4,
+      "chapter_number": 11,
+      "text": {
+        "sanskrit": "दृश्यं या रूपस्मिन् रूप्रदा ध्रुवं यथारुचि।",
+        "hindi": "हे कृष्ण, अब जो रूप मैंने देखा है, वह वास्तव में अद्भुत है। यह रूप अनंत और अविनाशी है।",
+        "english": "O Krishna, now the form I am seeing is truly amazing. This form is infinite and indestructible. (11.4)",
+        "gujarati": "હે કૃષ્ણ, હવે જે સ્વરૂપ મેં જોયું છે તે ખરેખર આશ્ચર્યજનક છે. આ સ્વરૂપ અનંત અને અવિનાશી છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 4",
+        "hindi": "श्लोक 4",
+        "english": "Verse 4",
+        "gujarati": "શ્લોક 4"
+      }
+    },
+    {
+      "id": 5,
+      "chapter_number": 11,
+      "text": {
+        "sanskrit": "देवा ब्रह्मणि भूतवप्रासे | मन्थानाक्षि सर्वे स्वेन्दिरसम्पन्न।",
+        "hindi": "हे कृष्ण, आपने मुझे जो रूप दिखाया, उसमें समस्त देवताओं का और ब्रह्मा की शक्ति का अस्तित्व है।",
+        "english": "O Krishna, the form you have shown me contains all the gods and the power of Brahma. (11.5)",
+        "gujarati": "હે કૃષ્ણ, તમે મને જે સ્વરૂપ દર્શાવ્યું છે, તેમાં બધા દેવતાઓ અને બ્રહ્માની શક્તિ છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 5",
+        "hindi": "श्लोक 5",
+        "english": "Verse 5",
+        "gujarati": "શ્લોક 5"
+      }
+    },
+    {
+      "id": 6,
+      "chapter_number": 11,
+      "text": {
+        "sanskrit": "न मुच्यमानं षण्मुखिवान्ग्रामे | सुरभेद्य कर्तं धर्मपत्नीं समाश्रयति |",
+        "hindi": "जो व्यक्ति इस रूप को देखता है, वह असीम अनंत शक्ति का साक्षात्कार करता है और उसे मोक्ष की प्राप्ति होती है।",
+        "english": "The one who perceives this form attains infinite and eternal power and eventually experiences liberation. (11.6)",
+        "gujarati": "જે આ સ્વરૂપને જોવે છે, તે અનંત અને શાશ્વત શક્તિ પ્રાપ્ત કરે છે અને અંતે મુક્તિનો અનુભવ કરે છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 6",
+        "hindi": "श्लोक 6",
+        "english": "Verse 6",
+        "gujarati": "શ્લोक 6"
+      }
+    },
+    {
+      "id": 7,
+      "chapter_number": 11,
+      "text": {
+        "sanskrit": "आनन्देषु समृद्धिके | नाशे फलेषु प्रज्ञायं.",
+        "hindi": "हे कृष्ण, इस रूप में आप सभी स्थिति में व्याप्त हैं, जो व्यक्ति इस रूप को देखता है, उसे सच्ची आस्था प्राप्त होती है।",
+        "english": "O Krishna, in this form, you are present in all conditions, and anyone who perceives it will gain true devotion. (11.7)",
+        "gujarati": "હે કૃષ્ણ, આ સ્વરૂપમાં તમે તમામ પરિસ્થિતિઓમાં વ્યાપક છો, અને જે વ્યક્તિ આ સ્વરૂપને જોઈ છે તે સાચી ભક્તિ મેળવે છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 7",
+        "hindi": "श्लोक 7",
+        "english": "Verse 7",
+        "gujarati": "શ્લોક 7"
+      }
+    },
+    {
+      "id": 8,
+      "chapter_number": 11,
+      "text": {
+        "sanskrit": "ज्येष्ठन्यं परमाथमः सर्वेन्द्रेव केतं |",
+        "hindi": "जो यह स्वरूप देखता है, वह आत्मज्ञान की प्राप्ति करता है और हर दुराचार से मुक्त हो जाता है।",
+        "english": "One who perceives this form attains self-realization and becomes free from all misdeeds. (11.8)",
+        "gujarati": "જે આ સ્વરૂપને જોઈ છે તે આત્મજ્ઞાન પ્રાપ્ત કરે છે અને બધા દુશ્મનોથી મુક્ત થાય છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 8",
+        "hindi": "श्लोक 8",
+        "english": "Verse 8",
+        "gujarati": "શ્લોક 8"
+      }
+    },
+    {
+      "id": 9,
+      "chapter_number": 11,
+      "text": {
+        "sanskrit": "प्रेम कांतप्रदविरोधी | तत्मै तव पुरकृत्यं.",
+        "hindi": "हे कृष्ण, मैं आपको सर्वशक्तिमान रूप में देखता हूँ, जो प्रेम से भरा हुआ है।",
+        "english": "O Krishna, I see you in your omnipotent form, full of love and grace. (11.9)",
+        "gujarati": "હે કૃષ્ણ, હું તમને સર્વશક્તિમાન સ્વરૂપમાં જોઈ રહ્યો છું, જે પ્રેમ અને કૃપાથી ભરપૂર છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 9",
+        "hindi": "श्लोक 9",
+        "english": "Verse 9",
+        "gujarati": "શ્લોક 9"
+      }
+    },
+    {
+      "id": 10,
+      "chapter_number": 11,
+      "text": {
+        "sanskrit": "अध्यान ब्रह्मंडात्माकिं उग्र कृतज्ञ यत्यमी |",
+        "hindi": "हे कृष्ण, इस रूप को देखकर मैं ज्ञान से परिपूर्ण हुआ हूँ और सभी बंधनों से मुक्त हो गया हूँ।",
+        "english": "O Krishna, by seeing this form, I have become filled with knowledge and liberated from all bondages. (11.10)",
+        "gujarati": "હે કૃષ્ણ, આ સ્વરૂપને જોઈને હું જ્ઞાનથી પરિપૂર્ણ થઈ ગયો છું અને તમામ બંધનોમાંથી મુક્ત થઈ ગયો છું."
+      },
+      "title": {
+        "sanskrit": "श्लोक 10",
+        "hindi": "श्लोक 10",
+        "english": "Verse 10",
+        "gujarati": "શ્લોક 10"
+      }
+    },
+    {
+      "id": 11,
+      "chapter_number": 11,
+      "text": {
+        "sanskrit": "श्रद्धा पथप्रकाशी शरणव।",
+        "hindi": "हे कृष्ण, मैं आपकी महिमा और दिव्यता का अनुसरण कर रहा हूँ।",
+        "english": "O Krishna, I am following your greatness and divinity. (11.11)",
+        "gujarati": "હે કૃષ્ણ, હું તમારી મહિમા અને દૈવીયતા અનુસરી રહ્યો છું."
+      },
+      "title": {
+        "sanskrit": "श्लोक 11",
+        "hindi": "श्लोक 11",
+        "english": "Verse 11",
+        "gujarati": "શ્લોક 11"
+      }
+    },
+    {
+      "id": 12,
+      "chapter_number": 11,
+      "text": {
+        "sanskrit": "मनुष्यांशस्त्रिविधं।",
+        "hindi": "जो मेरे रूप को देखता है, वह तत्वज्ञान में विश्वास रखता है।",
+        "english": "One who perceives my form, believes in true knowledge. (11.12)",
+        "gujarati": "જે મારા સ્વરૂપને જોઈ છે, તે સત્ય જ્ઞાનમાં વિશ્વાસ રાખે છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 12",
+        "hindi": "श्लोक 12",
+        "english": "Verse 12",
+        "gujarati": "શ્લોક 12"
+      }
+    },
+    {
+      "id": 13,
+      "chapter_number": 11,
+      "text": {
+        "sanskrit": "दिव्यं ददामि दृष्टं तु भगवान् निराकार्यं।",
+        "hindi": "हे कृष्ण, मैंने तुम्हारा दिव्य रूप देखा है, जो सर्वव्यापी और निराकार है।",
+        "english": "O Krishna, I have seen Your divine form, which is all-pervading and formless. (11.13)",
+        "gujarati": "હે કૃષ્ણ, મેં તમારું દૈવી સ્વરૂપ જોયું છે, જે સર્વવ્યાપી અને નિરાકાર છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 13",
+        "hindi": "श्लोक 13",
+        "english": "Verse 13",
+        "gujarati": "શ્લોક 13"
+      }
+    },
+    {
+      "id": 14,
+      "chapter_number": 11,
+      "text": {
+        "sanskrit": "विजयं ब्रह्मनिर्वाणं विश्णुं सर्वेश्वरम्।",
+        "hindi": "हे कृष्ण, तुम्हारा यह रूप सर्वोत्तम है। यह ब्रह्मा और विष्णु का रूप है, जिससे सभी देवताओं का आशीर्वाद है।",
+        "english": "O Krishna, this form of Yours is supreme. It is the form of Brahma and Vishnu, blessed by all gods. (11.14)",
+        "gujarati": "હે કૃષ્ણ, તમારું આ સ્વરૂપ શ્રેષ્ઠ છે. તે બ્રહ્મા અને વિશ્નુનું સ્વરૂપ છે, જેમાં બધા દેવતાઓનો આશીર્વાદ છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 14",
+        "hindi": "श्लोक 14",
+        "english": "Verse 14",
+        "gujarati": "શ્લોક 14"
+      }
+    },
+    {
+      "id": 15,
+      "chapter_number": 11,
+      "text": {
+        "sanskrit": "अमृता दिव्याः जीवनं, भक्तिर्युक्तनिष्ठिता।",
+        "hindi": "हे कृष्ण, जो तुम्हारे रूप को देखता है, वह जीवन में अमर और दिव्य हो जाता है।",
+        "english": "O Krishna, one who perceives Your form becomes immortal and divine in life. (11.15)",
+        "gujarati": "હે કૃષ્ણ, જે તમારી સ્વરૂપને જોઈ છે, તે જીવનમાં અમર અને દૈવી બને છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 15",
+        "hindi": "श्लोक 15",
+        "english": "Verse 15",
+        "gujarati": "શ્લોક 15"
+      }
+    },
+    {
+      "id": 16,
+      "chapter_number": 11,
+      "text": {
+        "sanskrit": "सपुष्परुपं यदा ब्राह्मं दृष्ट्वा अमृतमं |",
+        "hindi": "जो कृष्ण का दिव्य रूप देखता है, वह अमृत का पान करता है।",
+        "english": "One who sees Krishna's divine form, drinks the nectar of immortality. (11.16)",
+        "gujarati": "જે કૃષ્ણના દૈવી સ્વરૂપને જોઈ છે, તે અમૃત પાન કરે છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 16",
+        "hindi": "श्लोक 16",
+        "english": "Verse 16",
+        "gujarati": "શ્લોક 16"
+      }
+    },
+    {
+      "id": 17,
+      "chapter_number": 11,
+      "text": {
+        "sanskrit": "प्रपन्नमव्रजं ते प्राप्तं सम्यग्।",
+        "hindi": "जो कृष्ण की शरण में आता है, वह शांति और मुक्त जीवन प्राप्त करता है।",
+        "english": "One who surrenders to Krishna attains peace and liberation. (11.17)",
+        "gujarati": "જે કૃષ્ણની શરણમાં જાય છે તે શાંતિ અને મુક્તિ પ્રાપ્ત કરે છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 17",
+        "hindi": "श्लोक 17",
+        "english": "Verse 17",
+        "gujarati": "શ્લોક 17"
+      }
+    },
+    {
+      "id": 18,
+      "chapter_number": 11,
+      "text": {
+        "sanskrit": "सृष्टं विश्वद्वयं चित्रं यद्वायु तमसाः पश्य।",
+        "hindi": "हे कृष्ण, तुम्हारे रूप में विश्व का रचनात्मक और विनाशात्मक कार्य प्रदर्शित होता है।",
+        "english": "O Krishna, in Your form, the creation and destruction of the universe are revealed. (11.18)",
+        "gujarati": "હે કૃષ્ણ, તમારા સ્વરૂપમાં બ્રહ્માંડનું સર્જન અને વિનાશ દર્શાવાય છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 18",
+        "hindi": "श्लोक 18",
+        "english": "Verse 18",
+        "gujarati": "શ્લોક 18"
+      }
+    },
+    {
+      "id": 19,
+      "chapter_number": 11,
+      "text": {
+        "sanskrit": "ध्वंसं मयि कृतं देवा सुतमणु यज्ञनिष्ठाय।",
+        "hindi": "हे कृष्ण, तुम ब्रह्मांड के विनाशक हो, तुमने मेरे द्वारा किए गए सभी कार्यों को नष्ट कर दिया।",
+        "english": "O Krishna, You are the destroyer of the universe, and You have destroyed all my actions by Your will. (11.19)",
+        "gujarati": "હે કૃષ્ણ, તમે બ્રહ્માંડના વિનાશક છો, અને તમે મારા દ્વારા કરેલા તમામ કાર્યને તમારિ ઈચ્છાથી નષ્ટ કરી દીધું છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 19",
+        "hindi": "श्लोक 19",
+        "english": "Verse 19",
+        "gujarati": "શ્લોક 19"
+      }
+    },
+    {
+      "id": 20,
+      "chapter_number": 11,
+      "text": {
+        "sanskrit": "पुंसा वा मुनयः सर्वे यद्वा साम्यं स्पर्धयीत।",
+        "hindi": "जो भक्त कृष्ण के रूप को ध्यान से देखते हैं, वे केवल शांति और संतुष्टि प्राप्त करते हैं।",
+        "english": "Those who meditate on Krishna's form with devotion attain peace and satisfaction. (11.20)",
+        "gujarati": "જે ભક્ત કૃષ્ણના સ્વરૂપ પર ભક્તિપૂર્વક ધ્યાન કરે છે, તે શાંતિ અને સંતોષ પ્રાપ્ત કરે છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 20",
+        "hindi": "श्लोक 20",
+        "english": "Verse 20",
+        "gujarati": "શ્લોક 20"
+      }
+    },
+    {
+      "id": 21,
+      "chapter_number": 11,
+      "text": {
+        "sanskrit": "नमः सम्मंत्रनं सम्पूर्णं।",
+        "hindi": "हे कृष्ण, सभी सिद्धि और अनंत रूप से तुम्हारा धन्यवाद।",
+        "english": "O Krishna, I offer my humble thanks to You for Your infinite manifestations. (11.21)",
+        "gujarati": "હે કૃષ્ણ, હું તમારી અનંત પ્રકૃતિઓ માટે તમારું આભાર વ્યક્ત કરું છું."
+      },
+      "title": {
+        "sanskrit": "श्लोक 21",
+        "hindi": "श्लोक 21",
+        "english": "Verse 21",
+        "gujarati": "શ્લોક 21"
+      }
+    },
+    {
+      "id": 22,
+      "chapter_number": 11,
+      "text": {
+        "sanskrit": "सर्वसप्त महाक्रुद्ध।",
+        "hindi": "हे कृष्ण, अब मैंने तुम्हारा सम्पूर्ण दिव्य रूप देखा है।",
+        "english": "O Krishna, I have now seen Your complete divine form. (11.22)",
+        "gujarati": "હે કૃષ્ણ, હવે મેં તમારું પૂર્ણ દૈવી સ્વરૂપ જોયું છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 22",
+        "hindi": "श्लोक 22",
+        "english": "Verse 22",
+        "gujarati": "શ્લોક 22"
+      }
+    },
+    {
+      "id": 23,
+      "chapter_number": 11,
+      "text": {
+        "sanskrit": "एवं ते कृतप्रसादे सदा सर्वोत्तमं जगत।",
+        "hindi": "हे कृष्ण, अब तुम्हारा सर्वश्रेष्ठ रूप देखकर, मुझे पूर्ण प्रसन्नता और संतुष्टि मिल गई है।",
+        "english": "O Krishna, having seen Your supreme form, I am filled with complete joy and satisfaction. (11.23)",
+        "gujarati": "હે કૃષ્ણ, હવે તમારું શ્રેષ્ઠ સ્વરૂપ જોઈને હું પૂર્ણ આનંદ અને સંતોષથી ભરાઈ ગયો છું."
+      },
+      "title": {
+        "sanskrit": "श्लोक 23",
+        "hindi": "श्लोक 23",
+        "english": "Verse 23",
+        "gujarati": "શ્લોક 23"
+      }
+    },
+    {
+      "id": 24,
+      "chapter_number": 11,
+      "text": {
+        "sanskrit": "नष्टेन्द्रियार्थं तात कृतमं संप्रणमि।",
+        "hindi": "हे कृष्ण, अब जब मैंने तुम्हारा रूप देखा है, तो सारे भोग और इंद्रिय तृष्णाएँ समाप्त हो गई हैं।",
+        "english": "O Krishna, now that I have seen Your form, all desires and worldly cravings have been destroyed. (11.24)",
+        "gujarati": "હે કૃષ્ણ, હવે જ્યારે મેં તમારું સ્વરૂપ જોયું છે, ત્યારે તમામ ઇચ્છાઓ અને ભૌતિક તરસાઓ નાશ પામી ગઈ છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 24",
+        "hindi": "श्लोक 24",
+        "english": "Verse 24",
+        "gujarati": "શ્લોક 24"
+      }
+    },
+    {
+      "id": 25,
+      "chapter_number": 11,
+      "text": {
+        "sanskrit": "व्रजं पश्य विकृतं लोकवृत्तेशं।",
+        "hindi": "हे कृष्ण, अब मैंने तुम्हारे रूप में सारे संसार के अविनाशी सत्य को देखा है।",
+        "english": "O Krishna, now I have seen in Your form the indestructible truth of the entire universe. (11.25)",
+        "gujarati": "હે કૃષ્ણ, હવે મેં તમારું સ્વરૂપ જોઈને સમગ્ર જગતનો અવિનાશી સત્ય જોઈ છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 25",
+        "hindi": "श्लोक 25",
+        "english": "Verse 25",
+        "gujarati": "શ્લોક 25"
+      }
+    },
+    {
+      "id": 26,
+      "chapter_number": 11,
+      "text": {
+        "sanskrit": "महेश्वरं तमोघ्रं प्रलयाय महाध्वनम्।",
+        "hindi": "हे कृष्ण, तुम ही संसार के एकमात्र प्रभु हो, और तुमसे ही सृष्टि और विनाश होता है।",
+        "english": "O Krishna, You are the one and only supreme Lord, from whom creation and destruction arise. (11.26)",
+        "gujarati": "હે કૃષ્ણ, તમે જ વિશ્વના સર્વોપરી ભગવાન છો, અને તમારી દ્વારા સર્જન અને વિનાશ થાય છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 26",
+        "hindi": "श्लोक 26",
+        "english": "Verse 26",
+        "gujarati": "શ્લોક 26"
+      }
+    },
+    {
+      "id": 27,
+      "chapter_number": 11,
+      "text": {
+        "sanskrit": "सप्ताश्वरथमारूढं ब्रह्म परमं यथम्।",
+        "hindi": "हे कृष्ण, तुमने अपने रूप में ब्रह्मा और विष्णु को देखा है।",
+        "english": "O Krishna, in Your form, I have seen Brahma and Vishnu. (11.27)",
+        "gujarati": "હે કૃષ્ણ, તમે તમારા સ્વરૂપમાં બ્રહ્મા અને વિશ્નુને જોયા છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 27",
+        "hindi": "श्लोक 27",
+        "english": "Verse 27",
+        "gujarati": "શ્લોક 27"
+      }
+    },
+    {
+      "id": 28,
+      "chapter_number": 11,
+      "text": {
+        "sanskrit": "अंधकरं प्रजापालं महाबलम्।",
+        "hindi": "हे कृष्ण, तुमने हमें उस रूप में देखा है जिसमें संसार का पालन और नाश होता है।",
+        "english": "O Krishna, I have seen in Your form the creation and destruction of the entire world. (11.28)",
+        "gujarati": "હે કૃષ્ણ, મેં તમારી સ્વરૂપમાં સમગ્ર જગતનું સર્જન અને વિનાશ જોયું છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 28",
+        "hindi": "श्लोक 28",
+        "english": "Verse 28",
+        "gujarati": "શ્લોક 28"
+      }
+    },
+    {
+      "id": 29,
+      "chapter_number": 11,
+      "text": {
+        "sanskrit": "सर्वां सृष्टिकं यत्रभूतं भूतानांवृद्धिम्।",
+        "hindi": "हे कृष्ण, अब मैं तुम्हारे रूप में संसार के सारे भूतों का दर्शन कर चुका हूँ।",
+        "english": "O Krishna, I have seen in Your form the entire universe with all its beings. (11.29)",
+        "gujarati": "હે કૃષ્ણ, મેં તમારી સ્વરૂપમાં સમગ્ર બ્રહ્માંડને અને તેમાં રહેલા સર્વજંતુઓને જોયું છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 29",
+        "hindi": "श्लोक 29",
+        "english": "Verse 29",
+        "gujarati": "શ્લોક 29"
+      }
+    },
+    {
+      "id": 30,
+      "chapter_number": 11,
+      "text": {
+        "sanskrit": "सर्वास्त्रियं भक्तिमयीं विश्वात्मा त्वमत्राति।",
+        "hindi": "हे कृष्ण, तुम सच्चे परमात्मा हो, और तुम्हारे दर्शन से सम्पूर्ण ब्रह्मांड की स्थिति और गति स्पष्ट होती है।",
+        "english": "O Krishna, You are the Supreme Soul, and through Your vision, the state and movement of the entire universe are revealed. (11.30)",
+        "gujarati": "હે કૃષ્ણ, તમે સર્વોત્તમ આત્મા છો, અને તમારું દર્શન સમગ્ર બ્રહ્માંડની અવસ્થા અને ગતિને ઉજાગર કરે છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 30",
+        "hindi": "श्लोक 30",
+        "english": "Verse 30",
+        "gujarati": "શ્લોક 30"
+      }
+    },
+    {
+      "id": 31,
+      "chapter_number": 11,
+      "text": {
+        "sanskrit": "ऋते त्वं शरणं यां देवी सत्वेनार्च्य मङ्गलम्।",
+        "hindi": "हे कृष्ण, जो व्यक्तित्व तुझमें समाहित है, वह सच्चा शरण है।",
+        "english": "O Krishna, the personality embodied in You is the true refuge for all. (11.31)",
+        "gujarati": "હે કૃષ્ણ, જે વ્યક્તિત્વ તમારામાં સમાયેલું છે તે સર્વ માટે સચ્ચું આશ્રય છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 31",
+        "hindi": "श्लोक 31",
+        "english": "Verse 31",
+        "gujarati": "શ્લોક 31"
+      }
+    },
+    {
+      "id": 32,
+      "chapter_number": 11,
+      "text": {
+        "sanskrit": "विना कृष्ण देहाभ्यासस्य परमेश्वरबोधनम्।",
+        "hindi": "हे कृष्ण, बिना तुम्हारे प्रेम और भक्ति के संसार में कोई अन्य प्रथा नहीं।",
+        "english": "O Krishna, without Your love and devotion, no other path exists in the world. (11.32)",
+        "gujarati": "હે કૃષ્ણ, તમારું પ્રેમ અને ભક્તિ વગર દુનિયામાં બીજું કોઇ માર્ગ નથી."
+      },
+      "title": {
+        "sanskrit": "श्लोक 32",
+        "hindi": "श्लोक 32",
+        "english": "Verse 32",
+        "gujarati": "શ્લોક 32"
+      }
+    },
+    {
+      "id": 33,
+      "chapter_number": 11,
+      "text": {
+        "sanskrit": "गच्छ स्वधर्मं सः संप्राप्तं प्रतापम्।",
+        "hindi": "हे कृष्ण, तुम्हारी श्रद्धा हमें समृद्ध करती है और हमें परमेश्वर के ज्ञान से आलोकित करती है।",
+        "english": "O Krishna, Your devotion enriches us and enlightens us with the supreme knowledge of God. (11.33)",
+        "gujarati": "હે કૃષ્ણ, તમારું ભક્તિ અમને સમૃદ્ધ કરે છે અને અમને ભગવાનના શ્રેષ્ઠ જ્ઞાનથી પ્રકાશિત કરે છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 33",
+        "hindi": "श्लोक 33",
+        "english": "Verse 33",
+        "gujarati": "શ્લોક 33"
+      }
+    },
+    {
+      "id": 34,
+      "chapter_number": 11,
+      "text": {
+        "sanskrit": "न भूतं कदाचिद्दर्शनं नार्हाणि।",
+        "hindi": "हे कृष्ण, तुम्हारे दर्शन के बाद सब कुछ शुद्ध हो गया है, अब कोई विकार नहीं बचा।",
+        "english": "O Krishna, after seeing Your form, everything is purified, and no impurity remains. (11.34)",
+        "gujarati": "હે કૃષ્ણ, તમારું સ્વરૂપ જોવાની બાદ બધું શુદ્ધ થઈ ગયું છે, અને હવે કોઈ દુષિતતા નથી."
+      },
+      "title": {
+        "sanskrit": "श्लोक 34",
+        "hindi": "श्लोक 34",
+        "english": "Verse 34",
+        "gujarati": "શ્લોક 34"
+      }
+    },
+    {
+      "id": 35,
+      "chapter_number": 11,
+      "text": {
+        "sanskrit": "विगतं भूतसंपत्ति।",
+        "hindi": "हे कृष्ण, तुम हर स्थिति में सम्पूर्ण विश्व के नियमों के अनुसार कार्य करते हो।",
+        "english": "O Krishna, You act according to the rules of the entire world in every situation. (11.35)",
+        "gujarati": "હે કૃષ્ણ, તમે દરેક પરિસ્થિતિમાં સમગ્ર વિશ્વના નિયમો પ્રમાણે કાર્ય કરો છો."
+      },
+      "title": {
+        "sanskrit": "श्लोक 35",
+        "hindi": "श्लोक 35",
+        "english": "Verse 35",
+        "gujarati": "શ્લોક 35"
+      }
+    },
+    {
+      "id": 36,
+      "chapter_number": 11,
+      "text": {
+        "sanskrit": "न हि कालप्रमाणं स्थिरं।",
+        "hindi": "हे कृष्ण, समय में कोई स्थिरता नहीं होती, क्योंकि सभी चीज़ें तुम्हारी शक्ति से ही चलती हैं।",
+        "english": "O Krishna, there is no stability in time, as everything operates according to Your power. (11.36)",
+        "gujarati": "હે કૃષ્ણ, સમયમાં કોઈ સ્થિરતા નથી, કારણ કે બધું તમારી શક્તિથી કાર્ય કરે છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 36",
+        "hindi": "श्लोक 36",
+        "english": "Verse 36",
+        "gujarati": "શ્લોક 36"
+      }
+    },
+    {
+      "id": 37,
+      "chapter_number": 11,
+      "text": {
+        "sanskrit": "तस्मिन्संप्राप्तमावह।",
+        "hindi": "हे कृष्ण, तुम्हारा स्वरूप सर्वोत्तम है और तुम सर्वशक्तिमान हो।",
+        "english": "O Krishna, Your form is supreme, and You are omnipotent. (11.37)",
+        "gujarati": "હે કૃષ્ણ, તમારું સ્વરૂપ શ્રેષ્ઠ છે અને તમે સર્વશક્તિમાન છો."
+      },
+      "title": {
+        "sanskrit": "श्लोक 37",
+        "hindi": "श्लोक 37",
+        "english": "Verse 37",
+        "gujarati": "શ્લોક 37"
+      }
+    },
+    {
+      "id": 38,
+      "chapter_number": 11,
+      "text": {
+        "sanskrit": "माहात्म्यं तेजस्वि रास्ये।",
+        "hindi": "हे कृष्ण, तुम सत्य रूप से महान हो, तुम्हारा तेज और महात्म्य अपार है।",
+        "english": "O Krishna, You are truly great, Your brilliance and glory are infinite. (11.38)",
+        "gujarati": "હે કૃષ્ણ, તમે સત્યરૂપે મહાન છો, તમારું તેજ અને મહાત્મ્ય અનંત છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 38",
+        "hindi": "श्लोक 38",
+        "english": "Verse 38",
+        "gujarati": "શ્લોક 38"
+      }
+    },
+    {
+      "id": 39,
+      "chapter_number": 11,
+      "text": {
+        "sanskrit": "सर्वेच भक्त्या तत्त्वशक्ति।",
+        "hindi": "हे कृष्ण, तुम सर्वेच्छा में शक्तिशाली हो, तुममें सच्चे रूप में दिव्यता समाहित है।",
+        "english": "O Krishna, You are powerful in all respects, and divinity resides in Your true form. (11.39)",
+        "gujarati": "હે કૃષ્ણ, તમે દરેક રીતે શક્તિશાળી છો, તમારું સત્ય સ્વરૂપ દૈવીત્વથી ભરી છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 39",
+        "hindi": "श्लोक 39",
+        "english": "Verse 39",
+        "gujarati": "શ્લોક 39"
+      }
+    },
+    {
+      "id": 40,
+      "chapter_number": 11,
+      "text": {
+        "sanskrit": "नरं दिव्यं नीलोत्पल।",
+        "hindi": "हे कृष्ण, तुम्हारा रूप दिव्य और उत्तम है, इसमें सब कुछ ब्रह्मा का रूप है।",
+        "english": "O Krishna, Your form is divine and supreme, and everything in it reflects the essence of Brahman. (11.40)",
+        "gujarati": "હે કૃષ્ણ, તમારું સ્વરૂપ દૈવી અને શ્રેષ્ઠ છે, અને તેમાં બધા બ્રહ્માનું સ્વરૂપ જોવા મળે છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 40",
+        "hindi": "श्लोक 40",
+        "english": "Verse 40",
+        "gujarati": "શ્લોક 40"
+      }
+    },
+    {
+      "id": 41,
+      "chapter_number": 11,
+      "text": {
+        "sanskrit": "तुल्यमाचरं बलवंतं समर्पितः शरणं।",
+        "hindi": "हे कृष्ण, तुम्हारा दर्शन संपूर्ण जीवन को सार्थक बनाता है, यह संसार और परलोक में निर्वाण का मार्ग है।",
+        "english": "O Krishna, Your vision makes life meaningful, it is the path to salvation in both this world and the next. (11.41)",
+        "gujarati": "હે કૃષ્ણ, તમારું દર્શન જીવનને અર્થપૂર્ણ બનાવે છે, આ દુનિયા અને પરલોકમાં મુક્તિનો માર્ગ છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 41",
+        "hindi": "श्लोक 41",
+        "english": "Verse 41",
+        "gujarati": "શ્લોક 41"
+      }
+    },
+    {
+      "id": 42,
+      "chapter_number": 11,
+      "text": {
+        "sanskrit": "नायं शास्त्रविधानं जीवितं मार्गसंग्रहम्।",
+        "hindi": "हे कृष्ण, तुमसे मिलने के बाद जीवन में शांति और संतोष आता है, सारे शास्त्र और विधियाँ तुमसे जुड़ी हैं।",
+        "english": "O Krishna, after meeting You, peace and satisfaction arise in life. All scriptures and rituals are linked to You. (11.42)",
+        "gujarati": "હે કૃષ્ણ, તમારું દર્શન પછી જીવનમાં શાંતિ અને સંતોષ આવે છે, તમામ શાસ્ત્રો અને વિધિઓ તમારી સાથે જોડાયેલી છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 42",
+        "hindi": "श्लोक 42",
+        "english": "Verse 42",
+        "gujarati": "શ્લોક 42"
+      }
+    },
+    {
+      "id": 43,
+      "chapter_number": 11,
+      "text": {
+        "sanskrit": "नैव त्वं छायैव राक्षसीरव्यक्तं भूतमात्मना।",
+        "hindi": "हे कृष्ण, तुम्हारा यह रूप बहुत ही अद्भुत है, तुम्हारा दिखाया हुआ रूप परम सत्य है।",
+        "english": "O Krishna, Your form is truly amazing, and the form You revealed is the ultimate truth. (11.43)",
+        "gujarati": "હે કૃષ્ણ, તમારું આ સ્વરૂપ ખરેખર અદભુત છે, તમારે દર્શાવેલું સ્વરૂપ શ્રેષ્ઠ સત્ય છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 43",
+        "hindi": "श्लोक 43",
+        "english": "Verse 43",
+        "gujarati": "શ્લોક 43"
+      }
+    },
+    {
+      "id": 44,
+      "chapter_number": 11,
+      "text": {
+        "sanskrit": "प्रणम्य अहं शरणं परमं ते प्रसादजं प्रेयसि।",
+        "hindi": "हे कृष्ण, हम तुम्हारे प्रसन्न रूप में शरण लेने का प्रण लेते हैं।",
+        "english": "O Krishna, we surrender ourselves to Your divine form, which grants blessings and is the source of ultimate protection. (11.44)",
+        "gujarati": "હે કૃષ્ણ, અમે તમારા દૈવી સ્વરૂપમાં આદર સાથે શરણ લઈએ છીએ, જે આશિર્વાદ આપે છે અને પરમ રક્ષણનો સ્ત્રોત છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 44",
+        "hindi": "श्लोक 44",
+        "english": "Verse 44",
+        "gujarati": "શ્લોક 44"
+      }
+    },
+    {
+      "id": 45,
+      "chapter_number": 11,
+      "text": {
+        "sanskrit": "हे प्रभो, अधिकतम रहस्यमयानंदं वयम्।",
+        "hindi": "हे कृष्ण, अब हमने तुम्हारी असाधारण महिमा और शक्ति को महसूस किया है।",
+        "english": "O Krishna, now we have realized Your extraordinary glory and power. (11.45)",
+        "gujarati": "હે કૃષ્ણ, હવે અમે તમારું અસાધારણ મહિમા અને શક્તિનો અનુભવ કર્યો છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 45",
+        "hindi": "श्लोक 45",
+        "english": "Verse 45",
+        "gujarati": "શ્લોક 45"
+      }
+    },
+    {
+      "id": 46,
+      "chapter_number": 11,
+      "text": {
+        "sanskrit": "परेतां ब्राह्मणां शंकरं शं शं शनैः।",
+        "hindi": "हे कृष्ण, जो तुमसे अज्ञात रूप से जुड़े हैं, उनका जीवन शांत और समृद्ध रहता है।",
+        "english": "O Krishna, those who are unknowingly connected to You lead peaceful and prosperous lives. (11.46)",
+        "gujarati": "હે કૃષ્ણ, જે લોકો અજ્ઞાન રૂપે તમારી સાથે જોડાયેલા છે, તેમનું જીવન શાંતિપૂર્ણ અને સમૃદ્ધ રહે છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 46",
+        "hindi": "श्लोक 46",
+        "english": "Verse 46",
+        "gujarati": "શ્લોક 46"
+      }
+    },
+    {
+      "id": 47,
+      "chapter_number": 11,
+      "text": {
+        "sanskrit": "विधानमणिर्णये प्रेम प्रवर्तते यथाः।",
+        "hindi": "हे कृष्ण, तुम्हारे रूप में निहित प्रेम सभी जीवों को शांति और सुख देता है।",
+        "english": "O Krishna, the love inherent in Your form gives peace and happiness to all beings. (11.47)",
+        "gujarati": "હે કૃષ્ણ, તમારાં સ્વરૂપમાં રહેલ પ્રેમ તમામ જીવજંતુઓને શાંતિ અને સુખ આપે છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 47",
+        "hindi": "श्लोक 47",
+        "english": "Verse 47",
+        "gujarati": "શ્લોક 47"
+      }
+    },
+    {
+      "id": 48,
+      "chapter_number": 11,
+      "text": {
+        "sanskrit": "तव प्रसादात्प्रशान्तिदेवां शरणं।",
+        "hindi": "हे कृष्ण, तुम्हारा आशीर्वाद जीवन में शांति और प्रेम का उदय करता है।",
+        "english": "O Krishna, Your grace leads to the rise of peace and love in life. (11.48)",
+        "gujarati": "હે કૃષ્ણ, તમારું આશીર્વાદ જીવનમાં શાંતિ અને પ્રેમની ઉદય કરે છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 48",
+        "hindi": "श्लोक 48",
+        "english": "Verse 48",
+        "gujarati": "શ્લોક 48"
+      }
+    },
+    {
+      "id": 49,
+      "chapter_number": 11,
+      "text": {
+        "sanskrit": "गच्छ मच्छिव यान्ति।",
+        "hindi": "हे कृष्ण, अब हम तुमसे कोई भ्रम न रखते हुए वास्तविक सत्य का पालन करेंगे।",
+        "english": "O Krishna, we will now follow the true path without any illusion, relying on Your guidance. (11.49)",
+        "gujarati": "હે કૃષ્ણ, હવે અમે તમારું માર્ગદર્શન લઈને કોઈ ભ્રમ વિના સાચા માર્ગનો પાલન કરીશું."
+      },
+      "title": {
+        "sanskrit": "श्लोक 49",
+        "hindi": "श्लोक 49",
+        "english": "Verse 49",
+        "gujarati": "શ્લોક 49"
+      }
+    },
+    {
+      "id": 50,
+      "chapter_number": 11,
+      "text": {
+        "sanskrit": "नैव भूतं कदाचिद्ये।",
+        "hindi": "हे कृष्ण, अब हम तुम्हारे मार्ग में स्थिर रहकर सारे सांसारिक भ्रमों से मुक्त हो चुके हैं।",
+        "english": "O Krishna, by staying steady on Your path, we are free from all worldly illusions. (11.50)",
+        "gujarati": "હે કૃષ્ણ, હવે અમે તમારા માર્ગમાં સ્થિર રહીને બધાં ભૌતિક ભ્રમોથી મુક્ત થઈ ગયા છીએ."
+      },
+      "title": {
+        "sanskrit": "श्लोक 50",
+        "hindi": "श्लोक 50",
+        "english": "Verse 50",
+        "gujarati": "શ્લોક 50"
+      }
+    },
+    {
+      "id": 51,
+      "chapter_number": 11,
+      "text": {
+        "sanskrit": "अहं तव नामो।",
+        "hindi": "हे कृष्ण, अब हमने तुम्हारी महिमा को अपने जीवन का अंश बना लिया है।",
+        "english": "O Krishna, we have now incorporated Your glory as part of our life. (11.51)",
+        "gujarati": "હે કૃષ્ણ, હવે અમે તમારું મહિમા અમારા જીવનનો હિસ્સો બનાવી લીધો છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 51",
+        "hindi": "श्लोक 51",
+        "english": "Verse 51",
+        "gujarati": "શ્લોક 51"
+      }
+    },
+    {
+      "id": 52,
+      "chapter_number": 11,
+      "text": {
+        "sanskrit": "नायं।",
+        "hindi": "हे कृष्ण, हम तुमसे आत्मीयता और समर्पण की प्राप्ति करते हैं।",
+        "english": "O Krishna, we receive from You the experience of affection and dedication. (11.52)",
+        "gujarati": "હે કૃષ્ણ, અમે તમને પ્રેમ અને નિષ્ઠાનો અનુભવ કરીએ છીએ."
+      },
+      "title": {
+        "sanskrit": "श्लोक 52",
+        "hindi": "श्लोक 52",
+        "english": "Verse 52",
+        "gujarati": "શ્લોક 52"
+      }
+    },
+    {
+      "id": 53,
+      "chapter_number": 11,
+      "text": {
+        "sanskrit": "यज्ञाय।",
+        "hindi": "हे कृष्ण, हमारा प्रेम तुम्हारी उपासना और ध्यान का एक परम रूप है।",
+        "english": "O Krishna, our love is the highest form of worship and meditation upon You. (11.53)",
+        "gujarati": "હે કૃષ્ણ, અમારું પ્રેમ તમારી ઉપાસના અને ધ્યાનનો સર્વોચ્ચ સ્વરૂપ છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 53",
+        "hindi": "श्लोक 53",
+        "english": "Verse 53",
+        "gujarati": "શ્લોક 53"
+      }
+    },
+    {
+      "id": 54,
+      "chapter_number": 11,
+      "text": {
+        "sanskrit": "स्वकर्मण्यद्भुतं चिन्तयामीश्वरं।",
+        "hindi": "हे कृष्ण, हम अपने कार्यों के माध्यम से तुम्हारी ओर अर्पित जीवन जीते हैं।",
+        "english": "O Krishna, through our actions, we live a life dedicated to You. (11.54)",
+        "gujarati": "હે કૃષ્ણ, અમારા કાર્યોથી અમે તમારી તરફ સમર્પિત જીવન જીવીએ છીએ."
+      },
+      "title": {
+        "sanskrit": "श्लोक 54",
+        "hindi": "श्लोक 54",
+        "english": "Verse 54",
+        "gujarati": "શ્લોક 54"
+      }
+    },
+    {
+      "id": 55,
+      "chapter_number": 11,
+      "text": {
+        "sanskrit": "इति ते भगवन् यथामथं।",
+        "hindi": "हे कृष्ण, हमने आपके रूप को आदान प्रदान करते हुए सत्य की प्राप्ति की है।",
+        "english": "O Krishna, by perceiving Your form, we have attained the realization of truth. (11.55)",
+        "gujarati": "હે કૃષ્ણ, તમારા સ્વરૂપને જોઈને અમે સત્યનો અભ્યાસ કર્યો છે."
+      },
+      "title": {
+        "sanskrit": "श्लोक 55",
+        "hindi": "श्लोक 55",
+        "english": "Verse 55",
+        "gujarati": "શ્લોક 55"
+      }
+    },
 
 
-
-
-
-
-
-  // ========================================================================================================
-  //  11 11 11 11========================================================================================================
-  // ========================================================================================================
-
-
-
-
-
-
-
-
-
-  // ========================================================================================================
-  //  12 12 12 12 ========================================================================================================
-  // ========================================================================================================
 
 
 
@@ -4995,77 +7611,14 @@
         "gujarati": "શ્લોક 3"
       }
     },
-
-
-
-
-
-
-
-
-  // ========================================================================================================
-  //  13 13 13 13 ========================================================================================================
-  // ========================================================================================================
-
-
-
-
-    {
-      "id": 1,
-      "chapter_number": 13,
-      "text": {
-        "sanskrit": "इति क्षेत्रं समासेन धर्मक्षेत्रं समाहितं।\n\nया स्थानस्य प्रकृत्या शरद्भूमेर्निवासने॥",
-        "hindi": "यह क्षेत्र है जिसे हम धर्मक्षेत्र कहते हैं, और जिसमें यह संसार कर्म के द्वारा विनिर्मित है।",
-        "english": "This is the field that we call the field of Dharma, where the world is created through actions.",
-        "gujarati": "આ ક્ષેત્ર છે જેને અમે ધર્મક્ષેત્ર કહે છે, અને જેમાં વિશ્વ કર્મ દ્વારા રચાય છે."
-      },
-      "title": {
-        "sanskrit": "श्लोक 1",
-        "hindi": "श्लोक 1",
-        "english": "Verse 1",
-        "gujarati": "શ્લોક 1"
-      }
-    },
-    {
-      "id": 2,
-      "chapter_number": 13,
-      "text": {
-        "sanskrit": "कर्म और भक्ति में संसार की स्थिति विशिष्ट स्थान है।",
-        "hindi": "कर्म और भक्ति के कर्मों से दुनिया की स्थिति बंधन और मुक्ति में होती है।",
-        "english": "Through actions and devotion, the state of the world is bound by both bondage and liberation.",
-        "gujarati": "કર્મ અને ભક્તિ દ્વારા દુનિયાની સ્થિતિ બાંધણ અને મુક્તિમાં ફેરફાર થાય છે."
-      },
-      "title": {
-        "sanskrit": "श्लोक 2",
-        "hindi": "श्लोक 2",
-        "english": "Verse 2",
-        "gujarati": "શ્લોક 2"
-      }
-    },
-    {
-      "id": 3,
-      "chapter_number": 13,
-      "text": {
-        "sanskrit": "आध्यात्मिक और भौतिक ज्ञान का एकता कर्म से किया जाता है।",
-        "hindi": "आध्यात्मिक और भौतिक ज्ञान में समन्वय के साथ कर्म का कार्य किया जाता है।",
-        "english": "The action is performed with the integration of both spiritual and material knowledge.",
-        "gujarati": "આધ્યાત્મિક અને ભૌતિક જ્ઞાનના સંકલન સાથે કર્મ કરવામાં આવે છે."
-      },
-      "title": {
-        "sanskrit": "श्लोक 3",
-        "hindi": "श्लोक 3",
-        "english": "Verse 3",
-        "gujarati": "શ્લોક 3"
-      }
-    },
     {
       "id": 4,
-      "chapter_number": 13,
+      "chapter_number": 12,
       "text": {
-        "sanskrit": "क्षेत्र का तत्व से भिन्न है, जिसमें वह स्थिति योग्य कर्म को प्रतिष्ठित करता है।",
-        "hindi": "क्षेत्र का तत्व भिन्न होता है, जिसमें वह स्थिति योग्य कर्म को सम्मानित करता है।",
-        "english": "The essence of the field is distinct, in which it honors the state of worthy actions.",
-        "gujarati": "ક્ષેત્રનું તત્વ ભિન્ન છે, જેમાં તે યોગ્ય કર્મોની સ્થિતિને માન્ય આપે છે."
+        "sanskrit": "यं हि न व्यथन्त्ये जनाः सर्वकर्माणि संन्यस्यान्यास्तु कर्मफलैः | \n\nत्यागेऽनग्रहिणः शेषः शरीरं तस्य सुखनिष्ठं ज्ञानसम्पन्नं ||12.4||",
+        "hindi": "जिनके मन में कर्मों के फल का मोह नहीं रहता, उनके लिए वे कर्म जो संतुलित होते हैं, शरीर में सुख और ज्ञान की प्राप्ति होती है।",
+        "english": "Those who are free from the attachment to the results of their actions, their mind is calm, and they experience happiness and wisdom. (12.4)",
+        "gujarati": "જેઓ કર્મોના ફળથી મુક્ત હોય છે, તેમના મનમાં શાંતિ રહે છે અને તેઓ સુખ અને જ્ઞાનનો અનુભવ કરે છે."
       },
       "title": {
         "sanskrit": "श्लोक 4",
@@ -5076,12 +7629,12 @@
     },
     {
       "id": 5,
-      "chapter_number": 13,
+      "chapter_number": 12,
       "text": {
-        "sanskrit": "मद्राणां के कर्म को सम्बोधित किया जाता है, जो पवित्र होते हैं।",
-        "hindi": "जो कर्म पवित्र होते हैं, वे उन कार्यों को संबोधित करते हैं जो इश्वर की कृपा से होते हैं।",
-        "english": "The actions that are pure are the ones addressed by those blessed with divine grace.",
-        "gujarati": "જે કર્મ શુદ્ધ છે, તે કર્મો એ ઇશ્વરની કૃપાથી સંબોધિત કરવામાં આવે છે."
+        "sanskrit": "नापरं कर्मफलत्यागी त्यागी ब्रह्मनिष्ठाः सदा | \n\nसाधर्म्यं प्राप्तवंति श्रेयं मार्गेण धर्मेण च ||12.5||",
+        "hindi": "जो कर्म के फल को त्यागी है और पूर्ण ब्रह्म में स्थित है, वे साधु लोग धर्म और मार्ग के द्वारा श्रेष्ठता प्राप्त करते हैं।",
+        "english": "The renunciants who are always absorbed in Brahman, they attain the highest state through their righteousness and path of wisdom. (12.5)",
+        "gujarati": "જે સંપૂર્ણ બ્રહ્મમાં નિમગ્ન હોય છે, તેઓ ધર્મ અને માર્ગ દ્વારા શ્રેષ્ઠતા પ્રાપ્ત કરે છે."
       },
       "title": {
         "sanskrit": "श्लोक 5",
@@ -5092,44 +7645,44 @@
     },
     {
       "id": 6,
-      "chapter_number": 13,
+      "chapter_number": 12,
       "text": {
-        "sanskrit": "जन्म और मृत्यु के मध्य कर्म एक बंधन में होते हैं।",
-        "hindi": "जन्म और मृत्यु के बीच कर्म का बंधन होता है।",
-        "english": "Between birth and death, actions are in a state of bondage.",
-        "gujarati": "જન્મ અને મૃત્યુ વચ્ચે કર્મો બાંધણમાં હોય છે."
+        "sanskrit": "पुनर्युगं त्यक्त्वा पुण्यात्मा कर्मयोगोऽशेषतः| \n\nते आत्मज्ञानमन्तरं तं तत्त्वमाश्रिताः पतिं ||12.6||",
+        "hindi": "जो कर्म योगी योग द्वारा भक्ति और ज्ञान को नित्य पालन करते हैं, वे पुनः जन्म के दोष से मुक्त हो जाते हैं।",
+        "english": "Those who follow the path of yoga, devotion, and wisdom, they are freed from the cycle of birth and death. (12.6)",
+        "gujarati": "જેઓ યોગ, ભક્તિ અને જ્ઞાન માર્ગને અનુસરે છે, તેઓ જન્મ અને મૃત્યુના ચક્રથી મુક્ત થઈ જાય છે."
       },
       "title": {
         "sanskrit": "श्लोक 6",
         "hindi": "श्लोक 6",
         "english": "Verse 6",
-        "gujarati": "શ્લोक 6"
+        "gujarati": "શ્લોક 6"
       }
     },
     {
       "id": 7,
-      "chapter_number": 13,
+      "chapter_number": 12,
       "text": {
-        "sanskrit": "प्रकृति और पुरुष का मिलन कर्म से प्रतिष्ठित है।",
-        "hindi": "प्रकृति और पुरुष का मिलन कर्म से प्रतिष्ठित है।",
-        "english": "The union of nature and soul is established through action.",
-        "gujarati": "પ્રકૃતિ અને પુરુષનું મિલન કર્મ દ્વારા સ્થાપિત થાય છે."
+        "sanskrit": "मदर्थमच्छरीकन्याः साधया निग्रण्प्रवेश्मया।\nफ़ियलात्मा समवायं धनयोग ं सह बाधते कर्मे।\n",
+        "hindi": "जो जो कर्मफल से मुक्त होते हुए ईश्वर का पूजा ध्यान करते हैं, वे भक्ति योग से तात्त्विक मार्ग की ओर बढ़ते हैं।",
+        "english": "Those who engage in devotion towards Me and renounce the fruits of their actions, they proceed towards the ultimate goal through devotion. (12.7)",
+        "gujarati": "જે મારા પર ભક્તિ કરે છે અને કર્મના ફળને છોડે છે, તેઓ ભક્તિ દ્વારા અંતિમ ધ્યેય તરફ આગળ વધે છે."
       },
       "title": {
         "sanskrit": "श्लोक 7",
         "hindi": "श्लोक 7",
         "english": "Verse 7",
-        "gujarati": "શ્લોક 7"
+        "gujarati": "શ્લोक 7"
       }
     },
     {
       "id": 8,
-      "chapter_number": 13,
+      "chapter_number": 12,
       "text": {
-        "sanskrit": "जो व्यक्ति अपने कर्मों में संतुलन और आस्था बनाए रखता है, वह समृद्ध होता है।",
-        "hindi": "जो व्यक्ति अपने कर्मों में संतुलन और आस्था बनाए रखता है, वह सफलता की ओर बढ़ता है।",
-        "english": "One who maintains balance and faith in their actions progresses towards success.",
-        "gujarati": "જે વ્યક્તિ તેના કર્મોમાં સંતુલન અને વિશ્વાસ રાખે છે, તે સફળતા તરફ આગળ વધે છે."
+        "sanskrit": "यां वृत्तीः पुष्कलत्वं त्यक्तं धर्मेण संयोज्यः।\n गतो मोक्षं बहवांशु विवेकामुष्टरंगकं।",
+        "hindi": "जो लोग हर विषय में संयम रखते हुए, कर्म के साथ आगे बढ़ते हैं, उन्हें परम शांति और मुक्ति प्राप्त होती है।",
+        "english": "Those who maintain self-control, and pursue the path of righteousness and wisdom, attain supreme peace and liberation. (12.8)",
+        "gujarati": "જે લોકો સ્વ-નિયંત્રણ રાખે છે અને ધર્મ અને જ્ઞાનના માર્ગ પર આગળ વધે છે, તેમને શ્રેષ્ઠ શાંતિ અને મુક્તિ પ્રાપ્ત થાય છે."
       },
       "title": {
         "sanskrit": "श्लोक 8",
@@ -5140,28 +7693,28 @@
     },
     {
       "id": 9,
-      "chapter_number": 13,
+      "chapter_number": 12,
       "text": {
-        "sanskrit": "आध्यात्मिक कार्य और भौतिक कार्य में भिन्नता कर्म के उद्देश्यों में होती है।",
-        "hindi": "आध्यात्मिक कार्य और भौतिक कार्य में भिन्नता कर्म के उद्देश्य में होती है।",
-        "english": "There is a difference between spiritual actions and material actions in their purpose.",
-        "gujarati": "આધ્યાત્મિક કર્મો અને ભૌતિક કર્મો તેમના ઉદ્દેશમાં ભિન્નતા ધરાવે છે."
+        "sanskrit": "न ते कर्माः त्यजन्ति माकेशासनमुष्ठकं, अभ्यं शांतिकेशुकाथं।",
+        "hindi": "जो लोग सर्वशक्तिमान, संसार के कर्ता भगवान के प्रति विश्वास रखते हैं, उन्हें शांति की प्राप्ति होती है।",
+        "english": "Those who have unwavering faith in the all-powerful Lord, the creator of the universe, they attain lasting peace. (12.9)",
+        "gujarati": "જે લોકો સ્રષ્ટિ ના સર્વશક્તિમાન ભગવાન પર અડગ વિશ્વાસ રાખે છે, તેમને શાંતિ પ્રાપ્ત થાય છે."
       },
       "title": {
         "sanskrit": "श्लोक 9",
         "hindi": "श्लोक 9",
         "english": "Verse 9",
-        "gujarati": "શ્લोक 9"
+        "gujarati": "શ્લોક 9"
       }
     },
     {
       "id": 10,
-      "chapter_number": 13,
+      "chapter_number": 12,
       "text": {
-        "sanskrit": "कर्म और ज्ञान के संगम से जागरूकता प्राप्त होती है।",
-        "hindi": "कर्म और ज्ञान के मिलन से जागरूकता प्राप्त होती है।",
-        "english": "Awareness is attained through the combination of action and knowledge.",
-        "gujarati": "કર્મ અને જ્ઞાનના સંકલનથી જાગૃતિ પ્રાપ્ત થાય છે."
+        "sanskrit": "मद्वक्तं रक्षिता प्रणुर्णयाः अशुत्रविंशवदस्तु।",
+        "hindi": "जो लोग अपने चित्त को पूर्णतः भगवान की सेवा में समर्पित कर देते हैं, वे संपूर्ण संतुष्ट होते हैं।",
+        "english": "Those who dedicate their minds completely to the service of the Lord, they attain complete satisfaction. (12.10)",
+        "gujarati": "જે લોકો પોતાના મનને સંપૂર્ણ રીતે ભગવાનની સેવામાં સમર્પિત કરે છે, તેમને સંપૂર્ણ સંતોષ પ્રાપ્ત થાય છે."
       },
       "title": {
         "sanskrit": "श्लोक 10",
@@ -5172,12 +7725,12 @@
     },
     {
       "id": 11,
-      "chapter_number": 13,
+      "chapter_number": 12,
       "text": {
-        "sanskrit": "समय के साथ कार्य में संतुलन बना रहता है।",
-        "hindi": "समय के साथ कर्म में संतुलन बना रहता है।",
-        "english": "Balance in actions remains with time.",
-        "gujarati": "સમય સાથે કર્મમાં સંતુલન રહે છે."
+        "sanskrit": "राज्यप्राप्ति निकायों द्वारा संपन्नः ऊरुक्षणामहार्पितं।",
+        "hindi": "जो लोग परमात्मा के प्रति श्रद्धा रखते हुए केवल भक्ति करते हैं, वे असीम शांति प्राप्त करते हैं।",
+        "english": "Those who engage in devotion to God with faith and devotion alone, they attain infinite peace and freedom. (12.11)",
+        "gujarati": "જે લોકો ભગવાન માટે ભક્તિ અને શ્રદ્ધાથી જોડાયેલા છે, તેઓ અનंत શાંતિ અને મુક્તિ પ્રાપ્ત કરે છે."
       },
       "title": {
         "sanskrit": "श्लोक 11",
@@ -5188,12 +7741,12 @@
     },
     {
       "id": 12,
-      "chapter_number": 13,
+      "chapter_number": 12,
       "text": {
-        "sanskrit": "योगी की कर्म करने की क्षमता आत्मा के ब्रह्मा से उत्पन्न होती है।",
-        "hindi": "योगी के कर्म की शक्ति आत्मा के ब्रह्मा से उत्पन्न होती है।",
-        "english": "The ability of a yogi to perform actions arises from the soul's connection with Brahma.",
-        "gujarati": "યોગીનું કર્મ કરવા માટેનું શક્તિ આત્માની બ્રહ્મ સાથે જોડાણમાંથી આવે છે."
+        "sanskrit": "द्रव्यमाहार्य शुद्धार्पितयि ग्रंथं सप्तमं शांतिक्रित्युदास।",
+        "hindi": "शुद्ध विचार और कर्मों से, जो व्यक्ति ईश्वर के मार्ग पर चलता है, उसे कोई भी बुराई नहीं छू सकती।",
+        "english": "The one who walks the path of purity and goodness, remaining undisturbed by negativity, achieves tranquility. (12.12)",
+        "gujarati": "જે વ્યક્તિ શુદ્ધતા અને સારી ગુણવત્તાવાળા માર્ગ પર ચાલે છે, તે નકારાત્મકતામાંથી દુર રહે છે અને શાંતિ પ્રાપ્ત કરે છે."
       },
       "title": {
         "sanskrit": "श्लोक 12",
@@ -5204,12 +7757,12 @@
     },
     {
       "id": 13,
-      "chapter_number": 13,
+      "chapter_number": 12,
       "text": {
-        "sanskrit": "आध्यात्मिक कार्य करते समय सच्ची खुशी मिलती है।",
-        "hindi": "आध्यात्मिक कार्य करते समय सच्ची खुशी प्राप्त होती है।",
-        "english": "True joy is attained through spiritual actions.",
-        "gujarati": "આધ્યાત્મિક કર્મો કરતા સાચી ખુશી પ્રાપ્ત થાય છે."
+        "sanskrit": "मरण परिज्ञानं योगित्वं ब्रह्मानिर्वाणतां।",
+        "hindi": "जो योग का मार्ग चुनते हैं, वे जीवन और मृत्यु के भ्रामक चक्र से बाहर हो जाते हैं।",
+        "english": "Those who choose the path of yoga transcend the cycle of birth and death. (12.13)",
+        "gujarati": "જે લોકો યોગનો માર્ગ પસંદ કરે છે, તેઓ જન્મ અને મૃત્યુના ચક્રમાંથી મુક્ત થઈ જાય છે."
       },
       "title": {
         "sanskrit": "श्लोक 13",
@@ -5220,12 +7773,12 @@
     },
     {
       "id": 14,
-      "chapter_number": 13,
+      "chapter_number": 12,
       "text": {
-        "sanskrit": "जिसे क्रिया, ज्ञान और ध्यान से सिद्ध किया जाता है, वह सर्वोच्च ब्रह्म है।",
-        "hindi": "जो क्रिया, ज्ञान और ध्यान से सिद्ध किया जाता है, वही सर्वोच्च ब्रह्म है।",
-        "english": "That which is realized through action, knowledge, and meditation is the supreme Brahman.",
-        "gujarati": "જે ક્રિયા, જ્ઞાન અને ધ્યાનથી સિદ્ધ થાય છે, તે સર્વોચ્ચ બ્રહ્મ છે."
+        "sanskrit": "भगवानुच्छुच्छ्रुताद्ववृत्तो भगवेर्निराकारकं।",
+        "hindi": "जो निराकार ब्रह्म के दर्शन में निरंतर संलग्न होते हैं, वे भगवान के वास्तविक रूप को पहचानते हैं।",
+        "english": "Those who are constantly engaged in meditation on the formless Brahman, they realize the true nature of the Lord. (12.14)",
+        "gujarati": "જે લોકો નિરાકાર બ્રહ્મ પર ધ્યાન મક્કમ રીતે લાવે છે, તેઓ ભગવાનના સાચા સ્વરૂપને ઓળખે છે."
       },
       "title": {
         "sanskrit": "श्लोक 14",
@@ -5236,12 +7789,12 @@
     },
     {
       "id": 15,
-      "chapter_number": 13,
+      "chapter_number": 12,
       "text": {
-        "sanskrit": "सिद्धता की अवस्था में कर्म का फल नष्ट नहीं होता।",
-        "hindi": "सिद्धि की अवस्था में कर्म का फल नष्ट नहीं होता।",
-        "english": "In the state of perfection, the results of actions are not destroyed.",
-        "gujarati": "સિદ્ધિના સ્તરે કર્મના પરિણામો નાશ પામતા નથી."
+        "sanskrit": "के व्रत्ति भक्तिरुणद्धर्मविघ्न सदा।",
+        "hindi": "कर्म को त्याग कर जो निराकार में स्थित रहते हैं, वे सच्चे भक्त कहलाते हैं।",
+        "english": "Those who renounce the actions and stay absorbed in the formless aspect of the divine, are called true devotees. (12.15)",
+        "gujarati": "જે લોકો કર્મોને છોડી દે છે અને નિરાકાર દૈવી સ્વરૂપમાં નિમગ્ન રહે છે, તેઓ સાચા ભક્ત તરીકે ઓળખાય છે."
       },
       "title": {
         "sanskrit": "श्लोक 15",
@@ -5252,12 +7805,12 @@
     },
     {
       "id": 16,
-      "chapter_number": 13,
+      "chapter_number": 12,
       "text": {
-        "sanskrit": "जो आत्मा के साथ नष्ट होने के बाद है, वह कर्म के साथ नष्ट नहीं होता।",
-        "hindi": "जो आत्मा के साथ नष्ट होने के बाद है, वह कर्म के साथ नष्ट नहीं होता।",
-        "english": "That which perishes with the soul, does not perish with the actions.",
-        "gujarati": "જે આત્મા સાથે નાશ પામે છે, તે કર્મો સાથે નાશ પામતો નથી."
+        "sanskrit": "मोक्शप्राप्तिष्क योगेन बहुश्चैतन्यप्रत्याशिताः।",
+        "hindi": "जो लोग ध्यान योग से भगवान को प्राप्त करते हैं, वे मोक्ष की प्राप्ति करते हैं।",
+        "english": "Those who attain God through meditation yoga, they achieve liberation. (12.16)",
+        "gujarati": "જે લોકો ધ્યાન યોગ દ્વારા ભગવાનને પ્રાપ્ત કરે છે, તેઓ મુક્તિ પ્રાપ્ત કરે છે."
       },
       "title": {
         "sanskrit": "श्लोक 16",
@@ -5268,12 +7821,12 @@
     },
     {
       "id": 17,
-      "chapter_number": 13,
+      "chapter_number": 12,
       "text": {
-        "sanskrit": "जैसे सूर्य की किरणें परावर्तित होती हैं, वैसे ही कर्म का फल भी कर्म के द्वारा नियंत्रित होता है।",
-        "hindi": "जैसे सूर्य की किरणें परावर्तित होती हैं, वैसे ही कर्म का फल भी कर्म द्वारा नियंत्रित होता है।",
-        "english": "Just as the rays of the sun are reflected, the result of actions is controlled by actions.",
-        "gujarati": "જેમ સૂર્યની કિરણો પ્રતિબિંબિત થાય છે, તેમ કર્મના પરિણામો પણ કર્મો દ્વારા નિયંત્રિત થાય છે."
+        "sanskrit": "आध्यात्म धर्मेश्वरम् पत्यामं दैवीस्थबं कृतम्।",
+        "hindi": "जो भगवान के रूप में दिव्य अवस्था के आराधक होते हैं, वे उनके पास जाकर मोक्ष प्राप्त करते हैं।",
+        "english": "Those who follow the divine state of the Lord, they attain liberation by reaching Him. (12.17)",
+        "gujarati": "જે ભગવાનની દૈવી અવસ્થા અનુસરે છે, તેઓ તેમને પહોંચીને મુક્તિ પ્રાપ્ત કરે છે."
       },
       "title": {
         "sanskrit": "श्लोक 17",
@@ -5284,12 +7837,12 @@
     },
     {
       "id": 18,
-      "chapter_number": 13,
+      "chapter_number": 12,
       "text": {
-        "sanskrit": "योगी आत्मा के सत्य को समझता है और वह सभी कर्मों में तत्पर रहता है।",
-        "hindi": "योगी आत्मा के सत्य को समझता है और वह सभी कर्मों में तत्पर रहता है।",
-        "english": "The yogi understands the truth of the soul and remains diligent in all actions.",
-        "gujarati": "યોગી આત્માના સત્યને સમજ્યો છે અને તે દરેક કર્મોમાં તટસ્થ રહે છે."
+        "sanskrit": "समत्वं प्रियं पुराणं यर्थकाचं समशश्रुषट।",
+        "hindi": "जो लोग समान दृष्टिकोण से भगवान को देखते हैं, वे सच्चे भक्त कहलाते हैं।",
+        "english": "Those who view the world and everything in it with an equal perspective, they are true devotees. (12.18)",
+        "gujarati": "જે લોકો વિશ્વને સમાન દ્રષ્ટિએ જોતા હોય છે, તે સાચા ભક્તો કહેવાય છે."
       },
       "title": {
         "sanskrit": "श्लोक 18",
@@ -5300,12 +7853,12 @@
     },
     {
       "id": 19,
-      "chapter_number": 13,
+      "chapter_number": 12,
       "text": {
-        "sanskrit": "जो आत्मा के तत्व से परिपूर्ण होता है, वह सभी कर्मों को कर्म से परे देखता है।",
-        "hindi": "जो आत्मा के तत्व से परिपूर्ण होता है, वह सभी कर्मों को कर्म से परे देखता है।",
-        "english": "The one who is filled with the essence of the soul sees all actions beyond actions.",
-        "gujarati": "જે આત્માના તત્વથી ભરેલો હોય છે, તે તમામ કર્મોને કર્મોથી પરે જોઈ શકે છે."
+        "sanskrit": "भाग्यं पुरुषरूपं दर्शिता।",
+        "hindi": "जो लोग भगवान के रूप में विद्यमान हैं, वे ईश्वर के समान होते हैं।",
+        "english": "Those who behold the Lord as the eternal truth, they are like God. (12.19)",
+        "gujarati": "જે લોકો ભગવાનને સત્ય તરીકે જોતા હોય છે, તે ભગવાનના સમાન હોય છે."
       },
       "title": {
         "sanskrit": "श्लोक 19",
@@ -5316,12 +7869,12 @@
     },
     {
       "id": 20,
-      "chapter_number": 13,
+      "chapter_number": 12,
       "text": {
-        "sanskrit": "जो कर्म आत्मा के दृष्टिकोण से निरंतर करता है, वह शुद्धात्मा बनता है।",
-        "hindi": "जो कर्म आत्मा के दृष्टिकोण से निरंतर करता है, वह शुद्धात्मा बनता है।",
-        "english": "The one who continuously performs actions from the perspective of the soul becomes pure.",
-        "gujarati": "જે વ્યક્તિ આત્માના દૃષ્ટિકોણથી સતત કર્મ કરે છે, તે શુદ્ધ આત્મા બની જાય છે."
+        "sanskrit": "योगनिष्ठां तपस्विनं। आत्मविद्या प्रकटे।",
+        "hindi": "जो व्यक्ति तप और निष्ठा से जुड़कर आत्म ज्ञान प्राप्त करता है, उसे परम शांति की प्राप्ति होती है।",
+        "english": "The one who practices devotion, attaining self-knowledge and self-realization, they attain supreme peace. (12.20)",
+        "gujarati": "જે વ્યક્તિ ભક્તિ, આત્મજ્ઞાન અને આત્મવિશ્વાસથી જોડાય છે, તે શ્રેષ્ઠ શાંતિ પ્રાપ્ત કરે છે."
       },
       "title": {
         "sanskrit": "श्लोक 20",
@@ -5330,23 +7883,349 @@
         "gujarati": "શ્લોક 20"
       }
     },
-    {
-      "id": 21,
-      "chapter_number": 13,
-      "text": {
-        "sanskrit": "दूसरों की दृष्टि से कर्मों का मूल्य निर्धारित किया जाता है।",
-        "hindi": "दूसरों की दृष्टि से कर्मों का मूल्य निर्धारित किया जाता है।",
-        "english": "The value of actions is determined from the perspective of others.",
-        "gujarati": "અન્ય લોકોના દૃષ્ટિકોણથી કર્મોનું મૂલ્ય નિર્ધારિત થાય છે."
-      },
-      "title": {
-        "sanskrit": "श्लोक 21",
-        "hindi": "श्लोक 21",
-        "english": "Verse 21",
-        "gujarati": "શ્લોક 21"
-      }
-    },
-    {
+
+
+
+
+
+
+        {
+          "id": 1,
+          "chapter_number": 13,
+          "text": {
+            "sanskrit": "इति क्षेत्रं समासेन धर्मक्षेत्रं समाहितं।\n\nया स्थानस्य प्रकृत्या शरद्भूमेर्निवासने॥",
+            "hindi": "यह क्षेत्र है जिसे हम धर्मक्षेत्र कहते हैं, और जिसमें यह संसार कर्म के द्वारा विनिर्मित है।",
+            "english": "This is the field that we call the field of Dharma, where the world is created through actions.",
+            "gujarati": "આ ક્ષેત્ર છે જેને અમે ધર્મક્ષેત્ર કહે છે, અને જેમાં વિશ્વ કર્મ દ્વારા રચાય છે."
+          },
+          "title": {
+            "sanskrit": "श्लोक 1",
+            "hindi": "श्लोक 1",
+            "english": "Verse 1",
+            "gujarati": "શ્લોક 1"
+          }
+        },
+        {
+          "id": 2,
+          "chapter_number": 13,
+          "text": {
+            "sanskrit": "कर्म और भक्ति में संसार की स्थिति विशिष्ट स्थान है।",
+            "hindi": "कर्म और भक्ति के कर्मों से दुनिया की स्थिति बंधन और मुक्ति में होती है।",
+            "english": "Through actions and devotion, the state of the world is bound by both bondage and liberation.",
+            "gujarati": "કર્મ અને ભક્તિ દ્વારા દુનિયાની સ્થિતિ બાંધણ અને મુક્તિમાં ફેરફાર થાય છે."
+          },
+          "title": {
+            "sanskrit": "श्लोक 2",
+            "hindi": "श्लोक 2",
+            "english": "Verse 2",
+            "gujarati": "શ્લોક 2"
+          }
+        },
+        {
+          "id": 3,
+          "chapter_number": 13,
+          "text": {
+            "sanskrit": "आध्यात्मिक और भौतिक ज्ञान का एकता कर्म से किया जाता है।",
+            "hindi": "आध्यात्मिक और भौतिक ज्ञान में समन्वय के साथ कर्म का कार्य किया जाता है।",
+            "english": "The action is performed with the integration of both spiritual and material knowledge.",
+            "gujarati": "આધ્યાત્મિક અને ભૌતિક જ્ઞાનના સંકલન સાથે કર્મ કરવામાં આવે છે."
+          },
+          "title": {
+            "sanskrit": "श्लोक 3",
+            "hindi": "श्लोक 3",
+            "english": "Verse 3",
+            "gujarati": "શ્લોક 3"
+          }
+        },
+        {
+          "id": 4,
+          "chapter_number": 13,
+          "text": {
+            "sanskrit": "क्षेत्र का तत्व से भिन्न है, जिसमें वह स्थिति योग्य कर्म को प्रतिष्ठित करता है।",
+            "hindi": "क्षेत्र का तत्व भिन्न होता है, जिसमें वह स्थिति योग्य कर्म को सम्मानित करता है।",
+            "english": "The essence of the field is distinct, in which it honors the state of worthy actions.",
+            "gujarati": "ક્ષેત્રનું તત્વ ભિન્ન છે, જેમાં તે યોગ્ય કર્મોની સ્થિતિને માન્ય આપે છે."
+          },
+          "title": {
+            "sanskrit": "श्लोक 4",
+            "hindi": "श्लोक 4",
+            "english": "Verse 4",
+            "gujarati": "શ્લોક 4"
+          }
+        },
+        {
+          "id": 5,
+          "chapter_number": 13,
+          "text": {
+            "sanskrit": "मद्राणां के कर्म को सम्बोधित किया जाता है, जो पवित्र होते हैं।",
+            "hindi": "जो कर्म पवित्र होते हैं, वे उन कार्यों को संबोधित करते हैं जो इश्वर की कृपा से होते हैं।",
+            "english": "The actions that are pure are the ones addressed by those blessed with divine grace.",
+            "gujarati": "જે કર્મ શુદ્ધ છે, તે કર્મો એ ઇશ્વરની કૃપાથી સંબોધિત કરવામાં આવે છે."
+          },
+          "title": {
+            "sanskrit": "श्लोक 5",
+            "hindi": "श्लोक 5",
+            "english": "Verse 5",
+            "gujarati": "શ્લોક 5"
+          }
+        },
+        {
+          "id": 6,
+          "chapter_number": 13,
+          "text": {
+            "sanskrit": "जन्म और मृत्यु के मध्य कर्म एक बंधन में होते हैं।",
+            "hindi": "जन्म और मृत्यु के बीच कर्म का बंधन होता है।",
+            "english": "Between birth and death, actions are in a state of bondage.",
+            "gujarati": "જન્મ અને મૃત્યુ વચ્ચે કર્મો બાંધણમાં હોય છે."
+          },
+          "title": {
+            "sanskrit": "श्लोक 6",
+            "hindi": "श्लोक 6",
+            "english": "Verse 6",
+            "gujarati": "શ્લोक 6"
+          }
+        },
+        {
+          "id": 7,
+          "chapter_number": 13,
+          "text": {
+            "sanskrit": "प्रकृति और पुरुष का मिलन कर्म से प्रतिष्ठित है।",
+            "hindi": "प्रकृति और पुरुष का मिलन कर्म से प्रतिष्ठित है।",
+            "english": "The union of nature and soul is established through action.",
+            "gujarati": "પ્રકૃતિ અને પુરુષનું મિલન કર્મ દ્વારા સ્થાપિત થાય છે."
+          },
+          "title": {
+            "sanskrit": "श्लोक 7",
+            "hindi": "श्लोक 7",
+            "english": "Verse 7",
+            "gujarati": "શ્લોક 7"
+          }
+        },
+        {
+          "id": 8,
+          "chapter_number": 13,
+          "text": {
+            "sanskrit": "जो व्यक्ति अपने कर्मों में संतुलन और आस्था बनाए रखता है, वह समृद्ध होता है।",
+            "hindi": "जो व्यक्ति अपने कर्मों में संतुलन और आस्था बनाए रखता है, वह सफलता की ओर बढ़ता है।",
+            "english": "One who maintains balance and faith in their actions progresses towards success.",
+            "gujarati": "જે વ્યક્તિ તેના કર્મોમાં સંતુલન અને વિશ્વાસ રાખે છે, તે સફળતા તરફ આગળ વધે છે."
+          },
+          "title": {
+            "sanskrit": "श्लोक 8",
+            "hindi": "श्लोक 8",
+            "english": "Verse 8",
+            "gujarati": "શ્લોક 8"
+          }
+        },
+        {
+          "id": 9,
+          "chapter_number": 13,
+          "text": {
+            "sanskrit": "आध्यात्मिक कार्य और भौतिक कार्य में भिन्नता कर्म के उद्देश्यों में होती है।",
+            "hindi": "आध्यात्मिक कार्य और भौतिक कार्य में भिन्नता कर्म के उद्देश्य में होती है।",
+            "english": "There is a difference between spiritual actions and material actions in their purpose.",
+            "gujarati": "આધ્યાત્મિક કર્મો અને ભૌતિક કર્મો તેમના ઉદ્દેશમાં ભિન્નતા ધરાવે છે."
+          },
+          "title": {
+            "sanskrit": "श्लोक 9",
+            "hindi": "श्लोक 9",
+            "english": "Verse 9",
+            "gujarati": "શ્લोक 9"
+          }
+        },
+        {
+          "id": 10,
+          "chapter_number": 13,
+          "text": {
+            "sanskrit": "कर्म और ज्ञान के संगम से जागरूकता प्राप्त होती है।",
+            "hindi": "कर्म और ज्ञान के मिलन से जागरूकता प्राप्त होती है।",
+            "english": "Awareness is attained through the combination of action and knowledge.",
+            "gujarati": "કર્મ અને જ્ઞાનના સંકલનથી જાગૃતિ પ્રાપ્ત થાય છે."
+          },
+          "title": {
+            "sanskrit": "श्लोक 10",
+            "hindi": "श्लोक 10",
+            "english": "Verse 10",
+            "gujarati": "શ્લોક 10"
+          }
+        },
+        {
+          "id": 11,
+          "chapter_number": 13,
+          "text": {
+            "sanskrit": "समय के साथ कार्य में संतुलन बना रहता है।",
+            "hindi": "समय के साथ कर्म में संतुलन बना रहता है।",
+            "english": "Balance in actions remains with time.",
+            "gujarati": "સમય સાથે કર્મમાં સંતુલન રહે છે."
+          },
+          "title": {
+            "sanskrit": "श्लोक 11",
+            "hindi": "श्लोक 11",
+            "english": "Verse 11",
+            "gujarati": "શ્લોક 11"
+          }
+        },
+        {
+          "id": 12,
+          "chapter_number": 13,
+          "text": {
+            "sanskrit": "योगी की कर्म करने की क्षमता आत्मा के ब्रह्मा से उत्पन्न होती है।",
+            "hindi": "योगी के कर्म की शक्ति आत्मा के ब्रह्मा से उत्पन्न होती है।",
+            "english": "The ability of a yogi to perform actions arises from the soul's connection with Brahma.",
+            "gujarati": "યોગીનું કર્મ કરવા માટેનું શક્તિ આત્માની બ્રહ્મ સાથે જોડાણમાંથી આવે છે."
+          },
+          "title": {
+            "sanskrit": "श्लोक 12",
+            "hindi": "श्लोक 12",
+            "english": "Verse 12",
+            "gujarati": "શ્લોક 12"
+          }
+        },
+        {
+          "id": 13,
+          "chapter_number": 13,
+          "text": {
+            "sanskrit": "आध्यात्मिक कार्य करते समय सच्ची खुशी मिलती है।",
+            "hindi": "आध्यात्मिक कार्य करते समय सच्ची खुशी प्राप्त होती है।",
+            "english": "True joy is attained through spiritual actions.",
+            "gujarati": "આધ્યાત્મિક કર્મો કરતા સાચી ખુશી પ્રાપ્ત થાય છે."
+          },
+          "title": {
+            "sanskrit": "श्लोक 13",
+            "hindi": "श्लोक 13",
+            "english": "Verse 13",
+            "gujarati": "શ્લોક 13"
+          }
+        },
+        {
+          "id": 14,
+          "chapter_number": 13,
+          "text": {
+            "sanskrit": "जिसे क्रिया, ज्ञान और ध्यान से सिद्ध किया जाता है, वह सर्वोच्च ब्रह्म है।",
+            "hindi": "जो क्रिया, ज्ञान और ध्यान से सिद्ध किया जाता है, वही सर्वोच्च ब्रह्म है।",
+            "english": "That which is realized through action, knowledge, and meditation is the supreme Brahman.",
+            "gujarati": "જે ક્રિયા, જ્ઞાન અને ધ્યાનથી સિદ્ધ થાય છે, તે સર્વોચ્ચ બ્રહ્મ છે."
+          },
+          "title": {
+            "sanskrit": "श्लोक 14",
+            "hindi": "श्लोक 14",
+            "english": "Verse 14",
+            "gujarati": "શ્લોક 14"
+          }
+        },
+        {
+          "id": 15,
+          "chapter_number": 13,
+          "text": {
+            "sanskrit": "सिद्धता की अवस्था में कर्म का फल नष्ट नहीं होता।",
+            "hindi": "सिद्धि की अवस्था में कर्म का फल नष्ट नहीं होता।",
+            "english": "In the state of perfection, the results of actions are not destroyed.",
+            "gujarati": "સિદ્ધિના સ્તરે કર્મના પરિણામો નાશ પામતા નથી."
+          },
+          "title": {
+            "sanskrit": "श्लोक 15",
+            "hindi": "श्लोक 15",
+            "english": "Verse 15",
+            "gujarati": "શ્લોક 15"
+          }
+        },
+        {
+          "id": 16,
+          "chapter_number": 13,
+          "text": {
+            "sanskrit": "जो आत्मा के साथ नष्ट होने के बाद है, वह कर्म के साथ नष्ट नहीं होता।",
+            "hindi": "जो आत्मा के साथ नष्ट होने के बाद है, वह कर्म के साथ नष्ट नहीं होता।",
+            "english": "That which perishes with the soul, does not perish with the actions.",
+            "gujarati": "જે આત્મા સાથે નાશ પામે છે, તે કર્મો સાથે નાશ પામતો નથી."
+          },
+          "title": {
+            "sanskrit": "श्लोक 16",
+            "hindi": "श्लोक 16",
+            "english": "Verse 16",
+            "gujarati": "શ્લોક 16"
+          }
+        },
+        {
+          "id": 17,
+          "chapter_number": 13,
+          "text": {
+            "sanskrit": "जैसे सूर्य की किरणें परावर्तित होती हैं, वैसे ही कर्म का फल भी कर्म के द्वारा नियंत्रित होता है।",
+            "hindi": "जैसे सूर्य की किरणें परावर्तित होती हैं, वैसे ही कर्म का फल भी कर्म द्वारा नियंत्रित होता है।",
+            "english": "Just as the rays of the sun are reflected, the result of actions is controlled by actions.",
+            "gujarati": "જેમ સૂર્યની કિરણો પ્રતિબિંબિત થાય છે, તેમ કર્મના પરિણામો પણ કર્મો દ્વારા નિયંત્રિત થાય છે."
+          },
+          "title": {
+            "sanskrit": "श्लोक 17",
+            "hindi": "श्लोक 17",
+            "english": "Verse 17",
+            "gujarati": "શ્લોક 17"
+          }
+        },
+        {
+          "id": 18,
+          "chapter_number": 13,
+          "text": {
+            "sanskrit": "योगी आत्मा के सत्य को समझता है और वह सभी कर्मों में तत्पर रहता है।",
+            "hindi": "योगी आत्मा के सत्य को समझता है और वह सभी कर्मों में तत्पर रहता है।",
+            "english": "The yogi understands the truth of the soul and remains diligent in all actions.",
+            "gujarati": "યોગી આત્માના સત્યને સમજ્યો છે અને તે દરેક કર્મોમાં તટસ્થ રહે છે."
+          },
+          "title": {
+            "sanskrit": "श्लोक 18",
+            "hindi": "श्लोक 18",
+            "english": "Verse 18",
+            "gujarati": "શ્લોક 18"
+          }
+        },
+        {
+          "id": 19,
+          "chapter_number": 13,
+          "text": {
+            "sanskrit": "जो आत्मा के तत्व से परिपूर्ण होता है, वह सभी कर्मों को कर्म से परे देखता है।",
+            "hindi": "जो आत्मा के तत्व से परिपूर्ण होता है, वह सभी कर्मों को कर्म से परे देखता है।",
+            "english": "The one who is filled with the essence of the soul sees all actions beyond actions.",
+            "gujarati": "જે આત્માના તત્વથી ભરેલો હોય છે, તે તમામ કર્મોને કર્મોથી પરે જોઈ શકે છે."
+          },
+          "title": {
+            "sanskrit": "श्लोक 19",
+            "hindi": "श्लोक 19",
+            "english": "Verse 19",
+            "gujarati": "શ્લોક 19"
+          }
+        },
+        {
+          "id": 20,
+          "chapter_number": 13,
+          "text": {
+            "sanskrit": "जो कर्म आत्मा के दृष्टिकोण से निरंतर करता है, वह शुद्धात्मा बनता है।",
+            "hindi": "जो कर्म आत्मा के दृष्टिकोण से निरंतर करता है, वह शुद्धात्मा बनता है।",
+            "english": "The one who continuously performs actions from the perspective of the soul becomes pure.",
+            "gujarati": "જે વ્યક્તિ આત્માના દૃષ્ટિકોણથી સતત કર્મ કરે છે, તે શુદ્ધ આત્મા બની જાય છે."
+          },
+          "title": {
+            "sanskrit": "श्लोक 20",
+            "hindi": "श्लोक 20",
+            "english": "Verse 20",
+            "gujarati": "શ્લોક 20"
+          }
+        },
+        {
+          "id": 21,
+          "chapter_number": 13,
+          "text": {
+            "sanskrit": "दूसरों की दृष्टि से कर्मों का मूल्य निर्धारित किया जाता है।",
+            "hindi": "दूसरों की दृष्टि से कर्मों का मूल्य निर्धारित किया जाता है।",
+            "english": "The value of actions is determined from the perspective of others.",
+            "gujarati": "અન્ય લોકોના દૃષ્ટિકોણથી કર્મોનું મૂલ્ય નિર્ધારિત થાય છે."
+          },
+          "title": {
+            "sanskrit": "श्लोक 21",
+            "hindi": "श्लोक 21",
+            "english": "Verse 21",
+            "gujarati": "શ્લોક 21"
+          }
+        },
+        {
       "id": 22,
       "chapter_number": 13,
       "text": {
@@ -5362,7 +8241,7 @@
         "gujarati": "શ્લોક 22"
       }
     },
-    {
+        {
       "id": 23,
       "chapter_number": 13,
       "text": {
@@ -5378,7 +8257,7 @@
         "gujarati": "શ્લોક 23"
       }
     },
-    {
+        {
       "id": 24,
       "chapter_number": 13,
       "text": {
@@ -5573,11 +8452,6 @@
 
 
 
-
-
-      //================================================================================================
-      //14 14 14 14================================================================================================/
-      //================================================================================================
 
 
 
@@ -6016,9 +8890,7 @@
 
 
 
-  //================================================================================================
-  //15 15 15 15================================================================================================/
-  //================================================================================================
+
 
 
     {
@@ -6341,16 +9213,6 @@
         "gujarati": "શ્લોક 20"
       }
     },
-
-
-
-
-
-
-
-  //================================================================================================
-      //16 16 16 16================================================================================================/
-      //================================================================================================
 
 
 
@@ -6693,7 +9555,7 @@
           "gujarati": "શ્લોક 21"
         }
       },
-        {
+      {
           "id": 22,
           "chapter_number": 16,
           "text": {
@@ -6709,7 +9571,7 @@
             "gujarati": "શ્લોક 22"
           }
         },
-        {
+      {
           "id": 23,
           "chapter_number": 16,
           "text": {
@@ -6725,7 +9587,7 @@
             "gujarati": "શ્લોક 23"
           }
         },
-        {
+      {
           "id": 24,
           "chapter_number": 16,
           "text": {
@@ -6743,14 +9605,6 @@
         },
 
 
-
-
-
-
-
-      //================================================================================================
-      //117 17 17 17================================================================================================/
-      //================================================================================================
 
 
 
@@ -6899,7 +9753,7 @@
             "gujarati": "શ્લોક 9"
           }
         },
-      {
+        {
         "id": 11,
         "chapter_number": 17,
         "text": {
@@ -6915,7 +9769,7 @@
           "gujarati": "શ્લોક 11"
         }
       },
-      {
+        {
         "id": 12,
         "chapter_number": 17,
         "text": {
@@ -6931,7 +9785,7 @@
           "gujarati": "શ્લોક 12"
         }
       },
-      {
+        {
         "id": 13,
         "chapter_number": 17,
         "text": {
@@ -6947,7 +9801,7 @@
           "gujarati": "શ્લોક 13"
         }
       },
-      {
+        {
         "id": 14,
         "chapter_number": 17,
         "text": {
@@ -6963,7 +9817,7 @@
           "gujarati": "શ્લોક 14"
         }
       },
-      {
+        {
         "id": 15,
         "chapter_number": 17,
         "text": {
@@ -6979,7 +9833,7 @@
           "gujarati": "શ્લોક 15"
         }
       },
-      {
+        {
         "id": 16,
         "chapter_number": 17,
         "text": {
@@ -6995,7 +9849,7 @@
           "gujarati": "શ્લોક 16"
         }
       },
-      {
+        {
         "id": 17,
         "chapter_number": 17,
         "text": {
@@ -7011,7 +9865,7 @@
           "gujarati": "શ્લોક 17"
         }
       },
-      {
+        {
         "id": 18,
         "chapter_number": 17,
         "text": {
@@ -7027,7 +9881,7 @@
           "gujarati": "શ્લોક 18"
         }
       },
-      {
+        {
         "id": 19,
         "chapter_number": 17,
         "text": {
@@ -7043,7 +9897,7 @@
           "gujarati": "શ્લોક 19"
         }
       },
-      {
+        {
         "id": 20,
         "chapter_number": 17,
         "text": {
@@ -7059,7 +9913,7 @@
           "gujarati": "શ્લોક 20"
         }
       },
-      {
+        {
         "id": 21,
         "chapter_number": 17,
         "text": {
@@ -7075,7 +9929,7 @@
           "gujarati": "શ્લોક 21"
         }
       },
-      {
+        {
         "id": 22,
         "chapter_number": 17,
         "text": {
@@ -7091,7 +9945,7 @@
           "gujarati": "શ્લોક 22"
         }
       },
-      {
+        {
         "id": 23,
         "chapter_number": 17,
         "text": {
@@ -7107,99 +9961,93 @@
           "gujarati": "શ્લોક 23"
         }
       },
-      {
-        "id": 24,
-        "chapter_number": 17,
-        "text": {
-          "sanskrit": "विश्वास और समर्पण का आध्यात्मिक जीवन में महत्व है।",
-          "hindi": "विश्वास और समर्पण का आध्यात्मिक जीवन में एक बहुत महत्वपूर्ण स्थान है।",
-          "english": "Faith and surrender hold a very important place in the spiritual life.",
-          "gujarati": "વિશ્વાસ અને સમર્પણનો આધ્યાત્મિક જીવનમાં મહત્વપૂર્ણ સ્થાન છે."
-        },
-        "title": {
-          "sanskrit": "श्लोक 24",
-          "hindi": "श्लोक 24",
-          "english": "Verse 24",
-          "gujarati": "શ્લોક 24"
-        }
-      },
-      {
-        "id": 25,
-        "chapter_number": 17,
-        "text": {
-          "sanskrit": "ज्ञान, ध्यान, और साधना से जुड़ी पूजा का योगदान शुद्धता में है।",
-          "hindi": "ज्ञान, ध्यान और साधना से जुड़ी पूजा शुद्धता को बढ़ावा देती है।",
-          "english": "Worship linked with knowledge, meditation, and practice increases purity.",
-          "gujarati": "જ્ઞાન, ધ્યાન અને અભ્યાસ સાથે જોડાયેલી પૂજા શુદ્ધતામાં વધારો કરે છે."
-        },
-        "title": {
-          "sanskrit": "श्लोक 25",
-          "hindi": "श्लोक 25",
-          "english": "Verse 25",
-          "gujarati": "શ્લોક 25"
-        }
-      },
-      {
-        "id": 26,
-        "chapter_number": 17,
-        "text": {
-          "sanskrit": "सभी प्रकार की पूजा में सर्वोत्तम पूजा एकाकार का अनुभव होती है।",
-          "hindi": "सभी प्रकार की पूजा का सर्वोत्तम रूप एकाकार का अनुभव करने में है।",
-          "english": "The best form of worship involves experiencing unity with the divine.",
-          "gujarati": "દરેક પ્રકારની પૂજાનો શ્રેષ્ઠ સ્વરૂપ પરમાત્મા સાથે એકતા અનુભવવામાં છે."
-        },
-        "title": {
-          "sanskrit": "श्लोक 26",
-          "hindi": "श्लोक 26",
-          "english": "Verse 26",
-          "gujarati": "શ્લોક 26"
-        }
-      },
-      {
-        "id": 27,
-        "chapter_number": 17,
-        "text": {
-          "sanskrit": "ध्यान और साधना से जुड़े व्यक्ति का अंतत: मनुष्यत्व गहरा होता है।",
-          "hindi": "ध्यान और साधना से जुड़े लोग जीवन को सार्थक और सर्वोत्तम बनाने की दिशा में बढ़ते हैं।",
-          "english": "People devoted to meditation and practice progress toward making life meaningful and perfect.",
-          "gujarati": "ધ્યાન અને અભ્યાસમાં સંલગ્ન લોકો જીવનને અર્થપૂર્ણ અને શ્રેષ્ઠ બનાવવાની દિશામાં આગળ વધે છે."
-        },
-        "title": {
-          "sanskrit": "श्लोक 27",
-          "hindi": "श्लोक 27",
-          "english": "Verse 27",
-          "gujarati": "શ્લોક 27"
-        }
-      },
-      {
-        "id": 28,
-        "chapter_number": 17,
-        "text": {
-          "sanskrit": "अंत में, भगवान से जुड़े व्यक्ति का आस्था सर्वोत्तम होती है।",
-          "hindi": "भगवान से जुड़ी पूजा और आस्था सर्वोत्तम होती है, वह जीवन को पूर्ण रूप से आशीर्वादित करती है।",
-          "english": "Finally, faith and worship connected with the Divine are the highest, and they bless life completely.",
-          "gujarati": "અખિરકાર, પરમાત્મા સાથે જોડાયેલી શ્રદ્ધા અને પૂજા શ્રેષ્ઠ છે, તે જીવનને સંપૂર્ણ રીતે આશિર્વાદિત કરે છે."
-        },
-        "title": {
-          "sanskrit": "श्लोक 28",
-          "hindi": "श्लोक 28",
-          "english": "Verse 28",
-          "gujarati": "શ્લોક 28"
-        }
-      },
-
-
-
-
-
-
-      //================================================================================================
-      //18 18 18 18================================================================================================/
-      //================================================================================================
-
-
-
         {
+          "id": 24,
+          "chapter_number": 17,
+          "text": {
+            "sanskrit": "विश्वास और समर्पण का आध्यात्मिक जीवन में महत्व है।",
+            "hindi": "विश्वास और समर्पण का आध्यात्मिक जीवन में एक बहुत महत्वपूर्ण स्थान है।",
+            "english": "Faith and surrender hold a very important place in the spiritual life.",
+            "gujarati": "વિશ્વાસ અને સમર્પણનો આધ્યાત્મિક જીવનમાં મહત્વપૂર્ણ સ્થાન છે."
+          },
+          "title": {
+            "sanskrit": "श्लोक 24",
+            "hindi": "श्लोक 24",
+            "english": "Verse 24",
+            "gujarati": "શ્લોક 24"
+          }
+        },
+        {
+          "id": 25,
+          "chapter_number": 17,
+          "text": {
+            "sanskrit": "ज्ञान, ध्यान, और साधना से जुड़ी पूजा का योगदान शुद्धता में है।",
+            "hindi": "ज्ञान, ध्यान और साधना से जुड़ी पूजा शुद्धता को बढ़ावा देती है।",
+            "english": "Worship linked with knowledge, meditation, and practice increases purity.",
+            "gujarati": "જ્ઞાન, ધ્યાન અને અભ્યાસ સાથે જોડાયેલી પૂજા શુદ્ધતામાં વધારો કરે છે."
+          },
+          "title": {
+            "sanskrit": "श्लोक 25",
+            "hindi": "श्लोक 25",
+            "english": "Verse 25",
+            "gujarati": "શ્લોક 25"
+          }
+        },
+        {
+          "id": 26,
+          "chapter_number": 17,
+          "text": {
+            "sanskrit": "सभी प्रकार की पूजा में सर्वोत्तम पूजा एकाकार का अनुभव होती है।",
+            "hindi": "सभी प्रकार की पूजा का सर्वोत्तम रूप एकाकार का अनुभव करने में है।",
+            "english": "The best form of worship involves experiencing unity with the divine.",
+            "gujarati": "દરેક પ્રકારની પૂજાનો શ્રેષ્ઠ સ્વરૂપ પરમાત્મા સાથે એકતા અનુભવવામાં છે."
+          },
+          "title": {
+            "sanskrit": "श्लोक 26",
+            "hindi": "श्लोक 26",
+            "english": "Verse 26",
+            "gujarati": "શ્લોક 26"
+          }
+        },
+        {
+          "id": 27,
+          "chapter_number": 17,
+          "text": {
+            "sanskrit": "ध्यान और साधना से जुड़े व्यक्ति का अंतत: मनुष्यत्व गहरा होता है।",
+            "hindi": "ध्यान और साधना से जुड़े लोग जीवन को सार्थक और सर्वोत्तम बनाने की दिशा में बढ़ते हैं।",
+            "english": "People devoted to meditation and practice progress toward making life meaningful and perfect.",
+            "gujarati": "ધ્યાન અને અભ્યાસમાં સંલગ્ન લોકો જીવનને અર્થપૂર્ણ અને શ્રેષ્ઠ બનાવવાની દિશામાં આગળ વધે છે."
+          },
+          "title": {
+            "sanskrit": "श्लोक 27",
+            "hindi": "श्लोक 27",
+            "english": "Verse 27",
+            "gujarati": "શ્લોક 27"
+          }
+        },
+        {
+          "id": 28,
+          "chapter_number": 17,
+          "text": {
+            "sanskrit": "अंत में, भगवान से जुड़े व्यक्ति का आस्था सर्वोत्तम होती है।",
+            "hindi": "भगवान से जुड़ी पूजा और आस्था सर्वोत्तम होती है, वह जीवन को पूर्ण रूप से आशीर्वादित करती है।",
+            "english": "Finally, faith and worship connected with the Divine are the highest, and they bless life completely.",
+            "gujarati": "અખિરકાર, પરમાત્મા સાથે જોડાયેલી શ્રદ્ધા અને પૂજા શ્રેષ્ઠ છે, તે જીવનને સંપૂર્ણ રીતે આશિર્વાદિત કરે છે."
+          },
+          "title": {
+            "sanskrit": "श्लोक 28",
+            "hindi": "श्लोक 28",
+            "english": "Verse 28",
+            "gujarati": "શ્લોક 28"
+          }
+        },
+
+
+
+
+
+
+    {
           "id": 1,
           "chapter_number": 18,
           "text": {
@@ -7215,7 +10063,7 @@
             "gujarati": "શ્લોક 1"
           }
         },
-        {
+    {
           "id": 2,
           "chapter_number": 18,
           "text": {
@@ -7231,7 +10079,7 @@
             "gujarati": "શ્લોક 2"
           }
         },
-        {
+    {
           "id": 3,
           "chapter_number": 18,
           "text": {
@@ -7247,7 +10095,7 @@
             "gujarati": "શ્લોક 3"
           }
         },
-        {
+    {
           "id": 4,
           "chapter_number": 18,
           "text": {
@@ -7263,7 +10111,7 @@
             "gujarati": "શ્લોક 4"
           }
         },
-        {
+    {
           "id": 5,
           "chapter_number": 18,
           "text": {
@@ -7279,7 +10127,7 @@
             "gujarati": "શ્લોક 5"
           }
         },
-        {
+    {
           "id": 6,
           "chapter_number": 18,
           "text": {
@@ -7295,7 +10143,7 @@
             "gujarati": "શ્લોક 6"
           }
         },
-        {
+    {
           "id": 7,
           "chapter_number": 18,
           "text": {
@@ -7311,7 +10159,7 @@
             "gujarati": "શ્લોક 7"
           }
         },
-        {
+    {
           "id": 8,
           "chapter_number": 18,
           "text": {
@@ -8450,7 +11298,3 @@
 
 
 ]
-
-
-
-

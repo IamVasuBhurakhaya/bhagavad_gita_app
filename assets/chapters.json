@@ -1,4 +1,5 @@
 [
+
   {
     "chapter_number": {
       "hindi": "अध्याय 1",
@@ -19,6 +20,8 @@
     },
     "verses_count": 47
   },
+
+
   {
     "chapter_number": {
       "hindi": "अध्याय 2",
@@ -79,7 +82,6 @@
     },
     "verses_count": 42
   },
-
   {
     "chapter_number": {
       "hindi": "अध्याय 5",
@@ -100,7 +102,6 @@
     },
     "verses_count": 29
   },
-
   {
     "chapter_number": {
       "hindi": "अध्याय 6",
@@ -181,8 +182,6 @@
       },
       "verses_count": 34
     },
-
-
   {
       "chapter_number": {
         "hindi": "अध्याय 10",
@@ -223,8 +222,6 @@
       },
       "verses_count": 55
     },
-
-
   {
       "chapter_number": {
         "hindi": "अध्याय 12",
@@ -245,8 +242,6 @@
       },
       "verses_count": 20
     },
-
-
   {
       "chapter_number": {
         "hindi": "अध्याय 13",
