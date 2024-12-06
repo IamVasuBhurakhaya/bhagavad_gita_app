@@ -45,7 +45,6 @@ The **Shree Bhagavad Gita App** is a beautifully crafted digital platform that b
 ---
 
 
-<img src="https://github.com/user-attachments/assets/a17e80a3-c166-4530-b390-de4242da7c13" height= 600 width=300>
 <img src="https://github.com/user-attachments/assets/61882e11-0241-4c77-a605-e773563f453b" height= 600 width=300>
 <img src="https://github.com/user-attachments/assets/764d260e-0c94-451c-9514-d0c43a88a9b8" height= 600 width=300>
 <img src="https://github.com/user-attachments/assets/1acc343a-4579-4d37-add9-4b41a6795d55" height= 600 width=300>
