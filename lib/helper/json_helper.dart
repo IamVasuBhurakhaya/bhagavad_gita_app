@@ -1,16 +1,17 @@
 import 'dart:convert';
 
-import 'package:bhagavad_gita_app/model/json_model/json_model.dart';
+import 'package:bhagavad_gita_app/model/json_model/chapter_model.dart';
+import 'package:bhagavad_gita_app/model/json_model/verses_model.dart';
 import 'package:flutter/services.dart';
 
 class JsonHelper {
-  Future<List<BhagavadGitaModel>> chapterJsonParsing() async {
+  Future<List<ChapterModel>> chapterJsonParsing() async {
     String jsonString = await rootBundle.loadString("assets/chapters.json");
     List jsonList = jsonDecode(jsonString);
 
-    List<BhagavadGitaModel> chapterList = jsonList
+    List<ChapterModel> chapterList = jsonList
         .map(
-          (e) => BhagavadGitaModel(
+          (e) => ChapterModel(
             id: e['id'],
             verses_count: e['verses_count'],
             chapter_summary: e['chapter_summary'],
@@ -25,5 +26,22 @@ class JsonHelper {
         .toList();
 
     return chapterList;
+  }
+
+  Future<List<VersesModel>> versesJsonParsing() async {
+    String? json = await rootBundle.loadString("assets/verses.json");
+    List jsonList = jsonDecode(json);
+
+    List<VersesModel> versesList = jsonList
+        .map(
+          (e) => VersesModel(
+            id: e['id'],
+            chapter_number: e['chapter_number'],
+            textModel: TextModel.mapTOModel(e['text']),
+            titleModel: TitleModel.mapTOModel(e['title']),
+          ),
+        )
+        .toList();
+    return versesList;
   }
 }

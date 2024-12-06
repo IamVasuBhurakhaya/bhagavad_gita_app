@@ -1,4 +1,4 @@
-class BhagavadGitaModel {
+class ChapterModel {
   int? id, verses_count;
   String? chapter_summary,
       chapter_summary_hindi,
@@ -8,7 +8,7 @@ class BhagavadGitaModel {
   ChapterNumberModel? chapterNumberModel;
   NameModel? nameModel;
 
-  BhagavadGitaModel({
+  ChapterModel({
     this.id,
     this.verses_count,
     this.chapter_summary,
@@ -19,8 +19,8 @@ class BhagavadGitaModel {
     this.nameModel,
   });
 
-  factory BhagavadGitaModel.mapToModel(Map m1) {
-    return BhagavadGitaModel(
+  factory ChapterModel.mapToModel(Map m1) {
+    return ChapterModel(
         id: m1['id'],
         verses_count: m1['verses_count'],
         chapter_summary: m1['chapter_summary'],
