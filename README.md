@@ -45,13 +45,13 @@ The **Shree Bhagavad Gita App** is a beautifully crafted digital platform that b
 ---
 
 
-<img src="https://github.com/user-attachments/assets/a17e80a3-c166-4530-b390-de4242da7c13" height= 500 width=300>
-<img src="https://github.com/user-attachments/assets/61882e11-0241-4c77-a605-e773563f453b" height= 500 width=300>
-<img src="https://github.com/user-attachments/assets/764d260e-0c94-451c-9514-d0c43a88a9b8" height= 500 width=300>
-<img src="https://github.com/user-attachments/assets/1acc343a-4579-4d37-add9-4b41a6795d55" height= 500 width=300>
-<img src="https://github.com/user-attachments/assets/acde6033-fe43-4c36-90bf-95c7eb82b108" height= 500 width=300>
-<img src="https://github.com/user-attachments/assets/b566648c-4d4b-4411-b0f0-67957f7d0369" height= 500 width=300>
-<img src="https://github.com/user-attachments/assets/37abe570-7786-415c-ace9-f9d36530c4f8" height= 500 width=300>
+<img src="https://github.com/user-attachments/assets/a17e80a3-c166-4530-b390-de4242da7c13" height= 550 width=300>
+<img src="https://github.com/user-attachments/assets/61882e11-0241-4c77-a605-e773563f453b" height= 550 width=300>
+<img src="https://github.com/user-attachments/assets/764d260e-0c94-451c-9514-d0c43a88a9b8" height= 550 width=300>
+<img src="https://github.com/user-attachments/assets/1acc343a-4579-4d37-add9-4b41a6795d55" height= 550 width=300>
+<img src="https://github.com/user-attachments/assets/acde6033-fe43-4c36-90bf-95c7eb82b108" height= 550 width=300>
+<img src="https://github.com/user-attachments/assets/b566648c-4d4b-4411-b0f0-67957f7d0369" height= 550 width=300>
+<img src="https://github.com/user-attachments/assets/37abe570-7786-415c-ace9-f9d36530c4f8" height= 550 width=300>
 
 
 https://github.com/user-attachments/assets/498984c9-f7fa-4c41-8e07-485d8523858f
