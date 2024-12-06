@@ -68,7 +68,6 @@ class JsonProvider with ChangeNotifier {
     return 'assets/bg/default.jpg';
   }
 
-  void changeVerseIndexAsVerseNo(int chapterNo) {}
 
   FlutterTts flutterTts = FlutterTts();
   bool isPlay = false;
