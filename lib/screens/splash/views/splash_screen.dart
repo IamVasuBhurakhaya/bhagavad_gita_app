@@ -13,8 +13,8 @@ class SplashScreen extends StatefulWidget {
 
 class _SplashScreenState extends State<SplashScreen>
     with SingleTickerProviderStateMixin {
-  late AnimationController _controller;
-  late Animation<double> _blurAnimation;
+  late AnimationController controller;
+  late Animation<double> blurAnimation;
 
   double opacityValue = 1.0;
 
@@ -22,28 +22,24 @@ class _SplashScreenState extends State<SplashScreen>
   void initState() {
     super.initState();
 
-    // Initialize animation controller
-    _controller = AnimationController(
+    controller = AnimationController(
       vsync: this,
       duration: const Duration(milliseconds: 800),
     );
 
-    // Define blur animation
-    _blurAnimation = Tween<double>(begin: 0.0, end: 10.0).animate(
+    blurAnimation = Tween<double>(begin: 0.0, end: 10.0).animate(
       CurvedAnimation(
-        parent: _controller,
+        parent: controller,
         curve: Curves.easeInOut,
       ),
     );
 
-    // Start animations with a delay
     Timer(const Duration(seconds: 3), () {
       setState(() {
-        opacityValue = 0.0; // Start fade-out
+        opacityValue = 0.0;
       });
-      _controller.forward(); // Start blur animation
+      controller.forward();
 
-      // Navigate to the home screen after animations
       Timer(const Duration(milliseconds: 800), () {
         Navigator.of(context).pushReplacementNamed(AppRoutes.home);
       });
@@ -52,7 +48,7 @@ class _SplashScreenState extends State<SplashScreen>
 
   @override
   void dispose() {
-    _controller.dispose();
+    controller.dispose();
     super.dispose();
   }
 
@@ -61,22 +57,20 @@ class _SplashScreenState extends State<SplashScreen>
     return Scaffold(
       body: Stack(
         children: [
-          // Background Image
           Positioned.fill(
             child: Image.asset(
               "assets/image/cover2.jpg",
               fit: BoxFit.fill,
             ),
           ),
-          // Blur Animation
           Positioned.fill(
             child: AnimatedBuilder(
-              animation: _blurAnimation,
+              animation: blurAnimation,
               builder: (context, child) {
                 return BackdropFilter(
                   filter: ImageFilter.blur(
-                    sigmaX: _blurAnimation.value,
-                    sigmaY: _blurAnimation.value,
+                    sigmaX: blurAnimation.value,
+                    sigmaY: blurAnimation.value,
                   ),
                   child: Container(
                     color: Colors.black.withOpacity(0.3),
@@ -85,7 +79,6 @@ class _SplashScreenState extends State<SplashScreen>
               },
             ),
           ),
-          // Fade-Out Animation
           Positioned.fill(
             child: AnimatedOpacity(
               duration: const Duration(milliseconds: 800),
@@ -95,29 +88,26 @@ class _SplashScreenState extends State<SplashScreen>
               ),
             ),
           ),
-          // Animated Text
-          Align(
-            alignment: Alignment.center,
-            child: Padding(
-              padding: const EdgeInsets.symmetric(horizontal: 20.0),
-              child: DefaultTextStyle(
-                style: const TextStyle(
-                  fontSize: 44.0,
-                  fontWeight: FontWeight.bold,
-                  color: Colors.white,
-                ),
-                child: AnimatedTextKit(
-                  animatedTexts: [
-                    TypewriterAnimatedText(
-                      'श्रीमद भगवत गीता',
-                      textStyle: const TextStyle(
-                        color: Color(0xff800000),
-                      ),
-                      speed: const Duration(milliseconds: 140),
+          Positioned(
+            top: 34,
+            right: 20,
+            child: DefaultTextStyle(
+              style: const TextStyle(
+                fontSize: 44.0,
+                fontWeight: FontWeight.bold,
+                color: Colors.white,
+              ),
+              child: AnimatedTextKit(
+                animatedTexts: [
+                  TypewriterAnimatedText(
+                    'श्रीमद भगवद्‍ गीता',
+                    textStyle: const TextStyle(
+                      color: Color(0xff800000),
                     ),
-                  ],
-                  isRepeatingAnimation: false,
-                ),
+                    speed: const Duration(milliseconds: 140),
+                  ),
+                ],
+                isRepeatingAnimation: false,
               ),
             ),
           ),

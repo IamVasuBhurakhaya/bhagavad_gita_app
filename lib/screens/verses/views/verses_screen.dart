@@ -1,6 +1,7 @@
 import 'dart:ui';
 import 'package:bhagavad_gita_app/model/json_model/chapter_model.dart';
 import 'package:bhagavad_gita_app/provider/json_provider.dart';
+import 'package:bhagavad_gita_app/routes/app_routes.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
@@ -117,7 +118,7 @@ class _VersesScreenState extends State<VersesScreen> {
               ),
             ),
             Positioned(
-              top: 40,
+              top: 10,
               left: 10,
               child: IconButton(
                 icon: Icon(Icons.arrow_back, color: Colors.white),
@@ -218,6 +219,12 @@ class _VersesScreenState extends State<VersesScreen> {
                               borderRadius: BorderRadius.circular(20),
                             ),
                             child: ListTile(
+                              onTap: () {
+                                Navigator.of(context).pushNamed(
+                                  AppRoutes.pageView,
+                                  arguments: {'initialIndex': index},
+                                );
+                              },
                               leading: Container(
                                 width: 40,
                                 height: 40,
