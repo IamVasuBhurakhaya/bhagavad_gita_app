@@ -15,8 +15,9 @@ class MyApp extends StatelessWidget {
     return MultiProvider(
       providers: [
         ChangeNotifierProvider.value(
-          value: JsonProvider(),
-        ),
+            value: JsonProvider()
+              ..getChapterData()
+              ..getVersesData()),
       ],
       child: MaterialApp(
         debugShowCheckedModeBanner: false,

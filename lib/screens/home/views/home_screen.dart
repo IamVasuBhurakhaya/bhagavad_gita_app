@@ -12,17 +12,11 @@ class HomeScreen extends StatefulWidget {
 }
 
 class _HomeScreenState extends State<HomeScreen> {
-  late JsonProvider providerR;
-  late JsonProvider providerW;
-
-  // Language state
-  String selectedLanguage = 'sanskrit'; // Default language
-
-  final Map<String, String> appBarTitles = {
-    'sanskrit': 'श्रीमद भगवद्‍  गीता',
-    'hindi': 'श्रीमद् भगवद्गीता',
-    'english': 'Srimad Bhagavad Gita',
-    'gujarati': 'શ્રીમદ્ ભગવદ ગીતા',
+  final Map<int, String> appBarTitles = {
+    0: 'श्रीमद भगवद्‍ गीता',
+    1: 'श्रीमद् भगवद्गीता',
+    2: 'Srimad Bhagavad Gita',
+    3: 'શ્રીમદ્ ભગવદ ગીતા',
   };
 
   @override
@@ -33,22 +27,20 @@ class _HomeScreenState extends State<HomeScreen> {
 
   @override
   Widget build(BuildContext context) {
-    providerR = context.read<JsonProvider>();
-    providerW = context.watch<JsonProvider>();
+    final providerR = context.read<JsonProvider>();
+    final providerW = context.watch<JsonProvider>();
 
     return Scaffold(
       appBar: PreferredSize(
         preferredSize: const Size.fromHeight(120),
         child: Stack(
           children: [
-            // Background Image in AppBar
             Positioned.fill(
               child: Image.asset(
-                'assets/image/appBar.jpg', // Replace with your AppBar background image path
+                'assets/image/appBar.jpg',
                 fit: BoxFit.cover,
               ),
             ),
-            // Semi-transparent Overlay for Maroon Shade
             Positioned.fill(
               child: Container(
                 decoration: BoxDecoration(
@@ -63,10 +55,9 @@ class _HomeScreenState extends State<HomeScreen> {
                 ),
               ),
             ),
-            // Centered Title
             Center(
               child: Text(
-                appBarTitles[selectedLanguage] ?? '',
+                appBarTitles[providerW.languageIndex] ?? '',
                 style: const TextStyle(
                   fontSize: 36,
                   height: 1.8,
@@ -76,52 +67,40 @@ class _HomeScreenState extends State<HomeScreen> {
                 ),
               ),
             ),
-            // Dropdown in Top-Right Corner
             Positioned(
               top: 85,
               right: 4,
               child: Container(
                 padding: const EdgeInsets.symmetric(horizontal: 2, vertical: 0),
-                decoration: BoxDecoration(
-                  // color: Colors.black.withOpacity(0.3),
-                  borderRadius: BorderRadius.circular(10),
-                  boxShadow: [
-                    BoxShadow(
-                      color: Colors.black.withOpacity(0.3),
-                      offset: const Offset(2, 2),
-                      blurRadius: 5,
-                    ),
-                  ],
-                ),
-                child: DropdownButton<String>(
-                  value: selectedLanguage,
+                child: DropdownButton<int>(
+                  value: providerW.languageIndex,
                   dropdownColor: Colors.black87.withOpacity(0.6),
                   icon: const Icon(Icons.language, color: Colors.white),
-                  underline: Container(),
+                  underline: Container(color: Colors.white),
                   style: const TextStyle(color: Colors.white),
                   borderRadius: BorderRadius.circular(10),
                   items: const [
                     DropdownMenuItem(
-                      value: 'sanskrit',
-                      child: Text('संस्कृत'),
+                      value: 0,
+                      child: Text(
+                        "Sanskrit",
+                      ),
                     ),
                     DropdownMenuItem(
-                      value: 'hindi',
-                      child: Text('हिन्दी'),
+                      value: 1,
+                      child: Text("Hindi"),
                     ),
                     DropdownMenuItem(
-                      value: 'english',
-                      child: Text('English'),
+                      value: 2,
+                      child: Text("English"),
                     ),
                     DropdownMenuItem(
-                      value: 'gujarati',
-                      child: Text('ગુજરાતી'),
+                      value: 3,
+                      child: Text("Gujarati"),
                     ),
                   ],
                   onChanged: (value) {
-                    setState(() {
-                      selectedLanguage = value!;
-                    });
+                    providerR.setLanguageIndex(value!);
                   },
                 ),
               ),
@@ -131,10 +110,9 @@ class _HomeScreenState extends State<HomeScreen> {
       ),
       body: Stack(
         children: [
-          // Background Image with Blur Effect
           Positioned.fill(
             child: Image.asset(
-              'assets/image/cover2.jpg', // Replace with your body background image path
+              'assets/image/cover2.jpg',
               fit: BoxFit.fill,
             ),
           ),
@@ -146,69 +124,110 @@ class _HomeScreenState extends State<HomeScreen> {
               ),
             ),
           ),
-          // Foreground Content
           ListView.builder(
             itemCount: providerW.chapterList.length,
             itemBuilder: (context, index) {
               final chapter = providerW.chapterList[index];
-              final chapterName = selectedLanguage == 'sanskrit'
+
+              final chapterName = providerW.languageIndex == 0
                   ? chapter.nameModel!.sanskrit
-                  : selectedLanguage == 'hindi'
+                  : providerW.languageIndex == 1
                       ? chapter.nameModel!.hindi
-                      : selectedLanguage == 'english'
+                      : providerW.languageIndex == 2
                           ? chapter.nameModel!.english
-                          : chapter.nameModel!.gujarati; // Gujarati support
+                          : chapter.nameModel!.gujarati;
+
+              final chapterSubtitle = providerW.languageIndex == 0
+                  ? chapter.chapterNumberModel!.sanskrit
+                  : providerW.languageIndex == 1
+                      ? chapter.chapterNumberModel!.hindi
+                      : providerW.languageIndex == 2
+                          ? chapter.chapterNumberModel!.english
+                          : chapter.chapterNumberModel!.gujarati;
 
               return Padding(
                 padding:
                     const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
                 child: Card(
-                  elevation: 5,
+                  elevation: 8,
                   shape: RoundedRectangleBorder(
-                    borderRadius: BorderRadius.circular(15),
+                    borderRadius: BorderRadius.circular(20),
                   ),
-                  child: ListTile(
-                    onTap: () {
-                      providerR
-                          .chapterWiseVerse(providerW.chapterList[index].id!);
-                      Navigator.pushNamed(context, AppRoutes.verses,
-                          arguments: providerW.chapterList[index]);
-                    },
-                    leading: Container(
-                      width: 50,
-                      height: 50,
-                      decoration: BoxDecoration(
-                        shape: BoxShape.circle,
-                        gradient: const LinearGradient(
-                          colors: [Colors.pink, Colors.orange],
-                          begin: Alignment.topLeft,
-                          end: Alignment.bottomRight,
-                        ),
+                  child: Container(
+                    decoration: BoxDecoration(
+                      gradient: LinearGradient(
+                        colors: [
+                          Colors.orange.shade100,
+                          Colors.yellow.shade200,
+                          Colors.deepOrange.shade100
+                        ],
+                        begin: Alignment.topLeft,
+                        end: Alignment.bottomRight,
                       ),
-                      child: Center(
-                        child: Text(
-                          chapter.id.toString(),
-                          style: const TextStyle(
-                            color: Colors.white,
-                            fontWeight: FontWeight.bold,
-                            fontSize: 18,
+                      borderRadius: BorderRadius.circular(20),
+                      boxShadow: const [
+                        BoxShadow(
+                          color: Colors.black26,
+                          blurRadius: 5,
+                          offset: Offset(3, 3),
+                        ),
+                      ],
+                    ),
+                    child: ListTile(
+                      onTap: () {
+                        providerR
+                            .chapterWiseVerse(providerW.chapterList[index].id!);
+                        Navigator.pushNamed(context, AppRoutes.verses,
+                            arguments: providerW.chapterList[index]);
+                      },
+                      leading: Container(
+                        width: 50,
+                        height: 50,
+                        decoration: BoxDecoration(
+                          shape: BoxShape.circle,
+                          gradient: const LinearGradient(
+                            colors: [Colors.redAccent, Colors.yellowAccent],
+                            begin: Alignment.topCenter,
+                            end: Alignment.bottomCenter,
+                          ),
+                          border: Border.all(color: Colors.white, width: 2),
+                        ),
+                        child: Center(
+                          child: Text(
+                            chapter.id.toString(),
+                            style: const TextStyle(
+                              color: Colors.white,
+                              fontWeight: FontWeight.bold,
+                              fontSize: 22,
+                            ),
                           ),
                         ),
                       ),
-                    ),
-                    title: Text(
-                      chapterName!,
-                      style: const TextStyle(
-                        fontSize: 18,
-                        fontWeight: FontWeight.bold,
-                        color: Colors.black87,
+                      title: Text(
+                        chapterName ?? '',
+                        style: const TextStyle(
+                          fontSize: 22,
+                          fontWeight: FontWeight.bold,
+                          color: Colors.deepOrange,
+                        ),
                       ),
-                    ),
-                    subtitle: Text(
-                      "${providerW.chapterList[index].nameModel!.hindi}", // Default subtitle
-                      style: const TextStyle(
-                        fontSize: 14,
-                        color: Colors.grey,
+                      subtitle: Row(
+                        children: [
+                          const Icon(Icons.menu_book,
+                              color: Colors.deepOrange, size: 18),
+                          const SizedBox(width: 5),
+                          Text(
+                            chapterSubtitle ?? '',
+                            style: const TextStyle(
+                              fontSize: 18,
+                              color: Colors.brown,
+                            ),
+                          ),
+                        ],
+                      ),
+                      trailing: const Icon(
+                        Icons.arrow_forward_ios,
+                        color: Colors.deepOrange,
                       ),
                     ),
                   ),
